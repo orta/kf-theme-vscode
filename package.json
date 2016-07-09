@@ -1,9 +1,9 @@
 {
-	"name": "theme-karyfoundation-light",
-	"displayName": "Kary Foundation Light",
-	"description": "Kary Foundation's light code theme",
+	"name": "theme-karyfoundation-themes",
+	"displayName": "Kary Foundation Themes",
+	"description": "Kary Foundation's light and dark themes.",
 	"version": "0.0.1",
-	"publisher": "kary",
+	"publisher": "karyfoundation",
 	"engines": {
 		"vscode": "^0.10.1"
 	},
