@@ -1,0 +1,27 @@
+{
+	"name": "theme-karyfoundation-light",
+	"displayName": "Kary Foundation Light",
+	"description": "Kary Foundation's light code theme",
+	"version": "0.0.1",
+	"publisher": "kary",
+	"engines": {
+		"vscode": "^0.10.1"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Kary Foundation Light",
+				"uiTheme": "vs",
+				"path": "./themes/karyLight.tmTheme"
+			},
+			{
+				"label": "Kary Foundation Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/karyDark.tmTheme"
+			}
+		]
+	}
+}
