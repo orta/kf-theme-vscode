@@ -24,7 +24,14 @@ From what we noticed [iA Writer](https://ia.net/writer) has the most carefully d
 ## How to use it?
 #### Visual Studio Code
 Open  `<user home>/.vscode/extensions` folder, put a clone of this repo inside it and restart Code.
+
 #### Sublime Text
 After cloning this repo in your Sublime use `Preferences` > `Browse Packages…` open the folder and put `.tmTheme` files from the `Themes` folder into it. 
+
+#### Atom
+Use our official ports for Atom available via atom package manage (APM):
+- [Kary Foundation Light](https://atom.io/packages/kary-foundation-light)
+- [Kary Foundation Dark](https://atom.io/packages/kary-foundation-dark)
+
 #### Any other editor that supports .tmThemes
 Files are provided under the `Themes` directory. Use your editors guides and install the themes.
