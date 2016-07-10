@@ -32,7 +32,7 @@ ext install theme-karyfoundation-themes
 After cloning this repo in your Sublime use `Preferences` > `Browse Packages…` open the folder and put `.tmTheme` files from the `Themes` folder into it. 
 
 #### Atom
-Use our official ports for Atom available via atom package manage (APM):
+Use our official ports for Atom available via atom package manager (APM):
 - [Kary Foundation Light](https://atom.io/packages/kary-foundation-light)
 - [Kary Foundation Dark](https://atom.io/packages/kary-foundation-dark)
 
