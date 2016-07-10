@@ -23,7 +23,10 @@ From what we noticed [iA Writer](https://ia.net/writer) has the most carefully d
 
 ## How to use it?
 #### Visual Studio Code
-Open  `<user home>/.vscode/extensions` folder, put a clone of this repo inside it and restart Code.
+It's available from the marketplace, Just simply run:
+```
+ext install theme-karyfoundation-themes
+```
 
 #### Sublime Text
 After cloning this repo in your Sublime use `Preferences` > `Browse Packages…` open the folder and put `.tmTheme` files from the `Themes` folder into it. 
