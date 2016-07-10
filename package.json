@@ -4,6 +4,7 @@
 	"description": "Kary Foundation's light and dark themes.",
 	"version": "0.0.1",
 	"publisher": "karyfoundation",
+	"icon": "icon.png",
 	"engines": {
 		"vscode": "^0.10.1"
 	},
