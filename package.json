@@ -1,28 +1,28 @@
 {
-	"name": "theme-karyfoundation-themes",
-	"displayName": "Kary Foundation Themes",
-	"description": "Kary Foundation's light and dark themes.",
-	"version": "0.0.1",
-	"publisher": "karyfoundation",
-	"icon": "icon.png",
-	"engines": {
-		"vscode": "^0.10.1"
-	},
-	"categories": [
-		"Themes"
-	],
-	"contributes": {
-		"themes": [
-			{
-				"label": "Kary Foundation Light",
-				"uiTheme": "vs",
-				"path": "./themes/karyLight.tmTheme"
-			},
-			{
-				"label": "Kary Foundation Dark",
-				"uiTheme": "vs-dark",
-				"path": "./themes/karyDark.tmTheme"
-			}
-		]
-	}
+    "name": "theme-karyfoundation-themes",
+    "displayName": "Kary Foundation Themes",
+    "description": "Kary Foundation's light and dark themes.",
+    "version": "1.1.0",
+    "publisher": "karyfoundation",
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "^0.10.1"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Kary Foundation Light",
+                "uiTheme": "vs",
+                "path": "./themes/karyLight.tmTheme"
+            },
+            {
+                "label": "Kary Foundation Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/karyDark.tmTheme"
+            }
+        ]
+    }
 }
