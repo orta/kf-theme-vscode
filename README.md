@@ -43,4 +43,6 @@ Files are provided under the `Themes` directory. Use your editors guides and ins
 To use it best, we suggest you use the [ _Medium_ weight of _Adobe Source Code Pro_ ](https://adobe-fonts.github.io/source-code-pro) typeface. they are the best matches for each other :D
 
 <br />
-<img src="http://www.karyfoundation.org/foundation/logo/github-full-horse.png" width="250"/>
+<a href="http://www.karyfoundation.org/">
+    <img src="http://www.karyfoundation.org/foundation/logo/github-full-horse.png" width="250"/>
+</a>
