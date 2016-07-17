@@ -13,13 +13,26 @@ From what we noticed [iA Writer](https://ia.net/writer) has the most carefully d
 
 ## The theme…
 
-#### Light Theme
+### Arendelle
+<img width="627" alt="screen shot 2016-07-17 at 9 51 37 pm" src="https://cloud.githubusercontent.com/assets/2157285/16902039/bf26bd88-4c68-11e6-8f50-239c5fdff603.png">
 
-![](http://kary.us/GitHubWideImages/kf-themes/light.png)
+<img width="583" alt="screen shot 2016-07-17 at 9 51 19 pm" src="https://cloud.githubusercontent.com/assets/2157285/16902038/bede14d4-4c68-11e6-9a79-c4158b558a83.png">
 
-#### Dark Theme
+### TypeScript
+<img width="913" alt="screen shot 2016-07-17 at 9 10 37 pm" src="https://cloud.githubusercontent.com/assets/2157285/16901977/2e7ebcdc-4c67-11e6-85a5-051fd03e0e24.png">
 
-![](http://kary.us/GitHubWideImages/kf-themes/dark.png)
+<img width="919" alt="screen shot 2016-07-17 at 9 10 10 pm" src="https://cloud.githubusercontent.com/assets/2157285/16901978/361feaba-4c67-11e6-9ef7-5e25820d4826.png">
+
+### Style Sheets
+<img width="278" alt="screen shot 2016-07-17 at 9 17 50 pm" src="https://cloud.githubusercontent.com/assets/2157285/16901985/505dc276-4c67-11e6-971c-bc7516014ff4.png">
+
+<img width="282" alt="screen shot 2016-07-17 at 9 43 00 pm" src="https://cloud.githubusercontent.com/assets/2157285/16901990/843e5240-4c67-11e6-9fd7-37ad9e298229.png">
+
+### Markup Languages
+<img width="462” alt="screen shot 2016-07-17 at 9 21 05 pm" src="https://cloud.githubusercontent.com/assets/2157285/16901986/5a17dc66-4c67-11e6-9a41-4885daf23276.png">
+
+<img width="459" alt="screen shot 2016-07-17 at 9 43 12 pm" src="https://cloud.githubusercontent.com/assets/2157285/16901991/848fc990-4c67-11e6-83ff-733e3160227f.png">
+
 
 ## How to use it?
 #### Visual Studio Code
