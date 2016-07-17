@@ -29,7 +29,7 @@ From what we noticed [iA Writer](https://ia.net/writer) has the most carefully d
 <img width="282" alt="screen shot 2016-07-17 at 9 43 00 pm" src="https://cloud.githubusercontent.com/assets/2157285/16901990/843e5240-4c67-11e6-9fd7-37ad9e298229.png">
 
 ### Markup Languages
-<img width="462” alt="screen shot 2016-07-17 at 9 21 05 pm" src="https://cloud.githubusercontent.com/assets/2157285/16901986/5a17dc66-4c67-11e6-9a41-4885daf23276.png">
+<img width="462" src="https://cloud.githubusercontent.com/assets/2157285/16901986/5a17dc66-4c67-11e6-9a41-4885daf23276.png">
 
 <img width="459" alt="screen shot 2016-07-17 at 9 43 12 pm" src="https://cloud.githubusercontent.com/assets/2157285/16901991/848fc990-4c67-11e6-83ff-733e3160227f.png">
 
