@@ -2,7 +2,7 @@
     "name": "theme-karyfoundation-themes",
     "displayName": "Kary Foundation Themes",
     "description": "Kary Foundation's light and dark themes.",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "publisher": "karyfoundation",
     "icon": "icon.png",
     "engines": {
@@ -14,12 +14,12 @@
     "contributes": {
         "themes": [
             {
-                "label": "Kary Foundation Light",
+                "label": "Kary Foundation － Light",
                 "uiTheme": "vs",
                 "path": "./themes/karyLight.tmTheme"
             },
             {
-                "label": "Kary Foundation Dark",
+                "label": "Kary Foundation － Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/karyDark.tmTheme"
             }
