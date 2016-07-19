@@ -18,20 +18,19 @@ From what we noticed [iA Writer](https://ia.net/writer) has the most carefully d
 
 <img width="583" alt="screen shot 2016-07-17 at 9 51 19 pm" src="https://cloud.githubusercontent.com/assets/2157285/16902038/bede14d4-4c68-11e6-9a79-c4158b558a83.png">
 
-### TypeScript
+### TypeScript / JavaScript
 <img width="913" alt="screen shot 2016-07-17 at 9 10 37 pm" src="https://cloud.githubusercontent.com/assets/2157285/16901977/2e7ebcdc-4c67-11e6-85a5-051fd03e0e24.png">
 
 <img width="919" alt="screen shot 2016-07-17 at 9 10 10 pm" src="https://cloud.githubusercontent.com/assets/2157285/16901978/361feaba-4c67-11e6-9ef7-5e25820d4826.png">
 
-### Style Sheets
+### CSS / Less 
 <img width="278" alt="screen shot 2016-07-17 at 9 17 50 pm" src="https://cloud.githubusercontent.com/assets/2157285/16901985/505dc276-4c67-11e6-971c-bc7516014ff4.png">
 
 <img width="282" alt="screen shot 2016-07-17 at 9 43 00 pm" src="https://cloud.githubusercontent.com/assets/2157285/16901990/843e5240-4c67-11e6-9fd7-37ad9e298229.png">
 
-### Markup Languages
-<img width="462" src="https://cloud.githubusercontent.com/assets/2157285/16901986/5a17dc66-4c67-11e6-9a41-4885daf23276.png">
-
-<img width="459" alt="screen shot 2016-07-17 at 9 43 12 pm" src="https://cloud.githubusercontent.com/assets/2157285/16901991/848fc990-4c67-11e6-83ff-733e3160227f.png">
+### HTML / XML
+<img width="704" alt="screen shot 2016-07-19 at 2 22 23 pm" src="https://cloud.githubusercontent.com/assets/2157285/16946018/cf36f170-4dbc-11e6-9342-c5aa3fbe757a.png">
+<img width="713" alt="screen shot 2016-07-19 at 2 22 31 pm" src="https://cloud.githubusercontent.com/assets/2157285/16946019/cf44c21e-4dbc-11e6-938b-8dc9b39be4aa.png">
 
 
 ## How to use it?
