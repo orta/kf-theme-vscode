@@ -29,10 +29,9 @@ From what we noticed [iA Writer](https://ia.net/writer) has the most carefully d
 <img width="282" alt="screen shot 2016-07-17 at 9 43 00 pm" src="https://cloud.githubusercontent.com/assets/2157285/16901990/843e5240-4c67-11e6-9fd7-37ad9e298229.png">
 
 ### HTML / XML
-<img width="701" alt="screen shot 2016-07-19 at 7 19 34 pm" src="https://cloud.githubusercontent.com/assets/2157285/16954474/3ef49f7a-4de6-11e6-9c0d-59a14fc02a71.png">
+<img width="701" alt="screen shot 2016-07-19 at 8 13 35 pm" src="https://cloud.githubusercontent.com/assets/2157285/16956372/72fcc5e8-4ded-11e6-97b7-a3c7da3727ac.png">
 
-<img width="701" alt="screen shot 2016-07-19 at 7 19 22 pm" src="https://cloud.githubusercontent.com/assets/2157285/16954473/3ef01054-4de6-11e6-96d1-611b867e142e.png">
-
+<img width="705" alt="screen shot 2016-07-19 at 8 13 21 pm" src="https://cloud.githubusercontent.com/assets/2157285/16956373/73c40478-4ded-11e6-999b-40cb060224a6.png">
 
 
 ## How to use it?
