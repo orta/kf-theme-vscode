@@ -52,8 +52,12 @@ Use our official ports for Atom available via atom package manager (APM):
 #### Any other editor that supports .tmThemes
 Files are provided under the `Themes` directory. Use your editors guides and install the themes.
 
-## Suggestions?
+## Good font to use with this theme?
 To use it best, we suggest you use the [ _Medium_ weight of _Adobe Source Code Pro_ ](https://adobe-fonts.github.io/source-code-pro) typeface. they are the best matches for each other :D
+
+## What's new?
+#### 1.4.3
+- Better color for TypeScript's class storage modifiers (`public`, `private`, ...)
 
 <br />
 <a href="http://www.karyfoundation.org/">
