@@ -306,9 +306,20 @@
 				<string>#B16C00</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>HTML String</string>
+			<key>scope</key>
+			<string>string.quoted.single.html, string.quoted.double.html, string.html</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#25722E</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
-	<string>D8D5E82E-3D5B-46B5-B38E-8C841C21347D</string>
+	<string>7e88f0fb-3ece-4905-9e8d-ebd393352ecb</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
