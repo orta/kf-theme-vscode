@@ -275,17 +275,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>CSS ID</string>
-			<key>scope</key>
-			<string>meta.selector.css entity.other.attribute-name.id</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#AF7836</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>Markup Headings</string>
 			<key>scope</key>
 			<string>markup.heading</string>
@@ -293,6 +282,17 @@
 			<dict>
 				<key>foreground</key>
 				<string>#A37296</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TypeScript Class Modifiers</string>
+			<key>scope</key>
+			<string>storage.modifier.ts</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#AF7836</string>
 			</dict>
 		</dict>
 	</array>
