@@ -23,7 +23,7 @@ From what we noticed [iA Writer](https://ia.net/writer) has the most carefully d
 
 <img width="919" alt="screen shot 2016-07-17 at 9 10 10 pm" src="https://cloud.githubusercontent.com/assets/2157285/16901978/361feaba-4c67-11e6-9ef7-5e25820d4826.png">
 
-### CSS / Less 
+### CSS / Less
 <img width="278" alt="screen shot 2016-07-17 at 9 17 50 pm" src="https://cloud.githubusercontent.com/assets/2157285/16901985/505dc276-4c67-11e6-971c-bc7516014ff4.png">
 
 <img width="282" alt="screen shot 2016-07-17 at 9 43 00 pm" src="https://cloud.githubusercontent.com/assets/2157285/16901990/843e5240-4c67-11e6-9fd7-37ad9e298229.png">
