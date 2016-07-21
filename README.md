@@ -29,10 +29,8 @@ From what we noticed [iA Writer](https://ia.net/writer) has the most carefully d
 <img width="282" alt="screen shot 2016-07-17 at 9 43 00 pm" src="https://cloud.githubusercontent.com/assets/2157285/16901990/843e5240-4c67-11e6-9fd7-37ad9e298229.png">
 
 ### HTML / XML
-<img width="701" alt="screen shot 2016-07-19 at 8 13 35 pm" src="https://cloud.githubusercontent.com/assets/2157285/16956372/72fcc5e8-4ded-11e6-97b7-a3c7da3727ac.png">
-
-<img width="705" alt="screen shot 2016-07-19 at 8 13 21 pm" src="https://cloud.githubusercontent.com/assets/2157285/16956373/73c40478-4ded-11e6-999b-40cb060224a6.png">
-
+![screen shot 2016-07-21 at 7 27 17 pm](https://cloud.githubusercontent.com/assets/2157285/17027530/690a9ba4-4f79-11e6-8ce8-9cd2dbaceb33.png)
+<img width="780" alt="screen shot 2016-07-21 at 7 27 01 pm" src="https://cloud.githubusercontent.com/assets/2157285/17027531/69d7b27e-4f79-11e6-8ccb-d336dbb72b9b.png">
 
 ## How to use it?
 #### Visual Studio Code
@@ -56,8 +54,12 @@ Files are provided under the `Themes` directory. Use your editors guides and ins
 To use it best, we suggest you use the [ _Medium_ weight of _Adobe Source Code Pro_ ](https://adobe-fonts.github.io/source-code-pro) typeface. they are the best matches for each other :D
 
 ## What's new?
+#### 1.4.4
+- **New!** Custom string color for HTML added.
+- **Fix!** Markdown Heading color changed to be more hormonic.
+
 #### 1.4.3
-- Better color for TypeScript's class storage modifiers (`public`, `private`, ...)
+- **New!** Custom color for TypeScript class storage modifiers (`public`, `private`, ...)
 
 <br />
 <a href="http://www.karyfoundation.org/">
