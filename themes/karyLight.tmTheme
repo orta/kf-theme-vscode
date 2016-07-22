@@ -317,6 +317,17 @@
 				<string>#25722E</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>TypeScript Type Casting</string>
+			<key>scope</key>
+			<string>cast.expr.ts</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#2E77BD</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>7e88f0fb-3ece-4905-9e8d-ebd393352ecb</string>
