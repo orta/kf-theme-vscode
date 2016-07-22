@@ -54,15 +54,18 @@ Files are provided under the `Themes` directory. Use your editors guides and ins
 To use it best, we suggest you use the [ _Medium_ weight of _Adobe Source Code Pro_ ](https://adobe-fonts.github.io/source-code-pro) typeface. they are the best matches for each other :D
 
 ## What's new?
+#### 1.5.5
+- **Fix!** &mdash; As [it turns out](https://github.com/Microsoft/vscode/issues/9629) Mac uses a _Gamma 1.8 RGB_ but the standard for tmThemes are sRGB. Thanks to the great tool ["tmTheme Color Conventor"](https://github.com/jibsen/tmcolorconv) the theme has being fixed and the colors no longer looks dark!
+
 #### 1.4.5
-- **New!** TypeScript's _Type Cast Expression_ now has custom coloring.
+- **New!** &mdash; TypeScript's _Type Cast Expression_ now has custom coloring.
 
 #### 1.4.4
-- **New!** Custom string color for HTML added.
-- **Fix!** Markdown Heading color changed to be more hormonic.
+- **New!** &mdash; Custom string color for HTML added.
+- **Fix!** &mdash; Markdown Heading color changed to be more hormonic.
 
 #### 1.4.3
-- **New!** Custom color for TypeScript class storage modifiers (`public`, `private`, ...)
+- **New!** &mdash; Custom color for TypeScript class storage modifiers (`public`, `private`, ...)
 
 <br />
 <a href="http://www.karyfoundation.org/">
