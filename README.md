@@ -18,15 +18,23 @@ From what we noticed [iA Writer](https://ia.net/writer) has the most carefully d
 <img width="600" alt="screen shot 2016-07-23 at 1 12 03 pm" src="https://cloud.githubusercontent.com/assets/2157285/17077044/7f25599c-50d7-11e6-8511-69f286698743.png">
 <img width="600" alt="screen shot 2016-07-23 at 1 12 22 pm" src="https://cloud.githubusercontent.com/assets/2157285/17077045/7fb1bd6a-50d7-11e6-867d-cd90e7d21151.png">
 
+#### Ruby
+<img width="641" alt="screen shot 2016-07-24 at 3 44 16 am" src="https://cloud.githubusercontent.com/assets/2157285/17080757/077c4aac-5151-11e6-9182-a7f91985a723.png">
+
+#### Arendelle
+<img width="510" alt="screen shot 2016-07-24 at 3 35 36 am" src="https://cloud.githubusercontent.com/assets/2157285/17080732/e87e1a0a-514f-11e6-9227-43aca3767aba.png">
+
 #### CSS / Less
 <img width="626" alt="screen shot 2016-07-23 at 1 00 09 pm" src="https://cloud.githubusercontent.com/assets/2157285/17077053/b0c38b0e-50d7-11e6-831a-82a5df23a0de.png">
 
 #### HTML / XML
 <img width="523" alt="screen shot 2016-07-23 at 4 23 56 am" src="https://cloud.githubusercontent.com/assets/2157285/17077057/ccbf5fcc-50d7-11e6-855c-9521a450f9c5.png">
 
+#### Pageman
+<img width="801" alt="screen shot 2016-07-24 at 3 39 47 am" src="https://cloud.githubusercontent.com/assets/2157285/17080746/7c164e86-5150-11e6-8adf-1dae193d48f6.png">
+
 #### JSON
 <img width="596" alt="screen shot 2016-07-23 at 1 03 12 pm" src="https://cloud.githubusercontent.com/assets/2157285/17077058/ddfce520-50d7-11e6-82a9-eab20c5babfb.png">
-
 
 ## How to use it?
 #### Visual Studio Code
@@ -50,7 +58,10 @@ Files are provided under the `Themes` directory. Use your editors guides and ins
 To use it best, we suggest you use the [ _Medium_ weight of _Adobe Source Code Pro_ ](https://adobe-fonts.github.io/source-code-pro) typeface. they are the best matches for each other :D
 
 ## What's new?
-#### 1.5.0
+#### 1.5.2
+- **New!** &madsh; Operator Keywords now render just like normal text. (better right?).
+
+#### 1.5.1
 - **Fix!** &mdash; As [it turns out](https://github.com/Microsoft/vscode/issues/9629) Mac uses a _Gamma 1.8 RGB_ but the standard for tmThemes are sRGB. Thanks to the great tool ["tmTheme Color Conventor"](https://github.com/jibsen/tmcolorconv) the theme has being fixed and the colors no longer looks dark!
 
 #### 1.4.5
