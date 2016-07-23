@@ -1,6 +1,5 @@
 # Kary Foundation’s Syntax Themes
 
-<img width="513" alt="screen shot 2016-07-23 at 1 19 44 pm" src="https://cloud.githubusercontent.com/assets/2157285/17077068/278dc614-50d8-11e6-9aaa-8a686d6da534.png">
 <img width="515" alt="screen shot 2016-07-23 at 1 04 23 pm" src="https://cloud.githubusercontent.com/assets/2157285/17077002/83748b40-50d6-11e6-93f9-302440275aa3.png">
 
 ## What is this?
