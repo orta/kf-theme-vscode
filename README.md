@@ -59,7 +59,7 @@ To use it best, we suggest you use the [ _Medium_ weight of _Adobe Source Code P
 
 ## What's new?
 #### 1.5.2
-- **New!** &madsh; Operator Keywords now render just like normal text. (better right?).
+- **New!** &mdash; Operator Keywords now render just like normal text. (better right?).
 
 #### 1.5.1
 - **Fix!** &mdash; As [it turns out](https://github.com/Microsoft/vscode/issues/9629) Mac uses a _Gamma 1.8 RGB_ but the standard for tmThemes are sRGB. Thanks to the great tool ["tmTheme Color Conventor"](https://github.com/jibsen/tmcolorconv) the theme has being fixed and the colors no longer looks dark!
