@@ -58,6 +58,10 @@ Files are provided under the `Themes` directory. Use your editors guides and ins
 To use it best, we suggest you use the [ _Medium_ weight of _Adobe Source Code Pro_ ](https://adobe-fonts.github.io/source-code-pro) typeface. they are the best matches for each other :D
 
 ## What's new?
+#### 4.0.1
+- **Change!** &mdash; No line highlight...
+- **New!** &mdash; Versions are now synced across all versions.
+
 #### 1.5.2
 - **New!** &mdash; Operator Keywords now render just like normal text. (better right?).
 
