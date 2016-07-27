@@ -66,7 +66,7 @@ To use it best, we suggest you use the [ _Medium_ weight of _Adobe Source Code P
 - **New!** &mdash; Operator Keywords now render just like normal text. (better right?).
 
 #### 1.5.1
-- **Fix!** &mdash; As [it turns out](https://github.com/Microsoft/vscode/issues/9629) Mac uses a _Gamma 1.8 RGB_ but the standard for tmThemes are sRGB. Thanks to the great tool ["tmTheme Color Conventor"](https://github.com/jibsen/tmcolorconv) the theme has being fixed and the colors no longer looks dark!
+- **Fix!** &mdash; As [it turns out](https://github.com/Microsoft/vscode/issues/9629) Mac uses a _Gamma 1.8 RGB_ but the standard for tmThemes are sRGB. Thanks to the great tool ["tmTheme Color Convertor"](https://github.com/jibsen/tmcolorconv) the theme has being fixed and the colors no longer looks dark!
 
 #### 1.4.5
 - **New!** &mdash; TypeScript's _Type Cast Expression_ now has custom coloring.
