@@ -2,7 +2,7 @@
 
 <img width="515" alt="screen shot 2016-07-23 at 1 04 23 pm" src="https://cloud.githubusercontent.com/assets/2157285/17077002/83748b40-50d6-11e6-93f9-302440275aa3.png">
 
-![](https://vsmarketplacebadge.apphb.com/version/karyfoundation.theme-karyfoundation-themes.svg) ![]https://vsmarketplacebadge.apphb.com/installs/karyfoundation.theme-karyfoundation-themes.svg()
+![](https://vsmarketplacebadge.apphb.com/version/karyfoundation.theme-karyfoundation-themes.svg) ![](https://vsmarketplacebadge.apphb.com/installs/karyfoundation.theme-karyfoundation-themes.svg)
 
 ## What is this?
 This page obviously is about a syntax theme, but for this one we have somehow a back story that is way different than just different coloring.
