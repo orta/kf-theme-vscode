@@ -37,9 +37,31 @@
         </dict>
         <dict>    
             <key>name</key>
+            <string>Operators</string>
+            <key>scope</key>
+            <string>keyword.operator</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#CCCCCC</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
             <string>Strings</string>
             <key>scope</key>
             <string>string</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#398BC9</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Number</string>
+            <key>scope</key>
+            <string>constant.numeric</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
