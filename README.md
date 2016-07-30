@@ -1,8 +1,8 @@
 # Kary Foundation’s Syntax Themes
 
-<img width="515" alt="screen shot 2016-07-23 at 1 04 23 pm" src="https://cloud.githubusercontent.com/assets/2157285/17077002/83748b40-50d6-11e6-93f9-302440275aa3.png">
+[![](https://vsmarketplacebadge.apphb.com/version/karyfoundation.theme-karyfoundation-themes.svg) ![](https://vsmarketplacebadge.apphb.com/installs/karyfoundation.theme-karyfoundation-themes.svg)](https://marketplace.visualstudio.com/items?itemName=karyfoundation.theme-karyfoundation-themes) [![](https://img.shields.io/badge/Powered by-themeX-yellow.svg)](https://github.com/karyfoundation/themeX)
 
-![](https://vsmarketplacebadge.apphb.com/version/karyfoundation.theme-karyfoundation-themes.svg) ![](https://vsmarketplacebadge.apphb.com/installs/karyfoundation.theme-karyfoundation-themes.svg)
+<img width="515" alt="screen shot 2016-07-23 at 1 04 23 pm" src="https://cloud.githubusercontent.com/assets/2157285/17077002/83748b40-50d6-11e6-93f9-302440275aa3.png">
 
 ## What is this?
 This page obviously is about a syntax theme, but for this one we have somehow a back story that is way different than just different coloring.
@@ -82,6 +82,7 @@ To use it best, we suggest you use the [ _Medium_ weight of _Adobe Source Code P
 
 #### 1.4.3
 - **New!** &mdash; Custom color for TypeScript class storage modifiers (`public`, `private`, ...)
+
 
 <br />
 <a href="http://www.karyfoundation.org/">
