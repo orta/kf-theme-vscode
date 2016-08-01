@@ -57,11 +57,12 @@ Use our official ports for Atom available via atom package manager (APM):
 Files are provided under the `Themes` directory. Use your editors guides and install the themes.
 
 ## Good font to use with this theme?
-To use it best, we suggest you use the [ _Medium_ weight of _Adobe Source Code Pro_ ](https://adobe-fonts.github.io/source-code-pro) typeface. they are the best matches for each other :D
+To use it best, we suggest you use the medium weight of [Hasklig](https://github.com/i-tu/Hasklig) typeface. It's a fork of [Adobe Source Code Pro](https://adobe-fonts.github.io/source-code-pro) with programmer ligatures. Our theme is the bes match to this typeface.
 
 ## What's new?
-#### 4.0.5
+#### 5.0.0
 - **Change!** &mdash; The theme is now ported to [themeX](https://github.com/karyfoundation/themeX). As the themeX project itself is just started it may take weeks till we develop adaptors for other editors but once we reach there, using one code base we will compile the theme for all the other editors at ever single update. So soon we'll have support for other main big editors. Thanks for being with us till now.
+- **Change!** &mdash; Operators are now blue!
 
 #### 4.0.2
 - **Change!** &mdash; No line highlight for dark theme.
