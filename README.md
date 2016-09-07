@@ -39,22 +39,7 @@ From what we noticed [iA Writer](https://ia.net/writer) has the most carefully d
 <img width="596" alt="screen shot 2016-07-23 at 1 03 12 pm" src="https://cloud.githubusercontent.com/assets/2157285/17077058/ddfce520-50d7-11e6-82a9-eab20c5babfb.png">
 
 ## How to use it?
-#### Visual Studio Code
-It's available from the marketplace, Just simply run:
-```
-ext install theme-karyfoundation-themes
-```
-
-#### Sublime Text
-After cloning this repo in your Sublime use `Preferences` > `Browse Packages…` open the folder and put `.tmTheme` files from the `Themes` folder into it. 
-
-#### Atom
-Use our official ports for Atom available via atom package manager (APM):
-- [Kary Foundation Light](https://atom.io/packages/kary-foundation-light)
-- [Kary Foundation Dark](https://atom.io/packages/kary-foundation-dark)
-
-#### Any other editor that supports .tmThemes
-Files are provided under the `Themes` directory. Use your editors guides and install the themes.
+We support Atom and Sublime Text as well, For more information on this please [visit here](https://github.com/karyfoundation/karyfoundation.themeX#status)
 
 ## Good font to use with this theme?
 To use it best, we suggest you use the medium weight of [Hasklig](https://github.com/i-tu/Hasklig) typeface. It's a fork of [Adobe Source Code Pro](https://adobe-fonts.github.io/source-code-pro) with programmer ligatures. Our theme is the bes match to this typeface.
