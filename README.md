@@ -60,6 +60,12 @@ Files are provided under the `Themes` directory. Use your editors guides and ins
 To use it best, we suggest you use the medium weight of [Hasklig](https://github.com/i-tu/Hasklig) typeface. It's a fork of [Adobe Source Code Pro](https://adobe-fonts.github.io/source-code-pro) with programmer ligatures. Our theme is the bes match to this typeface.
 
 ## What's new?
+#### 5.2.0
+- **Change!** &mdash; Strings are green these days...
+- **Change!** &mdash; The dark theme's background is lighted a bit to match the dark background of the vscode. This way it has more eye comfort.
+- **Issue #1** &mdash; Thanks to dear [Murriouz](https://github.com/Murriouz) a bug was reported about invalid code's rendering and it's not fixed.
+- **Upcoming** &mdash; For the next release we'll be having Babel syntax support.
+
 #### 5.0.0
 - **Change!** &mdash; The theme is now ported to [themeX](https://github.com/karyfoundation/themeX). As the themeX project itself is just started it may take weeks till we develop adaptors for other editors but once we reach there, using one code base we will compile the theme for all the other editors at ever single update. So soon we'll have support for other main big editors. Thanks for being with us till now.
 - **Change!** &mdash; Operators are now blue!

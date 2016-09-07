@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>    
@@ -10,7 +11,7 @@
             <key>settings</key>
             <dict>    
                 <key>background</key>
-                <string>#1A1A1A</string>
+                <string>#1E1E1E</string>
                 <key>foreground</key>
                 <string>#CCCCCC</string>
                 <key>caret</key>
@@ -53,7 +54,7 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#7A9EC2</string>
+                <string>#82A56F</string>
             </dict>
         </dict>
         <dict>    
@@ -219,28 +220,6 @@
             <dict>    
                 <key>foreground</key>
                 <string>#DA8567</string>
-            </dict>
-        </dict>
-        <dict>    
-            <key>name</key>
-            <string>Invalid</string>
-            <key>scope</key>
-            <string>invalid</string>
-            <key>settings</key>
-            <dict>    
-                <key>foreground</key>
-                <string>#F9F9F3</string>
-            </dict>
-        </dict>
-        <dict>    
-            <key>name</key>
-            <string>Invalid deprecated</string>
-            <key>scope</key>
-            <string>invalid.deprecated</string>
-            <key>settings</key>
-            <dict>    
-                <key>foreground</key>
-                <string>#F9F9F3</string>
             </dict>
         </dict>
         <dict>    
