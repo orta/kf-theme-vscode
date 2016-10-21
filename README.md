@@ -1,5 +1,4 @@
 # Kary Foundation’s Syntax Themes
-
 [![](https://vsmarketplacebadge.apphb.com/version/karyfoundation.theme-karyfoundation-themes.svg) ![](https://vsmarketplacebadge.apphb.com/installs/karyfoundation.theme-karyfoundation-themes.svg)](https://marketplace.visualstudio.com/items?itemName=karyfoundation.theme-karyfoundation-themes) [![](https://img.shields.io/badge/Powered by-themeX-yellow.svg)](https://github.com/karyfoundation/themeX)
 
 <img width="515" alt="screen shot 2016-07-23 at 1 04 23 pm" src="https://cloud.githubusercontent.com/assets/2157285/17077002/83748b40-50d6-11e6-93f9-302440275aa3.png">
@@ -42,9 +41,13 @@ From what we noticed [iA Writer](https://ia.net/writer) has the most carefully d
 We support Atom and Sublime Text as well, For more information on this please [visit here](https://github.com/karyfoundation/karyfoundation.themeX#status)
 
 ## Good font to use with this theme?
-To use it best, we suggest you use the medium weight of [Hasklig](https://github.com/i-tu/Hasklig) typeface. It's a fork of [Adobe Source Code Pro](https://adobe-fonts.github.io/source-code-pro) with programmer ligatures. Our theme is the bes match to this typeface.
+To use it best, we suggest you use the medium weight of [Hasklig](https://github.com/i-tu/Hasklig) typeface. It's a fork of [Adobe Source Code Pro](https://adobe-fonts.github.io/source-code-pro) with programmer ligatures. Our theme is the best match to this typeface.
 
 ## What's new?
+### 7.0.0
+- **Change!** &mdash; This version of the theme is designed for the new version of definitions and highlighter of the vscode that is coming in the v1.7.0. The themes are now compatible with the Babel Definitions and the new JavaScript / TypeScript definitions coming with viscose.
+- **New!** &mdash; Object keys now have a color! So you can distinguish stuff more easy right now...
+
 #### 5.2.0
 - **Change!** &mdash; Strings are green these days...
 - **Change!** &mdash; The dark theme's background is lighted a bit to match the dark background of the vscode. This way it has more eye comfort.

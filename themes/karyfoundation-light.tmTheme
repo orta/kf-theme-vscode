@@ -43,7 +43,7 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#398BC9</string>
+                <string>#1A1A1A</string>
             </dict>
         </dict>
         <dict>    
@@ -76,7 +76,7 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#3F831E</string>
+                <string>#398BC9</string>
             </dict>
         </dict>
         <dict>    
@@ -88,17 +88,6 @@
             <dict>    
                 <key>foreground</key>
                 <string>#398BC9</string>
-            </dict>
-        </dict>
-        <dict>    
-            <key>name</key>
-            <string>Variable</string>
-            <key>scope</key>
-            <string>variable</string>
-            <key>settings</key>
-            <dict>    
-                <key>foreground</key>
-                <string>#CB4718</string>
             </dict>
         </dict>
         <dict>    
@@ -125,6 +114,28 @@
         </dict>
         <dict>    
             <key>name</key>
+            <string>Types</string>
+            <key>scope</key>
+            <string>type.entity.meta.ts</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#1A1A1A</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Storange Type</string>
+            <key>scope</key>
+            <string>storage.type</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#C07F00</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
             <string>Storage type</string>
             <key>scope</key>
             <string>storage.type</string>
@@ -147,17 +158,6 @@
         </dict>
         <dict>    
             <key>name</key>
-            <string>Inherited class</string>
-            <key>scope</key>
-            <string>entity.other.inherited-class</string>
-            <key>settings</key>
-            <dict>    
-                <key>foreground</key>
-                <string>#CB4718</string>
-            </dict>
-        </dict>
-        <dict>    
-            <key>name</key>
             <string>Function name</string>
             <key>scope</key>
             <string>entity.name.function</string>
@@ -169,7 +169,18 @@
         </dict>
         <dict>    
             <key>name</key>
-            <string>Function argument</string>
+            <string>function Types</string>
+            <key>scope</key>
+            <string>annotation.meta.ts</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#1A1A1A</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>function argument</string>
             <key>scope</key>
             <string>variable.parameter</string>
             <key>settings</key>
@@ -180,46 +191,24 @@
         </dict>
         <dict>    
             <key>name</key>
-            <string>Library function</string>
+            <string>Variable</string>
             <key>scope</key>
-            <string>support.function</string>
-            <key>settings</key>
-            <dict>    
-                <key>foreground</key>
-                <string>#398BC9</string>
-            </dict>
-        </dict>
-        <dict>    
-            <key>name</key>
-            <string>Library constant</string>
-            <key>scope</key>
-            <string>support.constant</string>
-            <key>settings</key>
-            <dict>    
-                <key>foreground</key>
-                <string>#398BC9</string>
-            </dict>
-        </dict>
-        <dict>    
-            <key>name</key>
-            <string>Library class/type</string>
-            <key>scope</key>
-            <string>support.type, support.class</string>
-            <key>settings</key>
-            <dict>    
-                <key>foreground</key>
-                <string>#3F831E</string>
-            </dict>
-        </dict>
-        <dict>    
-            <key>name</key>
-            <string>Library variable</string>
-            <key>scope</key>
-            <string>support.other.variable</string>
+            <string>var-single-variable</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
                 <string>#CB4718</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Module</string>
+            <key>scope</key>
+            <string>module.ts</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#398BC9</string>
             </dict>
         </dict>
         <dict>    
@@ -275,6 +264,17 @@
             <dict>    
                 <key>foreground</key>
                 <string>#AF33A6</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Object Keys</string>
+            <key>scope</key>
+            <string>key</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#C07F00</string>
             </dict>
         </dict>
         <dict>    
