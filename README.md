@@ -44,6 +44,13 @@ We support Atom and Sublime Text as well, For more information on this please [v
 To use it best, we suggest you use the medium weight of [Hasklig](https://github.com/i-tu/Hasklig) typeface. It's a fork of [Adobe Source Code Pro](https://adobe-fonts.github.io/source-code-pro) with programmer ligatures. Our theme is the best match to this typeface.
 
 ## What's new?
+### 7.2.0
+- **Change!** &mdash; Strings are now blue again. Also string interpolation is added.
+- **Change!** &mdash; Function export types are orange.
+- **Change!** &mdash; Comparison and Relational operators are orange now.
+- **Change!** &mdash; Special Keywords are being taken care of.
+- **Upcoming** &mdash; Special Ruby Token will be added soon.
+
 ### 7.0.0
 - **Change!** &mdash; This version of the theme is designed for the new version of definitions and highlighter of the vscode that is coming in the v1.7.0. The themes are now compatible with the Babel Definitions and the new JavaScript / TypeScript definitions coming with viscose.
 - **New!** &mdash; Object keys now have a color! So you can distinguish stuff more easy right now...

@@ -54,7 +54,29 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#3F831E</string>
+                <string>#398BC9</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>String Interpolation Begin and End</string>
+            <key>scope</key>
+            <string>begin.expression.string, end.expression.string</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#AF33A6</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>String Interpolation Body</string>
+            <key>scope</key>
+            <string>expression.string</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#1A1A1A</string>
             </dict>
         </dict>
         <dict>    
@@ -76,7 +98,7 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#398BC9</string>
+                <string>#3F831E</string>
             </dict>
         </dict>
         <dict>    
@@ -87,7 +109,7 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#398BC9</string>
+                <string>#3F831E</string>
             </dict>
         </dict>
         <dict>    
@@ -120,7 +142,7 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#1A1A1A</string>
+                <string>#3F831E</string>
             </dict>
         </dict>
         <dict>    
@@ -279,6 +301,28 @@
         </dict>
         <dict>    
             <key>name</key>
+            <string>JavaScript Special Keywords</string>
+            <key>scope</key>
+            <string>of.keyword, in.keyword</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#AF33A6</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Export Keyword</string>
+            <key>scope</key>
+            <string>export.keyword, comparison.keyword, relational.keyword</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#C07F00</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
             <string>TypeScript Class Modifiers</string>
             <key>scope</key>
             <string>storage.modifier.ts</string>
@@ -297,6 +341,17 @@
             <dict>    
                 <key>foreground</key>
                 <string>#398BC9</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>TypeScript Return Type</string>
+            <key>scope</key>
+            <string>primitive.return.type.function.meta.ts</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#C07F00</string>
             </dict>
         </dict>
     </array>
