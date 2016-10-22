@@ -2,17 +2,17 @@
     "name": "theme-karyfoundation-themes",
     "displayName": "Kary Foundation Themes",
     "description": "Two very carefully designed, eyeful themes to bring rich design into your editors",
-    "version": "7.2.1",
+    "version": "7.4.0",
     "publisher": "karyfoundation",
     "icon": "icon.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/karyfoundation/karyfoundation.themeX"
-	},
-	"bugs": {
-		"url": "https://github.com/karyfoundation/karyfoundation.themeX/issues"
-	},
-	"homepage": "https://github.com/karyfoundation/karyfoundation.themeX",
+    },
+    "bugs": {
+        "url": "https://github.com/karyfoundation/karyfoundation.themeX/issues"
+    },
+    "homepage": "https://github.com/karyfoundation/karyfoundation.themeX",
     "engines": {
         "vscode": "^1.7.0"
     },

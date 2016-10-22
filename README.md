@@ -1,5 +1,7 @@
 # Kary Foundation’s Syntax Themes
 
+<div style="font-size: 50px; color: red; line-height: 1.4">THIS VERSION NEEDS VSCODE 1.7.0 OR HIGHER. PLEASE DO NOT INSTALL OR UPGRADE IF YOU'RE RUNNING ANY OLDER VERSION.</div>
+
 [![](https://vsmarketplacebadge.apphb.com/version/karyfoundation.theme-karyfoundation-themes.svg) ![](https://vsmarketplacebadge.apphb.com/installs/karyfoundation.theme-karyfoundation-themes.svg)](https://marketplace.visualstudio.com/items?itemName=karyfoundation.theme-karyfoundation-themes) [![](https://img.shields.io/badge/Powered by-themeX-yellow.svg)](https://github.com/karyfoundation/themeX)
 
 <img width="515" alt="screen shot 2016-07-23 at 1 04 23 pm" src="https://cloud.githubusercontent.com/assets/2157285/17077002/83748b40-50d6-11e6-93f9-302440275aa3.png">
