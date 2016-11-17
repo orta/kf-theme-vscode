@@ -45,6 +45,13 @@ We support Atom and Sublime Text as well, For more information on this please [v
 To use it best, we suggest you use the medium weight of [Hasklig](https://github.com/i-tu/Hasklig) typeface. It's a fork of [Adobe Source Code Pro](https://adobe-fonts.github.io/source-code-pro) with programmer ligatures. Our theme is the best match to this typeface.
 
 ## What's new?
+
+### 7.5.0
+- **Fix!** &mdash; Types and type casts in TypeScript and JavaScript are fixed.
+- **Fix!** &mdash; Namespace color is fixed.
+- **Fix!** &mdash; Coloring of function parameter types are fixed
+- **Upcoming!** &mash; As you know with the new grammar of Visual Studio Code 1.7 we now have functions in everywhere colored as red. This is due to a limitation of the grammar. We have [opend a pull request](https://github.com/Microsoft/TypeScript-TmLanguage/pull/362) to address the problem and provide a solution. We're hoping to have it fixed in the next versions of visual studio code if possible.
+
 ### 7.2.0
 - **Change!** &mdash; Strings are now blue again. Also string interpolation is added.
 - **Change!** &mdash; Function export types are orange.

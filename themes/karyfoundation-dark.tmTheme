@@ -59,6 +59,17 @@
         </dict>
         <dict>    
             <key>name</key>
+            <string>RegExp</string>
+            <key>scope</key>
+            <string>string</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#7A9EC2</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
             <string>Type Cast</string>
             <key>scope</key>
             <string>primitive.annotation.var.type.meta.ts</string>
@@ -345,6 +356,28 @@
         </dict>
         <dict>    
             <key>name</key>
+            <string>JavaScript Expression Arrow's Parameters</string>
+            <key>scope</key>
+            <string>parameter.expression.Arrow</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#CCCCCC</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>TypeScript Namespaces</string>
+            <key>scope</key>
+            <string>namespace.entity.name.meta.ts</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#DA8567</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
             <string>TypeScript Class Modifiers</string>
             <key>scope</key>
             <string>storage.modifier.ts</string>
@@ -374,6 +407,28 @@
             <dict>    
                 <key>foreground</key>
                 <string>#7A9EC2</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Function Parameters Type</string>
+            <key>scope</key>
+            <string>function.parameters.entity.type.ts</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#82A56F</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>TypeScript Types</string>
+            <key>scope</key>
+            <string>primitive.type.ts</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#82A56F</string>
             </dict>
         </dict>
     </array>
