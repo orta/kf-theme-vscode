@@ -431,6 +431,39 @@
                 <string>#3F831E</string>
             </dict>
         </dict>
+        <dict>    
+            <key>name</key>
+            <string>JSON Keys</string>
+            <key>scope</key>
+            <string>property-name.json</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#3F831E</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>JSON True False</string>
+            <key>scope</key>
+            <string>constant.value.json</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#AF33A6</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>YAML Tag namespace</string>
+            <key>scope</key>
+            <string>name.tag.out.plain.unquoted.string.entity.yaml</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#3F831E</string>
+            </dict>
+        </dict>
     </array>
     <!-- Theme Settings -->
     <key>uuid</key>

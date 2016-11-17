@@ -46,6 +46,10 @@ To use it best, we suggest you use the medium weight of [Hasklig](https://github
 
 ## What's new?
 
+### 7.6.0
+- **New!** &mdash; We now have custom support for JSON (true coloring enabled!)
+- **New!** &mdash; You think more high level than JSON? We also have the same support for YAML now...
+
 ### 7.5.0
 - **Fix!** &mdash; Types and type casts in TypeScript and JavaScript are fixed.
 - **Fix!** &mdash; Namespace color is fixed.
