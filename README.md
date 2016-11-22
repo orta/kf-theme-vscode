@@ -45,6 +45,13 @@ We support Atom and Sublime Text as well, For more information on this please [v
 To use it best, we suggest you use the medium weight of [Hasklig](https://github.com/i-tu/Hasklig) typeface. It's a fork of [Adobe Source Code Pro](https://adobe-fonts.github.io/source-code-pro) with programmer ligatures. Our theme is the best match to this typeface.
 
 ## What's new?
+### 8.0.0
+- **Change!** &mdash; Dark colors are improved for good.
+- **New!** &mdash; CSS / Less are now fully supported. We had great support but with the new definitions they didn't worked. This new version includes the new defs to provide the bust support.
+- **Change** &mdash; TypeScript / JavaScript now have a much better color for the function arguments and types.
+- **New!** &mdash; We now have a fully support for Ruby including: Class Variables, Global Variables, Ruby Separators (`do | ... |`), `def` keyword, Right string interpolations.
+- **Fix!** &mdash; Type colors had so many issues, they are fixed for good.
+- **New!** &mdash; We now have full support fur Pageman (The whole definition is included).
 
 ### 7.6.0
 - **New!** &mdash; We now have custom support for JSON (true coloring enabled!)

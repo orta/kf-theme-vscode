@@ -202,13 +202,24 @@
         </dict>
         <dict>    
             <key>name</key>
-            <string>Function name</string>
+            <string>Class property</string>
             <key>scope</key>
-            <string>entity.name.function</string>
+            <string>property.field.declaration.class.meta</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
                 <string>#CB4718</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>this</string>
+            <key>scope</key>
+            <string>this.class.meta</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#398BC9</string>
             </dict>
         </dict>
         <dict>    
@@ -226,11 +237,22 @@
             <key>name</key>
             <string>function argument</string>
             <key>scope</key>
-            <string>variable.parameter</string>
+            <string>variable.parameter, function.parameters.entity.name.meta</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#C07F00</string>
+                <string>#398BC9</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Function definition</string>
+            <key>scope</key>
+            <string>entity.name.function, meta.definition.method.ts entity.name.function.ts, meta.definition.function.ts entity.name.function.ts</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#CB4718</string>
             </dict>
         </dict>
         <dict>    
@@ -301,13 +323,169 @@
         </dict>
         <dict>    
             <key>name</key>
-            <string>CSS ID</string>
+            <string>Pageman Section Commands</string>
             <key>scope</key>
-            <string>meta.selector.css, entity.other.attribute-name.id</string>
+            <string>constant.language.pageman-parts.pageman</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#3F831E</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Pageman Markdown Headers</string>
+            <key>scope</key>
+            <string>variable.other.markdown-header.pageman</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#CB4718</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Pageman Jekyll Liquid Language Support</string>
+            <key>scope</key>
+            <string>storage.type.liquid-g1.pageman, storage.type.liquid-g2.pageman</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
                 <string>#AF33A6</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Pageman HTML Tags</string>
+            <key>scope</key>
+            <string>string.html-tag.pageman</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#398BC9</string>
+            </dict>
+        </dict>
+        <dict>    
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Pageman Markdown Links / Images</string>
+            <key>scope</key>
+            <string>keyword.control.markdown-image-or-link.pageman</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#AF33A6</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Pageman Code Block</string>
+            <key>scope</key>
+            <string>variable.other.muliline-markdown-pre-box.pageman</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#C07F00</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Pageman Inline Markdown Code Block</string>
+            <key>scope</key>
+            <string>variable.other.inline-code-block-markdown.pageman</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#CB4718</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Pageman Markdown Tables</string>
+            <key>scope</key>
+            <string>storage.type.markdown-table.pageman</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#CB4718</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Pageman HTML special characters</string>
+            <key>scope</key>
+            <string>variable.other.html-special-chars.pageman</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#CB4718</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>CSS Selectors (General)</string>
+            <key>scope</key>
+            <string>meta.selector.css</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#AF33A6</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>CSS ID Selectors</string>
+            <key>scope</key>
+            <string>id.selector.css</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#C07F00</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>CSS Tag Selectors</string>
+            <key>scope</key>
+            <string>tag.selector.css, tag.name.entity.css</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#CB4718</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>CSS property</string>
+            <key>scope</key>
+            <string>property-name.css</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#3F831E</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>CSS Constants</string>
+            <key>scope</key>
+            <string>constant.other.css</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#398BC9</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Variables</string>
+            <key>scope</key>
+            <string>variable.other.less</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#C07F00</string>
             </dict>
         </dict>
         <dict>    
@@ -424,11 +602,99 @@
             <key>name</key>
             <string>TypeScript Types</string>
             <key>scope</key>
-            <string>primitive.type.ts</string>
+            <string>primitive.type.ts, annotation.type.meta.ts</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
                 <string>#3F831E</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Ruby defs</string>
+            <key>scope</key>
+            <string>def.meta.ruby</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#C07F00</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Ruby defs</string>
+            <key>scope</key>
+            <string>def.meta.ruby</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#C07F00</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Ruby | ... | Separators</string>
+            <key>scope</key>
+            <string>separator.variable.punctuation.ruby</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#C07F00</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Ruby Vars</string>
+            <key>scope</key>
+            <string>variable.ruby</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#3F831E</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Ruby Vars that needs to be blue</string>
+            <key>scope</key>
+            <string>class.variable.ruby, instance.variable.ruby</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#398BC9</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Ruby Global Vars</string>
+            <key>scope</key>
+            <string>global.variable.ruby</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#CB4718</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Ruby String Interpolation Signs</string>
+            <key>scope</key>
+            <string>embedded.begin.string.punctuation.ruby, embedded.end.string.punctuation.ruby</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#AF33A6</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Ruby String Interpolation Body</string>
+            <key>scope</key>
+            <string>embedded.string.punctuation.ruby</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#1A1A1A</string>
             </dict>
         </dict>
         <dict>    
