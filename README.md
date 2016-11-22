@@ -37,7 +37,7 @@ From what we noticed [iA Writer](https://ia.net/writer) has the most carefully d
 <img width="801" alt="screen shot 2016-07-24 at 3 39 47 am" src="https://cloud.githubusercontent.com/assets/2157285/17080746/7c164e86-5150-11e6-8adf-1dae193d48f6.png">
 
 #### JSON
-<img width="596" alt="screen shot 2016-07-23 at 1 03 12 pm" src="https://cloud.githubusercontent.com/assets/2157285/17077058/ddfce520-50d7-11e6-82a9-eab20c5babfb.png">
+<img width="325" alt="screen shot 2016-11-22 at 11 04 25 pm" src="https://cloud.githubusercontent.com/assets/2157285/20538835/16df82e0-b108-11e6-856a-ba020eec01ac.png">
 
 ## How to use it?
 We support Atom and Sublime Text as well, For more information on this please [visit here](https://github.com/karyfoundation/karyfoundation.themeX#status)
