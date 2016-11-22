@@ -2,7 +2,7 @@
 
 [![](https://vsmarketplacebadge.apphb.com/version/karyfoundation.theme-karyfoundation-themes.svg) ![](https://vsmarketplacebadge.apphb.com/installs/karyfoundation.theme-karyfoundation-themes.svg)](https://marketplace.visualstudio.com/items?itemName=karyfoundation.theme-karyfoundation-themes) [![](https://img.shields.io/badge/Powered by-themeX-yellow.svg)](https://github.com/karyfoundation/themeX)
 
-<img width="515" alt="screen shot 2016-07-23 at 1 04 23 pm" src="https://cloud.githubusercontent.com/assets/2157285/17077002/83748b40-50d6-11e6-93f9-302440275aa3.png">
+<img width="611" alt="screen shot 2016-11-22 at 10 34 11 pm" src="https://cloud.githubusercontent.com/assets/2157285/20538013/ab9ca2ea-b104-11e6-9dea-23a3379e7511.png">
 
 ## What is this?
 This page obviously is about a syntax theme, but for this one we have somehow a back story that is way different than just different coloring.
@@ -17,11 +17,12 @@ From what we noticed [iA Writer](https://ia.net/writer) has the most carefully d
 
 ## The theme…
 #### JavaScript / TypeScript
-<img width="600" alt="screen shot 2016-07-23 at 1 12 03 pm" src="https://cloud.githubusercontent.com/assets/2157285/17077044/7f25599c-50d7-11e6-8511-69f286698743.png">
-<img width="600" alt="screen shot 2016-07-23 at 1 12 22 pm" src="https://cloud.githubusercontent.com/assets/2157285/17077045/7fb1bd6a-50d7-11e6-867d-cd90e7d21151.png">
+<img width="747" alt="screen shot 2016-11-22 at 10 24 29 pm" src="https://cloud.githubusercontent.com/assets/2157285/20538012/ab99a496-b104-11e6-8f44-ccc35c1f435b.png">
+
+<img width="786" alt="screen shot 2016-11-22 at 10 24 01 pm" src="https://cloud.githubusercontent.com/assets/2157285/20538011/ab955e7c-b104-11e6-922b-698c99902047.png">
 
 #### Ruby
-<img width="641" alt="screen shot 2016-07-24 at 3 44 16 am" src="https://cloud.githubusercontent.com/assets/2157285/17080757/077c4aac-5151-11e6-9182-a7f91985a723.png">
+<img width="647" alt="screen shot 2016-11-22 at 9 55 03 pm" src="https://cloud.githubusercontent.com/assets/2157285/20538010/ab913f5e-b104-11e6-9364-49528adbfb83.png">
 
 #### Arendelle
 <img width="510" alt="screen shot 2016-07-24 at 3 35 36 am" src="https://cloud.githubusercontent.com/assets/2157285/17080732/e87e1a0a-514f-11e6-9227-43aca3767aba.png">
