@@ -39,11 +39,22 @@
             <key>name</key>
             <string>Operators</string>
             <key>scope</key>
-            <string>keyword.operator</string>
+            <string>keyword.operator, operator.annotation.type.keyword, var.expr.primitive.annotation.type.keyword.meta</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
                 <string>#1A1A1A</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Logical Operators</string>
+            <key>scope</key>
+            <string>logical.operator.meta</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#B052A1</string>
             </dict>
         </dict>
         <dict>    
@@ -54,7 +65,7 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#398BC9</string>
+                <string>#428226</string>
             </dict>
         </dict>
         <dict>    
@@ -65,7 +76,7 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#398BC9</string>
+                <string>#3778B7</string>
             </dict>
         </dict>
         <dict>    
@@ -76,18 +87,7 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#3F831E</string>
-            </dict>
-        </dict>
-        <dict>    
-            <key>name</key>
-            <string>Gray Operators</string>
-            <key>scope</key>
-            <string>operator.annotation.type.keyword, var.expr.primitive.annotation.type.keyword.meta</string>
-            <key>settings</key>
-            <dict>    
-                <key>foreground</key>
-                <string>#1A1A1A</string>
+                <string>#428226</string>
             </dict>
         </dict>
         <dict>    
@@ -98,7 +98,7 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#AF33A6</string>
+                <string>#B052A1</string>
             </dict>
         </dict>
         <dict>    
@@ -120,7 +120,7 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#398BC9</string>
+                <string>#428226</string>
             </dict>
         </dict>
         <dict>    
@@ -131,7 +131,7 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#3F831E</string>
+                <string>#428226</string>
             </dict>
         </dict>
         <dict>    
@@ -142,7 +142,7 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#3F831E</string>
+                <string>#428226</string>
             </dict>
         </dict>
         <dict>    
@@ -153,7 +153,7 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#AF33A6</string>
+                <string>#B052A1</string>
             </dict>
         </dict>
         <dict>    
@@ -164,18 +164,7 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#AF33A6</string>
-            </dict>
-        </dict>
-        <dict>    
-            <key>name</key>
-            <string>Storange Type</string>
-            <key>scope</key>
-            <string>storage.type</string>
-            <key>settings</key>
-            <dict>    
-                <key>foreground</key>
-                <string>#C07F00</string>
+                <string>#B052A1</string>
             </dict>
         </dict>
         <dict>    
@@ -186,7 +175,18 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#C07F00</string>
+                <string>#A56416</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Module Name</string>
+            <key>scope</key>
+            <string>module.meta, function.object.block.variable.meta</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#A56416</string>
             </dict>
         </dict>
         <dict>    
@@ -197,7 +197,7 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#CB4718</string>
+                <string>#C94824</string>
             </dict>
         </dict>
         <dict>    
@@ -208,7 +208,18 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#CB4718</string>
+                <string>#C94824</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Inherited Class</string>
+            <key>scope</key>
+            <string>entity.other.inherited-class</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#C94824</string>
             </dict>
         </dict>
         <dict>    
@@ -219,7 +230,7 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#398BC9</string>
+                <string>#3778B7</string>
             </dict>
         </dict>
         <dict>    
@@ -241,7 +252,7 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#398BC9</string>
+                <string>#3778B7</string>
             </dict>
         </dict>
         <dict>    
@@ -252,18 +263,29 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#CB4718</string>
+                <string>#C94824</string>
             </dict>
         </dict>
         <dict>    
             <key>name</key>
             <string>Variable</string>
             <key>scope</key>
-            <string>var-single-variable</string>
+            <string>variable.readwrite.other.meta</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#CB4718</string>
+                <string>#3778B7</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Variable Def</string>
+            <key>scope</key>
+            <string>var-single-variable.variable.readwrite.other.meta</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#3778B7</string>
             </dict>
         </dict>
         <dict>    
@@ -274,7 +296,7 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#398BC9</string>
+                <string>#3778B7</string>
             </dict>
         </dict>
         <dict>    
@@ -290,13 +312,24 @@
         </dict>
         <dict>    
             <key>name</key>
+            <string>null</string>
+            <key>scope</key>
+            <string>regexp.operator.keyword.meta, regex.operator.keyboard.meta</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#3778B7</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
             <string>Tag name</string>
             <key>scope</key>
             <string>punctuation.definition.tag.html, punctuation.definition.tag.begin, punctuation.definition.tag.end, entity.name.tag</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#398BC9</string>
+                <string>#3778B7</string>
             </dict>
         </dict>
         <dict>    
@@ -307,7 +340,7 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#AF33A6</string>
+                <string>#B052A1</string>
             </dict>
         </dict>
         <dict>    
@@ -318,7 +351,7 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#3F831E</string>
+                <string>#428226</string>
             </dict>
         </dict>
         <dict>    
@@ -329,7 +362,7 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#3F831E</string>
+                <string>#428226</string>
             </dict>
         </dict>
         <dict>    
@@ -340,7 +373,7 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#CB4718</string>
+                <string>#C94824</string>
             </dict>
         </dict>
         <dict>    
@@ -351,7 +384,7 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#AF33A6</string>
+                <string>#B052A1</string>
             </dict>
         </dict>
         <dict>    
@@ -362,10 +395,19 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#398BC9</string>
+                <string>#3778B7</string>
             </dict>
         </dict>
         <dict>    
+            <key>name</key>
+            <string>Pageman Legend Phrases</string>
+            <key>scope</key>
+            <string>storage.type.legend.pageman</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#A56416</string>
+            </dict>
         </dict>
         <dict>    
             <key>name</key>
@@ -375,7 +417,7 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#AF33A6</string>
+                <string>#B052A1</string>
             </dict>
         </dict>
         <dict>    
@@ -386,7 +428,7 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#C07F00</string>
+                <string>#A56416</string>
             </dict>
         </dict>
         <dict>    
@@ -397,7 +439,7 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#CB4718</string>
+                <string>#C94824</string>
             </dict>
         </dict>
         <dict>    
@@ -408,7 +450,7 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#CB4718</string>
+                <string>#C94824</string>
             </dict>
         </dict>
         <dict>    
@@ -419,7 +461,7 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#CB4718</string>
+                <string>#C94824</string>
             </dict>
         </dict>
         <dict>    
@@ -430,7 +472,7 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#AF33A6</string>
+                <string>#B052A1</string>
             </dict>
         </dict>
         <dict>    
@@ -441,7 +483,7 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#C07F00</string>
+                <string>#A56416</string>
             </dict>
         </dict>
         <dict>    
@@ -452,7 +494,7 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#CB4718</string>
+                <string>#C94824</string>
             </dict>
         </dict>
         <dict>    
@@ -463,7 +505,7 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#3F831E</string>
+                <string>#428226</string>
             </dict>
         </dict>
         <dict>    
@@ -474,7 +516,7 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#398BC9</string>
+                <string>#3778B7</string>
             </dict>
         </dict>
         <dict>    
@@ -485,18 +527,29 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#C07F00</string>
+                <string>#A56416</string>
             </dict>
         </dict>
         <dict>    
             <key>name</key>
             <string>JavaScript Object Keys</string>
             <key>scope</key>
-            <string>key</string>
+            <string>key.js, key.ts</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#C07F00</string>
+                <string>#C94824</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Arrow Functions Arrows</string>
+            <key>scope</key>
+            <string>arrow.block.function.type.storage.meta.js, arrow.block.function.type.storage.meta.ts</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#B052A1</string>
             </dict>
         </dict>
         <dict>    
@@ -507,40 +560,227 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#C07F00</string>
-            </dict>
-        </dict>
-        <dict>    
-            <key>name</key>
-            <string>JavaScript Export Keyword</string>
-            <key>scope</key>
-            <string>export.keyword, comparison.keyword, relational.keyword</string>
-            <key>settings</key>
-            <dict>    
-                <key>foreground</key>
-                <string>#C07F00</string>
+                <string>#A56416</string>
             </dict>
         </dict>
         <dict>    
             <key>name</key>
             <string>JavaScript Imports</string>
             <key>scope</key>
-            <string>import-export-all.constant</string>
+            <string>import-export-all.constant.js, import-export-all.constant.ts</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#C07F00</string>
+                <string>#A56416</string>
             </dict>
         </dict>
         <dict>    
             <key>name</key>
             <string>JavaScript Expression Arrow's Parameters</string>
             <key>scope</key>
-            <string>parameter.expression.Arrow</string>
+            <string>parameter.expression.arrow.js, parameter.expression.arrow.ts</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
                 <string>#1A1A1A</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Supporting Functions</string>
+            <key>scope</key>
+            <string>function.support.expr.var.meta.js, function.support.expr.var.meta.ts</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#428226</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Objects</string>
+            <key>scope</key>
+            <string>object.other.variable.expr.var.meta.js, object.other.variable.expr.var.meta.ts</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#3778B7</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Object Bindings</string>
+            <key>scope</key>
+            <string>object-binding-pattern-variable.other.variable.expr.var.meta.js, object-binding-pattern-variable.other.variable.expr.var.meta.ts, block.function.support.meta.js, block.function.support.meta.ts</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#C94824</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Object property</string>
+            <key>scope</key>
+            <string>property.block.function.other.variable.meta.js, property.block.function.other.variable.meta.ts</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#428226</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Node Template Expressions</string>
+            <key>scope</key>
+            <string>expression.template.node.meta.js, expression.template.node.meta.ts</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#428226</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Template Function</string>
+            <key>scope</key>
+            <string>expression.template.function.support.meta.js, expression.template.function.support.meta.ts</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#C94824</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Full var coloring</string>
+            <key>scope</key>
+            <string>readwrite.variable.js, readwrite.variable.ts</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#3778B7</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>JS other Vars</string>
+            <key>scope</key>
+            <string>other.variable.js, other.variable.ts</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#A56416</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>JS support Vars</string>
+            <key>scope</key>
+            <string>support.variable.js, support.variable.ts</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#B052A1</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>JS console</string>
+            <key>scope</key>
+            <string>console.js, console.function.support.class.block.meta.ts</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#A56416</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>JS doc verbs</string>
+            <key>scope</key>
+            <string>jsdoc.documentation.block.other.variable.meta.js, jsdoc.documentation.block.other.variable.meta.ts</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#3778B7</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>JS doc Vars</string>
+            <key>scope</key>
+            <string>jsdoc.class.documentation.block.type.storage.comment.js, jsdoc.class.documentation.block.type.storage.comment.ts</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#B052A1</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>DOM</string>
+            <key>scope</key>
+            <string>block.dom.function.support.variable.expr.var.meta.js, block.dom.function.support.variable.expr.var.meta.ts</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#B052A1</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>DOM property</string>
+            <key>scope</key>
+            <string>dom.function.support.js, dom.function.support.class.block.meta.ts</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#3778B7</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>JavaScript typeof</string>
+            <key>scope</key>
+            <string>typeof.keyword.js, typeof.keyword.ts</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#B052A1</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Constant Objects</string>
+            <key>scope</key>
+            <string>object.constant.other.function.block.meta.js, object.constant.other.function.block.meta.ts, object.variable.other.function.meta.block.ts</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#A56416</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Var Keyboards</string>
+            <key>scope</key>
+            <string>expr.var.type.storage.meta.js, expr.var.type.storage.meta.ts</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#B052A1</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Built In Types</string>
+            <key>scope</key>
+            <string>builtin.class.support.var.function.meta.js, builtin.class.support.var.function.meta.ts</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#A56416</string>
             </dict>
         </dict>
         <dict>    
@@ -551,7 +791,7 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#CB4718</string>
+                <string>#C94824</string>
             </dict>
         </dict>
         <dict>    
@@ -562,7 +802,7 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#C07F00</string>
+                <string>#A56416</string>
             </dict>
         </dict>
         <dict>    
@@ -573,7 +813,7 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#C07F00</string>
+                <string>#A56416</string>
             </dict>
         </dict>
         <dict>    
@@ -584,18 +824,18 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#398BC9</string>
+                <string>#428226</string>
             </dict>
         </dict>
         <dict>    
             <key>name</key>
             <string>Function Parameters Type</string>
             <key>scope</key>
-            <string>function.parameters.entity.type.ts</string>
+            <string>function.parameters.entity.type.ts, primitive.annotation.support.parameters.function.type.meta.ts</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#3F831E</string>
+                <string>#428226</string>
             </dict>
         </dict>
         <dict>    
@@ -606,7 +846,18 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#3F831E</string>
+                <string>#428226</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>TypeScript declaration Types</string>
+            <key>scope</key>
+            <string>name.entity.type.declaration.block.meta.ts</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#C94824</string>
             </dict>
         </dict>
         <dict>    
@@ -617,18 +868,7 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#C07F00</string>
-            </dict>
-        </dict>
-        <dict>    
-            <key>name</key>
-            <string>Ruby defs</string>
-            <key>scope</key>
-            <string>def.meta.ruby</string>
-            <key>settings</key>
-            <dict>    
-                <key>foreground</key>
-                <string>#C07F00</string>
+                <string>#A56416</string>
             </dict>
         </dict>
         <dict>    
@@ -639,7 +879,7 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#C07F00</string>
+                <string>#A56416</string>
             </dict>
         </dict>
         <dict>    
@@ -650,7 +890,7 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#3F831E</string>
+                <string>#428226</string>
             </dict>
         </dict>
         <dict>    
@@ -661,7 +901,7 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#398BC9</string>
+                <string>#3778B7</string>
             </dict>
         </dict>
         <dict>    
@@ -672,7 +912,7 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#CB4718</string>
+                <string>#C94824</string>
             </dict>
         </dict>
         <dict>    
@@ -683,7 +923,7 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#AF33A6</string>
+                <string>#B052A1</string>
             </dict>
         </dict>
         <dict>    
@@ -705,7 +945,7 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#3F831E</string>
+                <string>#428226</string>
             </dict>
         </dict>
         <dict>    
@@ -716,7 +956,7 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#AF33A6</string>
+                <string>#B052A1</string>
             </dict>
         </dict>
         <dict>    
@@ -727,7 +967,40 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#3F831E</string>
+                <string>#428226</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Brace</string>
+            <key>scope</key>
+            <string>brace.literal.meta</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#1A1A1A</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>colons</string>
+            <key>scope</key>
+            <string>keyword.annotation.operator.meta</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#1A1A1A</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>String</string>
+            <key>scope</key>
+            <string>string</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#428226</string>
             </dict>
         </dict>
     </array>

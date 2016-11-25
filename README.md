@@ -2,7 +2,8 @@
 
 [![](https://vsmarketplacebadge.apphb.com/version/karyfoundation.theme-karyfoundation-themes.svg) ![](https://vsmarketplacebadge.apphb.com/installs/karyfoundation.theme-karyfoundation-themes.svg)](https://marketplace.visualstudio.com/items?itemName=karyfoundation.theme-karyfoundation-themes) [![](https://img.shields.io/badge/Powered by-themeX-yellow.svg)](https://github.com/karyfoundation/themeX)
 
-<img width="611" alt="screen shot 2016-11-22 at 10 34 11 pm" src="https://cloud.githubusercontent.com/assets/2157285/20538013/ab9ca2ea-b104-11e6-9dea-23a3379e7511.png">
+
+<img width="673" alt="screen shot 2016-11-25 at 8 16 11 pm" src="https://cloud.githubusercontent.com/assets/2157285/20631494/112699e2-b34c-11e6-83a7-c15589208068.png">
 
 ## What is this?
 This page obviously is about a syntax theme, but for this one we have somehow a back story that is way different than just different coloring.
@@ -17,9 +18,8 @@ From what we noticed [iA Writer](https://ia.net/writer) has the most carefully d
 
 ## The theme…
 #### JavaScript / TypeScript
-<img width="747" alt="screen shot 2016-11-22 at 10 24 29 pm" src="https://cloud.githubusercontent.com/assets/2157285/20538012/ab99a496-b104-11e6-8f44-ccc35c1f435b.png">
-
-<img width="786" alt="screen shot 2016-11-22 at 10 24 01 pm" src="https://cloud.githubusercontent.com/assets/2157285/20538011/ab955e7c-b104-11e6-922b-698c99902047.png">
+<img width="700" alt="screen shot 2016-11-25 at 6 58 12 pm" src="https://cloud.githubusercontent.com/assets/2157285/20629519/4cd90430-b341-11e6-8993-09ae2773d301.png">
+<img width="706" alt="screen shot 2016-11-25 at 6 58 41 pm" src="https://cloud.githubusercontent.com/assets/2157285/20629520/4d36e60e-b341-11e6-8cba-c2d5315b74ba.png">
 
 #### Ruby
 <img width="647" alt="screen shot 2016-11-22 at 9 55 03 pm" src="https://cloud.githubusercontent.com/assets/2157285/20538010/ab913f5e-b104-11e6-9364-49528adbfb83.png">
@@ -46,6 +46,10 @@ We support Atom and Sublime Text as well, For more information on this please [v
 To use it best, we suggest you use the medium weight of [Hasklig](https://github.com/i-tu/Hasklig) typeface. It's a fork of [Adobe Source Code Pro](https://adobe-fonts.github.io/source-code-pro) with programmer ligatures. Our theme is the best match to this typeface.
 
 ## What's new?
+### 10.0.0
+- **MASSIVE CHANGE** &mdash; The direction of this theme is changing. The new plan is to have full colored themes without the foreground colors on programming languages as much as possible. For some like Ruby this is impossible but for now we have a full support toward this change on TypeScript and JavaScript and we will work to bring that into other languages as well. Many of the things you knew has been changed due to this and we now have a much more harmonized theme that you will love.
+- **Change** &mdash; The colors in the light theme has been polished a lot and you'll heave super much better experience using them.
+
 ### 8.0.0
 - **Change!** &mdash; Dark colors are improved for good.
 - **New!** &mdash; CSS / Less are now fully supported. We had great support but with the new definitions they didn't worked. This new version includes the new defs to provide the bust support.
