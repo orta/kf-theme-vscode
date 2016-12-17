@@ -46,6 +46,25 @@ We support Atom and Sublime Text as well, For more information on this please [v
 To use it best, we suggest you use the medium weight of [Hasklig](https://github.com/i-tu/Hasklig) typeface. It's a fork of [Adobe Source Code Pro](https://adobe-fonts.github.io/source-code-pro) with programmer ligatures. Our theme is the best match to this typeface.
 
 ## What's new?
+
+### 10.1.0
+- **New!** &mdash; HTML Entities added.
+- **Change!** &mdash; CSS function colors are changed.
+- **New!** &mdash; CSS constant property values are added.
+- **Change!** &mdash; Better color for `this`.
+- **New!** &mdash; Type Annotation `< ... >` added.
+- **New!** &mdash; `super` got added.
+- **New!** &mdash; Node.js module support added (JS/TS).
+- **Change!** &mdash; Selection Colors changed.
+- **New!** &mdash; JS Support Functions are added.
+- **Change!** &mdash; JS DOM Colors are changed.
+- **Change!** &mdash; Logical operators are now colorless.
+- **New!** &mdash; JS Braces are improved.
+- **New!** &mdash; HTML DOCTYPEs are added.
+- **New!** &mdash; In TypeScript deceleration files are added.
+- **Change!** &mdash; Light Colors are fixed.
+- **New!** &mdash; Pretty new icon for the theme! :D.
+
 ### 10.0.0
 - **MASSIVE CHANGE** &mdash; The direction of this theme is changing. The new plan is to have full colored themes without the foreground colors on programming languages as much as possible. For some like Ruby this is impossible but for now we have a full support toward this change on TypeScript and JavaScript and we will work to bring that into other languages as well. Many of the things you knew has been changed due to this and we now have a much more harmonized theme that you will love.
 - **Change** &mdash; The colors in the light theme has been polished a lot and you'll heave super much better experience using them.
