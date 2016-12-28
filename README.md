@@ -47,6 +47,16 @@ To use it best, we suggest you use the medium weight of [Hasklig](https://github
 
 ## What's new?
 
+### 10.2.0
+- **New!** &mdash; Great awesome support for JSX in JS and TSX files.
+- **Change!** &mdash; CSS Property Values are improved.
+- **New!** &mdash; HTML Entities are added.
+- **Change!** &mdash; CSS Function colors are improved;
+- **Change!** &mdash; `This` color is changed.
+- **New!** &mdash; TypeScript Enums are greatly supported now.
+- **New!** &mdash; More hormonic class keyword colors for JS/TS.
+- **Change!** &mdash; Better color for `*` in JS/TS imports.
+
 ### 10.1.0
 - **New!** &mdash; HTML Entities added.
 - **Change!** &mdash; CSS function colors are changed.
@@ -61,7 +71,7 @@ To use it best, we suggest you use the medium weight of [Hasklig](https://github
 - **Change!** &mdash; Logical operators are now colorless.
 - **New!** &mdash; JS Braces are improved.
 - **New!** &mdash; HTML DOCTYPEs are added.
-- **New!** &mdash; In TypeScript deceleration files are added.
+- **New!** &mdash; In TypeScript deceleration types are added.
 - **Change!** &mdash; Light Colors are fixed.
 - **New!** &mdash; Pretty new icon for the theme! :D.
 

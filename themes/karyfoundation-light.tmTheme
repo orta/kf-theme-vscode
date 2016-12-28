@@ -81,17 +81,6 @@
         </dict>
         <dict>    
             <key>name</key>
-            <string>Type Cast</string>
-            <key>scope</key>
-            <string>primitive.annotation.var.type.meta.ts</string>
-            <key>settings</key>
-            <dict>    
-                <key>foreground</key>
-                <string>#428226</string>
-            </dict>
-        </dict>
-        <dict>    
-            <key>name</key>
             <string>String Interpolation Begin and End</string>
             <key>scope</key>
             <string>begin.expression.string, end.expression.string</string>
@@ -120,7 +109,7 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#428226</string>
+                <string>#3778B7</string>
             </dict>
         </dict>
         <dict>    
@@ -202,6 +191,17 @@
         </dict>
         <dict>    
             <key>name</key>
+            <string>Class Super</string>
+            <key>scope</key>
+            <string>super.meta</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#B052A1</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
             <string>Class property</string>
             <key>scope</key>
             <string>property.field.declaration.class.meta</string>
@@ -235,17 +235,6 @@
         </dict>
         <dict>    
             <key>name</key>
-            <string>function Types</string>
-            <key>scope</key>
-            <string>annotation.meta.ts</string>
-            <key>settings</key>
-            <dict>    
-                <key>foreground</key>
-                <string>#1A1A1A</string>
-            </dict>
-        </dict>
-        <dict>    
-            <key>name</key>
             <string>function argument</string>
             <key>scope</key>
             <string>variable.parameter, function.parameters.entity.name.meta</string>
@@ -259,7 +248,7 @@
             <key>name</key>
             <string>Function definition</string>
             <key>scope</key>
-            <string>entity.name.function, meta.definition.method.ts entity.name.function.ts, meta.definition.function.ts entity.name.function.ts</string>
+            <string>entity.name.function</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
@@ -282,17 +271,6 @@
             <string>Variable Def</string>
             <key>scope</key>
             <string>var-single-variable.variable.readwrite.other.meta</string>
-            <key>settings</key>
-            <dict>    
-                <key>foreground</key>
-                <string>#3778B7</string>
-            </dict>
-        </dict>
-        <dict>    
-            <key>name</key>
-            <string>Module</string>
-            <key>scope</key>
-            <string>module.ts</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
@@ -578,7 +556,7 @@
             <key>name</key>
             <string>JavaScript Object Keys</string>
             <key>scope</key>
-            <string>key.js, key.ts</string>
+            <string>key.js, key.ts, key.tsx</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
@@ -587,9 +565,20 @@
         </dict>
         <dict>    
             <key>name</key>
+            <string>JSX Tag Attribs</string>
+            <key>scope</key>
+            <string>key.tag.js, key.tag.tsx</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#428226</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
             <string>Arrow Functions Arrows</string>
             <key>scope</key>
-            <string>arrow.block.function.type.storage.meta.js, arrow.block.function.type.storage.meta.ts</string>
+            <string>arrow.block.function.type.storage.meta.js, arrow.block.function.type.storage.meta.ts, arrow.block.function.type.storage.meta.tsx</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
@@ -611,18 +600,18 @@
             <key>name</key>
             <string>JavaScript Imports</string>
             <key>scope</key>
-            <string>import-export-all.constant.js, import-export-all.constant.ts</string>
+            <string>import-export-all.constant.js, import-export-all.constant.ts, import-export-all.constant.tsx</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#A56416</string>
+                <string>#3778B7</string>
             </dict>
         </dict>
         <dict>    
             <key>name</key>
             <string>JavaScript Expression Arrow's Parameters</string>
             <key>scope</key>
-            <string>parameter.expression.arrow.js, parameter.expression.arrow.ts</string>
+            <string>parameter.expression.arrow.js, parameter.expression.arrow.ts, parameter.expression.arrow.tsx</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
@@ -633,7 +622,7 @@
             <key>name</key>
             <string>Supporting Functions</string>
             <key>scope</key>
-            <string>function.support.expr.var.meta.js, function.support.expr.var.meta.ts</string>
+            <string>function.support.expr.var.meta.js, function.support.expr.var.meta.ts, function.support.expr.var.meta.tsx</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
@@ -644,7 +633,7 @@
             <key>name</key>
             <string>Objects</string>
             <key>scope</key>
-            <string>object.other.variable.expr.var.meta.js, object.other.variable.expr.var.meta.ts</string>
+            <string>object.other.variable.expr.var.meta.js, object.other.variable.expr.var.meta.ts, object.other.variable.expr.var.meta.tsx</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
@@ -655,7 +644,7 @@
             <key>name</key>
             <string>Object Bindings</string>
             <key>scope</key>
-            <string>object-binding-pattern-variable.other.variable.expr.var.meta.js, object-binding-pattern-variable.other.variable.expr.var.meta.ts, block.function.support.meta.js, block.function.support.meta.ts</string>
+            <string>object-binding-pattern-variable.other.variable.expr.var.meta.js, object-binding-pattern-variable.other.variable.expr.var.meta.ts, object-binding-pattern-variable.other.variable.expr.var.meta.tsx, block.function.support.meta.js, block.function.support.meta.ts, block.function.support.meta.tsx</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
@@ -666,7 +655,7 @@
             <key>name</key>
             <string>Object property</string>
             <key>scope</key>
-            <string>property.block.function.other.variable.meta.js, property.block.function.other.variable.meta.ts</string>
+            <string>property.block.function.other.variable.meta.js, property.block.function.other.variable.meta.ts, property.block.function.other.variable.meta.tsx</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
@@ -677,7 +666,7 @@
             <key>name</key>
             <string>Node Template Expressions</string>
             <key>scope</key>
-            <string>expression.template.node.meta.js, expression.template.node.meta.ts</string>
+            <string>expression.template.node.meta.js, expression.template.node.meta.ts, expression.template.node.meta.tsx</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
@@ -688,7 +677,7 @@
             <key>name</key>
             <string>Template Function</string>
             <key>scope</key>
-            <string>expression.template.function.support.meta.js, expression.template.function.support.meta.ts</string>
+            <string>expression.template.function.support.meta.js, expression.template.function.support.meta.ts, expression.template.function.support.meta.tsx</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
@@ -699,7 +688,7 @@
             <key>name</key>
             <string>Full var coloring</string>
             <key>scope</key>
-            <string>readwrite.variable.js, readwrite.variable.ts</string>
+            <string>readwrite.variable.js, readwrite.variable.ts, readwrite.variable.tsx</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
@@ -710,7 +699,7 @@
             <key>name</key>
             <string>JS other Vars</string>
             <key>scope</key>
-            <string>other.variable.js, other.variable.ts</string>
+            <string>other.variable.js, other.variable.ts, other.variable.tsx</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
@@ -721,7 +710,7 @@
             <key>name</key>
             <string>JS support Vars</string>
             <key>scope</key>
-            <string>support.variable.js, support.variable.ts</string>
+            <string>support.variable.js, support.variable.ts, support.variable.tsx</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
@@ -732,7 +721,7 @@
             <key>name</key>
             <string>JS support Functions</string>
             <key>scope</key>
-            <string>support.function.expr.var.meta.js,support.function.expr.var.meta.ts</string>
+            <string>support.function.expr.var.meta.js,support.function.expr.var.meta.ts,support.function.expr.var.meta.tsx</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
@@ -743,7 +732,7 @@
             <key>name</key>
             <string>JS console</string>
             <key>scope</key>
-            <string>console.js, console.function.support.class.block.meta.ts</string>
+            <string>console.js, console.function.support.class.block.meta.ts, console.function.support.class.block.meta.tsx</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
@@ -754,7 +743,7 @@
             <key>name</key>
             <string>JS doc verbs</string>
             <key>scope</key>
-            <string>jsdoc.documentation.block.other.variable.meta.js, jsdoc.documentation.block.other.variable.meta.ts</string>
+            <string>jsdoc.documentation.block.other.variable.meta.js, jsdoc.documentation.block.other.variable.meta.ts, jsdoc.documentation.block.other.variable.meta.tsx</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
@@ -765,7 +754,7 @@
             <key>name</key>
             <string>JS doc Vars</string>
             <key>scope</key>
-            <string>jsdoc.class.documentation.block.type.storage.comment.js, jsdoc.class.documentation.block.type.storage.comment.ts</string>
+            <string>jsdoc.class.documentation.block.type.storage.comment.js, jsdoc.class.documentation.block.type.storage.comment.ts, jsdoc.class.documentation.block.type.storage.comment.tsx</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
@@ -776,7 +765,7 @@
             <key>name</key>
             <string>DOM</string>
             <key>scope</key>
-            <string>block.dom.function.support.variable.expr.var.meta.js, block.dom.function.support.variable.expr.var.meta.ts</string>
+            <string>block.dom.function.support.variable.expr.var.meta.js, block.dom.function.support.variable.expr.var.meta.ts, block.dom.function.support.variable.expr.var.meta.tsx</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
@@ -787,7 +776,7 @@
             <key>name</key>
             <string>DOM property</string>
             <key>scope</key>
-            <string>dom.function.support.js, dom.function.support.class.block.meta.ts</string>
+            <string>dom.function.support.js, dom.function.support.class.block.meta.ts, dom.function.support.class.block.meta.tsx</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
@@ -798,7 +787,7 @@
             <key>name</key>
             <string>JavaScript typeof</string>
             <key>scope</key>
-            <string>typeof.keyword.js, typeof.keyword.ts</string>
+            <string>typeof.keyword.js, typeof.keyword.ts, typeof.keyword.tsx</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
@@ -809,7 +798,7 @@
             <key>name</key>
             <string>Constant Objects</string>
             <key>scope</key>
-            <string>object.constant.other.function.block.meta.js, object.constant.other.function.block.meta.ts, object.variable.other.function.meta.block.ts</string>
+            <string>object.constant.other.function.block.meta.js, object.constant.other.function.block.meta.ts, object.constant.other.function.block.meta.tsx, object.constant.other.function.block.meta.js, object.variable.other.function.meta.block.ts, object.variable.other.function.meta.block.tsx</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
@@ -820,7 +809,7 @@
             <key>name</key>
             <string>Var Keyboards</string>
             <key>scope</key>
-            <string>expr.var.type.storage.meta.js, expr.var.type.storage.meta.ts</string>
+            <string>expr.var.type.storage.meta.js, expr.var.type.storage.meta.ts, expr.var.type.storage.meta.tsx</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
@@ -831,7 +820,7 @@
             <key>name</key>
             <string>Built In Types</string>
             <key>scope</key>
-            <string>builtin.class.support.var.function.meta.js, builtin.class.support.var.function.meta.ts</string>
+            <string>builtin.class.support.var.function.meta.js, builtin.class.support.var.function.meta.ts, builtin.class.support.var.function.meta.tsx</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
@@ -842,7 +831,7 @@
             <key>name</key>
             <string>JS Braces</string>
             <key>scope</key>
-            <string>brace.annotation.declaration.meta.js, brace.annotation.declaration.meta.ts</string>
+            <string>brace.annotation.declaration.meta.js, brace.annotation.declaration.meta.ts, brace.annotation.declaration.meta.tsx</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
@@ -853,7 +842,7 @@
             <key>name</key>
             <string>Node Modules</string>
             <key>scope</key>
-            <string>node.module.support.js, node.module.support.ts</string>
+            <string>node.module.support.js, node.module.support.ts, node.module.support.tsx</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
@@ -864,11 +853,33 @@
             <key>name</key>
             <string>support function</string>
             <key>scope</key>
-            <string>function.support.js, function.support.ts</string>
+            <string>function.support.js, function.support.ts, function.support.tsx</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
                 <string>#C94824</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Class modifiers</string>
+            <key>scope</key>
+            <string>modifier.storage.class.meta.js, modifier.storage.class.meta.ts, modifier.storage.class.meta.tsx, export.keyword.control.class.meta.js, export.keyword.control.class.meta.ts, export.keyword.control.class.meta.tsx</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#A56416</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Object</string>
+            <key>scope</key>
+            <string>dom.class.support.expr.var.meta.js, dom.class.support.expr.var.meta.ts, dom.class.support.expr.var.meta.tsx</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#A56416</string>
             </dict>
         </dict>
         <dict>    
@@ -908,7 +919,7 @@
             <key>name</key>
             <string>TypScript Type Cast</string>
             <key>scope</key>
-            <string>cast.expr.ts</string>
+            <string>cast.expr.ts, primitive.annotation.var.type.meta.ts</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
@@ -950,17 +961,6 @@
         </dict>
         <dict>    
             <key>name</key>
-            <string>Super</string>
-            <key>scope</key>
-            <string>super.meta.ts</string>
-            <key>settings</key>
-            <dict>    
-                <key>foreground</key>
-                <string>#B052A1</string>
-            </dict>
-        </dict>
-        <dict>    
-            <key>name</key>
             <string>Type notation</string>
             <key>scope</key>
             <string>begin.typeparameters.annotation.type.declaration.punctuation.meta.ts, end.typeparameters.annotation.type.declaration.punctuation.meta.ts</string>
@@ -968,6 +968,50 @@
             <dict>    
                 <key>foreground</key>
                 <string>#1A1A1A</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Enum</string>
+            <key>scope</key>
+            <string>name.enum.entity.meta.ts</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#C94824</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>function Types</string>
+            <key>scope</key>
+            <string>annotation.meta.ts</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#1A1A1A</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Function definition</string>
+            <key>scope</key>
+            <string>meta.definition.method.ts entity.name.function.ts, meta.definition.function.ts entity.name.function.ts</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#C94824</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Module</string>
+            <key>scope</key>
+            <string>module.ts</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#3778B7</string>
             </dict>
         </dict>
         <dict>    
@@ -1107,6 +1151,17 @@
             <string>String</string>
             <key>scope</key>
             <string>string</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#428226</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>JSX String</string>
+            <key>scope</key>
+            <string>jsx.children.objectliteral.expression.embedded.tag.string.block</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
