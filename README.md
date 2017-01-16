@@ -14,7 +14,7 @@ Now beauty matters but also it’s the psychology that matters. As developers wh
 
 For what we know we all are playful people. We have an active inner child. Our editors must look like playgrounds. We have developed a rainbow colored theme. With worm colors chosen very carefully for the finest code quality possible. 
 
-From what we noticed [iA Writer](https://ia.net/writer) has the most carefully defined experience. We loved the `gold` and `red`/`orange` colors used by their highlighter and inspired by their design we shaped a coding experience that for us was the most joyful look of the code ever possible. 
+From what we noticed [iA Writer](https://ia.net/writer) has the most carefully defined experience. We loved the `gold` and `red`/`orange` colors used by their highlighter and inspired by their design we shaped a coding experience that for us was the most joyful look of the code ever possible.
 
 ## The theme…
 #### JavaScript / TypeScript
@@ -46,6 +46,11 @@ We support Atom and Sublime Text as well, For more information on this please [v
 To use it best, we suggest you use the medium weight of [Hasklig](https://github.com/i-tu/Hasklig) typeface. It's a fork of [Adobe Source Code Pro](https://adobe-fonts.github.io/source-code-pro) with programmer ligatures. Our theme is the best match to this typeface.
 
 ## What's new?
+
+### 10.3.0
+- **New!** &mdash; JSX just got awesome in TypeScript React (TSX files). Supporting 20 new custom tokens.
+- **Fix!** &mdash; Arrow Functions got much better in the recent version.
+- **New!** &mdash; PEG.js Language tokens are added.
 
 ### 10.2.0
 - **New!** &mdash; Great awesome support for JSX in JS and TSX files.
