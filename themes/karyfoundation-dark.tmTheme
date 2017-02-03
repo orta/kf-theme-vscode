@@ -259,7 +259,7 @@
             <key>name</key>
             <string>Variable</string>
             <key>scope</key>
-            <string>variable.readwrite.other.meta</string>
+            <string>variable</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
@@ -352,6 +352,50 @@
             <dict>    
                 <key>foreground</key>
                 <string>#BC9550</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>markdown styles</string>
+            <key>scope</key>
+            <string>markup.bold.markdown, markup.italic.markdown</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#BC9550</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>markdown code</string>
+            <key>scope</key>
+            <string>markup.fenced_code.block.markdown</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#7DA76F</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>markdown image</string>
+            <key>scope</key>
+            <string>meta.image.inline.markdown, string.other.link.description.markdown</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#B98EB2</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>markdown link</string>
+            <key>scope</key>
+            <string>meta.link.inline.markdown, string.other.link.title.markdown</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#819DC2</string>
             </dict>
         </dict>
         <dict>    
@@ -501,7 +545,7 @@
             <key>name</key>
             <string>CSS property</string>
             <key>scope</key>
-            <string>property-name.css</string>
+            <string>support.type.property-name.css</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
@@ -512,7 +556,7 @@
             <key>name</key>
             <string>CSS Constants</string>
             <key>scope</key>
-            <string>constant.other.css</string>
+            <string>constant.other.css, meta.property-value.css</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
@@ -523,11 +567,11 @@
             <key>name</key>
             <string>CSS Constant</string>
             <key>scope</key>
-            <string>constant.meta.support.property-value.css</string>
+            <string>support.constant.property-value.css, support.constant.color.w3c-standard-color-name.css, support.type.property-name.media-feature.media.css</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#B98EB2</string>
+                <string>#D38569</string>
             </dict>
         </dict>
         <dict>    
@@ -554,31 +598,9 @@
         </dict>
         <dict>    
             <key>name</key>
-            <string>JavaScript Object Keys</string>
+            <string>Support Variables</string>
             <key>scope</key>
-            <string>key.js, key.ts, key.tsx</string>
-            <key>settings</key>
-            <dict>    
-                <key>foreground</key>
-                <string>#D38569</string>
-            </dict>
-        </dict>
-        <dict>    
-            <key>name</key>
-            <string>JSX Tag Attribs</string>
-            <key>scope</key>
-            <string>key.tag.js, key.tag.tsx</string>
-            <key>settings</key>
-            <dict>    
-                <key>foreground</key>
-                <string>#7DA76F</string>
-            </dict>
-        </dict>
-        <dict>    
-            <key>name</key>
-            <string>JavaScript Special Keywords</string>
-            <key>scope</key>
-            <string>of.keyword, in.keyword, new.keyword</string>
+            <string>support.variable.object.process, support.variable.property.process, support.variable.property</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
@@ -587,9 +609,9 @@
         </dict>
         <dict>    
             <key>name</key>
-            <string>JavaScript Imports</string>
+            <string>dir names and Stuff</string>
             <key>scope</key>
-            <string>import-export-all.constant.js, import-export-all.constant.ts, import-export-all.constant.tsx</string>
+            <string>support.variable.object.node</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
@@ -598,86 +620,9 @@
         </dict>
         <dict>    
             <key>name</key>
-            <string>Supporting Functions</string>
+            <string>Namespace Object Stuff</string>
             <key>scope</key>
-            <string>function.support.expr.var.meta.js, function.support.expr.var.meta.ts, function.support.expr.var.meta.tsx</string>
-            <key>settings</key>
-            <dict>    
-                <key>foreground</key>
-                <string>#7DA76F</string>
-            </dict>
-        </dict>
-        <dict>    
-            <key>name</key>
-            <string>Objects</string>
-            <key>scope</key>
-            <string>object.other.variable.expr.var.meta.js, object.other.variable.expr.var.meta.ts, object.other.variable.expr.var.meta.tsx</string>
-            <key>settings</key>
-            <dict>    
-                <key>foreground</key>
-                <string>#819DC2</string>
-            </dict>
-        </dict>
-        <dict>    
-            <key>name</key>
-            <string>Object Bindings</string>
-            <key>scope</key>
-            <string>object-binding-pattern-variable.other.variable.expr.var.meta.js, object-binding-pattern-variable.other.variable.expr.var.meta.ts, object-binding-pattern-variable.other.variable.expr.var.meta.tsx, block.function.support.meta.js, block.function.support.meta.ts, block.function.support.meta.tsx</string>
-            <key>settings</key>
-            <dict>    
-                <key>foreground</key>
-                <string>#D38569</string>
-            </dict>
-        </dict>
-        <dict>    
-            <key>name</key>
-            <string>Object property</string>
-            <key>scope</key>
-            <string>property.block.function.other.variable.meta.js, property.block.function.other.variable.meta.ts, property.block.function.other.variable.meta.tsx</string>
-            <key>settings</key>
-            <dict>    
-                <key>foreground</key>
-                <string>#7DA76F</string>
-            </dict>
-        </dict>
-        <dict>    
-            <key>name</key>
-            <string>Node Template Expressions</string>
-            <key>scope</key>
-            <string>expression.template.node.meta.js, expression.template.node.meta.ts, expression.template.node.meta.tsx</string>
-            <key>settings</key>
-            <dict>    
-                <key>foreground</key>
-                <string>#7DA76F</string>
-            </dict>
-        </dict>
-        <dict>    
-            <key>name</key>
-            <string>Template Function</string>
-            <key>scope</key>
-            <string>expression.template.function.support.meta.js, expression.template.function.support.meta.ts, expression.template.function.support.meta.tsx</string>
-            <key>settings</key>
-            <dict>    
-                <key>foreground</key>
-                <string>#D38569</string>
-            </dict>
-        </dict>
-        <dict>    
-            <key>name</key>
-            <string>Full var coloring</string>
-            <key>scope</key>
-            <string>readwrite.variable.js, readwrite.variable.ts, readwrite.variable.tsx</string>
-            <key>settings</key>
-            <dict>    
-                <key>foreground</key>
-                <string>#819DC2</string>
-            </dict>
-        </dict>
-        <dict>    
-            <key>name</key>
-            <string>JS other Vars</string>
-            <key>scope</key>
-            <string>other.variable.js, other.variable.ts, other.variable.tsx</string>
+            <string>variable.other.object, support.constant.math, support.module.node, support.variable.dom, support.class.console</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
@@ -686,97 +631,31 @@
         </dict>
         <dict>    
             <key>name</key>
-            <string>JS support Vars</string>
+            <string>Math properties</string>
             <key>scope</key>
-            <string>support.variable.js, support.variable.ts, support.variable.tsx</string>
+            <string>support.constant.property.math</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#B98EB2</string>
+                <string>#7DA76F</string>
             </dict>
         </dict>
         <dict>    
             <key>name</key>
-            <string>JS support Functions</string>
+            <string>Constant property</string>
             <key>scope</key>
-            <string>support.function.expr.var.meta.js,support.function.expr.var.meta.ts,support.function.expr.var.meta.tsx</string>
-            <key>settings</key>
-            <dict>    
-                <key>foreground</key>
-                <string>#B98EB2</string>
-            </dict>
-        </dict>
-        <dict>    
-            <key>name</key>
-            <string>JS console</string>
-            <key>scope</key>
-            <string>console.js, console.function.support.class.block.meta.ts, console.function.support.class.block.meta.tsx</string>
+            <string>variable.other.object.property</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
                 <string>#BC9550</string>
-            </dict>
-        </dict>
-        <dict>    
-            <key>name</key>
-            <string>JS doc verbs</string>
-            <key>scope</key>
-            <string>jsdoc.documentation.block.other.variable.meta.js, jsdoc.documentation.block.other.variable.meta.ts, jsdoc.documentation.block.other.variable.meta.tsx</string>
-            <key>settings</key>
-            <dict>    
-                <key>foreground</key>
-                <string>#819DC2</string>
-            </dict>
-        </dict>
-        <dict>    
-            <key>name</key>
-            <string>JS doc Vars</string>
-            <key>scope</key>
-            <string>jsdoc.class.documentation.block.type.storage.comment.js, jsdoc.class.documentation.block.type.storage.comment.ts, jsdoc.class.documentation.block.type.storage.comment.tsx</string>
-            <key>settings</key>
-            <dict>    
-                <key>foreground</key>
-                <string>#B98EB2</string>
-            </dict>
-        </dict>
-        <dict>    
-            <key>name</key>
-            <string>DOM</string>
-            <key>scope</key>
-            <string>block.dom.function.support.variable.expr.var.meta.js, block.dom.function.support.variable.expr.var.meta.ts, block.dom.function.support.variable.expr.var.meta.tsx</string>
-            <key>settings</key>
-            <dict>    
-                <key>foreground</key>
-                <string>#D38569</string>
             </dict>
         </dict>
         <dict>    
             <key>name</key>
             <string>DOM property</string>
             <key>scope</key>
-            <string>dom.function.support.js, dom.function.support.class.block.meta.ts, dom.function.support.class.block.meta.tsx</string>
-            <key>settings</key>
-            <dict>    
-                <key>foreground</key>
-                <string>#819DC2</string>
-            </dict>
-        </dict>
-        <dict>    
-            <key>name</key>
-            <string>JavaScript typeof</string>
-            <key>scope</key>
-            <string>typeof.keyword.js, typeof.keyword.ts, typeof.keyword.tsx</string>
-            <key>settings</key>
-            <dict>    
-                <key>foreground</key>
-                <string>#B98EB2</string>
-            </dict>
-        </dict>
-        <dict>    
-            <key>name</key>
-            <string>Constant Objects</string>
-            <key>scope</key>
-            <string>object.constant.other.function.block.meta.js, object.constant.other.function.block.meta.ts, object.constant.other.function.block.meta.tsx, object.constant.other.function.block.meta.js, object.variable.other.function.meta.block.ts, object.variable.other.function.meta.block.tsx</string>
+            <string>support.variable.property.dom, support.class.dom</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
@@ -785,20 +664,9 @@
         </dict>
         <dict>    
             <key>name</key>
-            <string>Var Keyboards</string>
+            <string>Export Keyword</string>
             <key>scope</key>
-            <string>expr.var.type.storage.meta.js, expr.var.type.storage.meta.ts, expr.var.type.storage.meta.tsx</string>
-            <key>settings</key>
-            <dict>    
-                <key>foreground</key>
-                <string>#B98EB2</string>
-            </dict>
-        </dict>
-        <dict>    
-            <key>name</key>
-            <string>Built In Types</string>
-            <key>scope</key>
-            <string>builtin.class.support.var.function.meta.js, builtin.class.support.var.function.meta.ts, builtin.class.support.var.function.meta.tsx</string>
+            <string>keyword.control.export</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
@@ -807,31 +675,9 @@
         </dict>
         <dict>    
             <key>name</key>
-            <string>JS Braces</string>
+            <string>Module Name</string>
             <key>scope</key>
-            <string>brace.annotation.declaration.meta.js, brace.annotation.declaration.meta.ts, brace.annotation.declaration.meta.tsx</string>
-            <key>settings</key>
-            <dict>    
-                <key>foreground</key>
-                <string>#CCCCCC</string>
-            </dict>
-        </dict>
-        <dict>    
-            <key>name</key>
-            <string>Node Modules</string>
-            <key>scope</key>
-            <string>node.module.support.js, node.module.support.ts, node.module.support.tsx</string>
-            <key>settings</key>
-            <dict>    
-                <key>foreground</key>
-                <string>#BC9550</string>
-            </dict>
-        </dict>
-        <dict>    
-            <key>name</key>
-            <string>support function</string>
-            <key>scope</key>
-            <string>function.support.js, function.support.ts, function.support.tsx</string>
+            <string>entity.name.type.module</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
@@ -840,9 +686,9 @@
         </dict>
         <dict>    
             <key>name</key>
-            <string>Class modifiers</string>
+            <string>Built-in classes</string>
             <key>scope</key>
-            <string>modifier.storage.class.meta.js, modifier.storage.class.meta.ts, modifier.storage.class.meta.tsx, export.keyword.control.class.meta.js, export.keyword.control.class.meta.ts, export.keyword.control.class.meta.tsx</string>
+            <string>support.class.builtin</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
@@ -851,31 +697,31 @@
         </dict>
         <dict>    
             <key>name</key>
-            <string>Object</string>
+            <string>Storage Types</string>
             <key>scope</key>
-            <string>dom.class.support.expr.var.meta.js, dom.class.support.expr.var.meta.ts, dom.class.support.expr.var.meta.tsx</string>
+            <string>storage.type</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#BC9550</string>
+                <string>#B98EB2</string>
             </dict>
         </dict>
         <dict>    
             <key>name</key>
-            <string>Arrow Expression</string>
+            <string>Operators</string>
             <key>scope</key>
-            <string>parameter.expression.arrow.js, parameter.expression.arrow.ts, parameter.expression.arrow.tsx, arrow.block.function.type.storage.meta.js, arrow.block.function.type.storage.meta.ts, arrow.block.function.type.storage.meta.tsx, arrow.expr.block.type.storage.meta.js, arrow.expr.block.type.storage.meta.ts, arrow.expr.block.type.storage.meta.tsx, arrow.function.type.storage.meta.tsx</string>
+            <string>keyword.operator.new, keyword.operator.expression.of, keyword.operator.expression.typeof</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#BC9550</string>
+                <string>#B98EB2</string>
             </dict>
         </dict>
         <dict>    
             <key>name</key>
-            <string>TypeScript Namespaces</string>
+            <string>Support Operaotrs</string>
             <key>scope</key>
-            <string>namespace.entity.name.meta.ts, namespace.entity.name.meta.tsx</string>
+            <string>support.function</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
@@ -884,9 +730,20 @@
         </dict>
         <dict>    
             <key>name</key>
-            <string>TypeScript Class Modifiers</string>
+            <string>Class names</string>
             <key>scope</key>
-            <string>storage.modifier.ts, storage.modifier.tsx</string>
+            <string>entity.name.type.class</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#D38569</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Storage Modifiers</string>
+            <key>scope</key>
+            <string>storage.modifier</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
@@ -895,9 +752,31 @@
         </dict>
         <dict>    
             <key>name</key>
-            <string>TypeScript Return Type</string>
+            <string>Builtin Types</string>
             <key>scope</key>
-            <string>primitive.return.type.function.meta.ts, primitive.return.type.function.meta.tsx</string>
+            <string>support.type.builtin</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#7DA76F</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Object Keys</string>
+            <key>scope</key>
+            <string>meta.object-literal.key</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#D38569</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Support Modules</string>
+            <key>scope</key>
+            <string>support.type.object.module</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
@@ -906,31 +785,42 @@
         </dict>
         <dict>    
             <key>name</key>
-            <string>TypScript Type Cast</string>
+            <string>declaration names</string>
             <key>scope</key>
-            <string>cast.expr.ts, cast.expr.tsx, primitive.annotation.var.type.meta.ts, primitive.annotation.var.type.meta.tsx</string>
+            <string>storage.type.namespace, storage.type.function, storage.type.class, storage.type.interface, storage.type.type</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#7DA76F</string>
+                <string>#BC9550</string>
             </dict>
         </dict>
         <dict>    
             <key>name</key>
-            <string>Function Parameters Type</string>
+            <string>Var export</string>
             <key>scope</key>
-            <string>function.parameters.entity.type.ts, function.parameters.entity.type.tsx, primitive.annotation.support.parameters.function.type.meta.ts, primitive.annotation.support.parameters.function.type.meta.tsx</string>
+            <string>meta.var.expr keyword.control.export</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#7DA76F</string>
+                <string>#B98EB2</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>TypeScript Namespace declaration</string>
+            <key>scope</key>
+            <string>meta.namespace.declaration</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#D38569</string>
             </dict>
         </dict>
         <dict>    
             <key>name</key>
             <string>TypeScript Types</string>
             <key>scope</key>
-            <string>primitive.type.ts, primitive.type.tsx, annotation.type.meta.ts, annotation.type.meta.tsx</string>
+            <string>meta.type.annotation, entity.name.type, meta.brace.angle.ts, meta.brace.angle.tsx</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
@@ -939,75 +829,20 @@
         </dict>
         <dict>    
             <key>name</key>
-            <string>TypeScript declaration Types</string>
+            <string>TypeScript Primitive Types</string>
             <key>scope</key>
-            <string>name.entity.type.declaration.block.meta.ts, name.entity.type.declaration.block.meta.tsx</string>
+            <string>support.type.primitive</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#D38569</string>
+                <string>#7DA76F</string>
             </dict>
         </dict>
         <dict>    
             <key>name</key>
-            <string>Type notation</string>
+            <string>Ruby Support classes</string>
             <key>scope</key>
-            <string>begin.typeparameters.annotation.type.declaration.punctuation.meta.ts, begin.typeparameters.annotation.type.declaration.punctuation.meta.tsx, end.typeparameters.annotation.type.declaration.punctuation.meta.ts, end.typeparameters.annotation.type.declaration.punctuation.meta.tsx</string>
-            <key>settings</key>
-            <dict>    
-                <key>foreground</key>
-                <string>#CCCCCC</string>
-            </dict>
-        </dict>
-        <dict>    
-            <key>name</key>
-            <string>Enum</string>
-            <key>scope</key>
-            <string>name.enum.entity.meta.ts, name.enum.entity.meta.tsx</string>
-            <key>settings</key>
-            <dict>    
-                <key>foreground</key>
-                <string>#D38569</string>
-            </dict>
-        </dict>
-        <dict>    
-            <key>name</key>
-            <string>function Types</string>
-            <key>scope</key>
-            <string>annotation.meta.ts, annotation.meta.tsx</string>
-            <key>settings</key>
-            <dict>    
-                <key>foreground</key>
-                <string>#CCCCCC</string>
-            </dict>
-        </dict>
-        <dict>    
-            <key>name</key>
-            <string>Function definition</string>
-            <key>scope</key>
-            <string>meta.definition.method.ts entity.name.function.ts, meta.definition.method.ts entity.name.function.tsx, meta.definition.function.ts entity.name.function.ts, meta.definition.function.ts entity.name.function.tsx</string>
-            <key>settings</key>
-            <dict>    
-                <key>foreground</key>
-                <string>#D38569</string>
-            </dict>
-        </dict>
-        <dict>    
-            <key>name</key>
-            <string>Module</string>
-            <key>scope</key>
-            <string>module.ts, module.tsx</string>
-            <key>settings</key>
-            <dict>    
-                <key>foreground</key>
-                <string>#819DC2</string>
-            </dict>
-        </dict>
-        <dict>    
-            <key>name</key>
-            <string>Module name</string>
-            <key>scope</key>
-            <string>module.name.entity.object.objectliteral.expr.meta.ts, module.name.entity.object.objectliteral.expr.meta.tsx</string>
+            <string>support.class.ruby</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
@@ -1016,46 +851,13 @@
         </dict>
         <dict>    
             <key>name</key>
-            <string>Module Member</string>
+            <string>Ruby Special Methods</string>
             <key>scope</key>
-            <string>member.object.name.entity.meta.ts, member.object.name.entity.meta.tsx</string>
+            <string>keyword.other.special-method.ruby</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
                 <string>#D38569</string>
-            </dict>
-        </dict>
-        <dict>    
-            <key>name</key>
-            <string>TSX Object name</string>
-            <key>scope</key>
-            <string>jsx.expression.embedded.tag.expr.support.arrow.class.block.meta.tsx, jsx.expression.embedded.tag.expr.support.arrow.class.Block.meta.ts</string>
-            <key>settings</key>
-            <dict>    
-                <key>foreground</key>
-                <string>#D38569</string>
-            </dict>
-        </dict>
-        <dict>    
-            <key>name</key>
-            <string>TSX Type Name</string>
-            <key>scope</key>
-            <string>annotation.declaration.type.meta.tsx</string>
-            <key>settings</key>
-            <dict>    
-                <key>foreground</key>
-                <string>#7DA76F</string>
-            </dict>
-        </dict>
-        <dict>    
-            <key>name</key>
-            <string>TSX String</string>
-            <key>scope</key>
-            <string>string.tag.meta.tsx</string>
-            <key>settings</key>
-            <dict>    
-                <key>foreground</key>
-                <string>#7DA76F</string>
             </dict>
         </dict>
         <dict>    
@@ -1139,18 +941,18 @@
             <key>name</key>
             <string>JSON Keys</string>
             <key>scope</key>
-            <string>property-name.json</string>
+            <string>support.type.property-name.json</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#7DA76F</string>
+                <string>#819DC2</string>
             </dict>
         </dict>
         <dict>    
             <key>name</key>
             <string>JSON True False</string>
             <key>scope</key>
-            <string>constant.value.json</string>
+            <string>constant.language.json</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
@@ -1203,9 +1005,9 @@
         </dict>
         <dict>    
             <key>name</key>
-            <string>Brace</string>
+            <string>Braces</string>
             <key>scope</key>
-            <string>brace.literal.meta</string>
+            <string>meta.brace.square.js, meta.brace.square.ts, meta.brace.square.tsx</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
@@ -1214,9 +1016,9 @@
         </dict>
         <dict>    
             <key>name</key>
-            <string>colons</string>
+            <string>Accessors</string>
             <key>scope</key>
-            <string>keyword.annotation.operator.meta</string>
+            <string>punctuation.accessor</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
