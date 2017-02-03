@@ -45,7 +45,28 @@ We support Atom and Sublime Text as well, For more information on this please [v
 ## Good font to use with this theme?
 To use it best, we suggest you use the medium weight of [Hasklig](https://github.com/i-tu/Hasklig) typeface. It's a fork of [Adobe Source Code Pro](https://adobe-fonts.github.io/source-code-pro) with programmer ligatures. Our theme is the best match to this typeface.
 
+## Thanks to
+Thanks to these very awesome people for reporting problems, suggesting ideas and helping us bring new languages to the them.
+- [Dave Redfern](https://github.com/daveredfern)
+- [sladiri](https://github.com/sladiri)
+- [Steve Lombardi](https://github.com/smlombardi)
+- [页一木](https://github.com/Murriouz)
+
+And thanks to these guys at Visual Studio Code's team for always being there when we had a problem and needed hot fixes and or when we asked questions and they answered kindly!
+- [João Moreno](https://github.com/joaomoreno)
+- [Daniel Imms](https://github.com/Tyriar)
+- [Martin Aeschlimann](https://github.com/aeschli)
+- [Johannes Rieken](https://github.com/jrieken)
+- [Alexandru Dima](https://github.com/alexandrudima)
+- [Kai Maetzel](https://github.com/kieferrm)
+- [Benjamin Pasero](https://github.com/bpasero)
+
+And thanks to [Sheetal Nandi](https://github.com/sheetalkamat) for fixing one TypeScript grammar problem for us :D
+
 ## What's new?
+### 11.0.0
+- **Hot Fix!** &mdash; As in Visual Studio Code version **1.9.0**, KF Themes got broken because of the new highlighting system and the new grammar definitions. After a [quick bug report and some talks an the topics](https://github.com/Microsoft/vscode/issues/19734) we we wrote the __Whole JavaScript and TypeScript__ definitions from scratch and pushed this hot fix so that you can enjoy the same theme you had. We are very sorry for this break in the theme and hope you still like this theme.
+- **New!** &mdash; A completely new Markdown experience based on the look of the pageman language is brought to you in this version.
 
 ### 10.3.0
 - **New!** &mdash; JSX just got awesome in TypeScript React (TSX files). Supporting 20 new custom tokens.
