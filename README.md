@@ -64,6 +64,11 @@ And thanks to these guys at Visual Studio Code's team for always being there whe
 And thanks to [Sheetal Nandi](https://github.com/sheetalkamat) for fixing one TypeScript grammar problem for us :D
 
 ## What's new?
+### 11.1.0
+- **New!** &mdash; Now supporting Nearley.js Language
+- **Change!** &mdash; Better JS support, having constants and template strings in better shape.
+- **Change!** &mdash; Better PEG.js support
+
 ### 11.0.0
 - **Hot Fix!** &mdash; As in Visual Studio Code version **1.9.0**, KF Themes got broken because of the new highlighting system and the new grammar definitions. After a [quick bug report and some talks an the topics](https://github.com/Microsoft/vscode/issues/19734) we we wrote the __Whole JavaScript and TypeScript__ definitions from scratch and pushed this hot fix so that you can enjoy the same theme you had. We are very sorry for this break in the theme and hope you still like this theme.
 - **New!** &mdash; A completely new Markdown experience based on the look of the pageman language is brought to you in this version.
