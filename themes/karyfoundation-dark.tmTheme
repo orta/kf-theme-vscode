@@ -301,6 +301,39 @@
         </dict>
         <dict>    
             <key>name</key>
+            <string>Named Objects</string>
+            <key>scope</key>
+            <string>storage.modifier.named.karyscript</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#B98EB2</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Object Keys</string>
+            <key>scope</key>
+            <string>meta.object-literal.key.karyscript</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#819DC2</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Placeholder Names</string>
+            <key>scope</key>
+            <string>constant.language.placeholder.karyscript</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#D38569</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
             <string>Tag name</string>
             <key>scope</key>
             <string>punctuation.definition.tag.html, punctuation.definition.tag.begin, punctuation.definition.tag.end, entity.name.tag</string>
@@ -730,6 +763,17 @@
         </dict>
         <dict>    
             <key>name</key>
+            <string>Support Constants</string>
+            <key>scope</key>
+            <string>support.constant</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#BC9550</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
             <string>Class names</string>
             <key>scope</key>
             <string>entity.name.type.class</string>
@@ -799,6 +843,17 @@
             <string>Var export</string>
             <key>scope</key>
             <string>meta.var.expr keyword.control.export</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#B98EB2</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Template String Expressions</string>
+            <key>scope</key>
+            <string>punctuation.definition.template-expression.begin, punctuation.definition.template-expression.end</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
@@ -972,9 +1027,20 @@
         </dict>
         <dict>    
             <key>name</key>
-            <string>PEG Attributes</string>
+            <string>Nearley Identifiers</string>
             <key>scope</key>
-            <string>attribute.attribute-name.other.entity.pegjs</string>
+            <string>variable.other.property.nearley</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#D38569</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Nearley Operators</string>
+            <key>scope</key>
+            <string>keyword.operator.nearley</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
@@ -983,24 +1049,68 @@
         </dict>
         <dict>    
             <key>name</key>
-            <string>PEG Declerations</string>
+            <string>Nearley Braces</string>
             <key>scope</key>
-            <string>declaration.keyword.pegjs</string>
+            <string>begin.brace.nearley, end.brace.nearley</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#7DA76F</string>
+                <string>#BC9550</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Nearley Signs</string>
+            <key>scope</key>
+            <string>keyword.control.nearley</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#BC9550</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>PEG Attributes</string>
+            <key>scope</key>
+            <string>entity.other.attribute-name.attribute.pegjs</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#819DC2</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>PEG Status</string>
+            <key>scope</key>
+            <string>entity.name.function.pegjs</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#D38569</string>
             </dict>
         </dict>
         <dict>    
             <key>name</key>
             <string>PEG Keyword</string>
             <key>scope</key>
-            <string>operator.keyword.pegjs</string>
+            <string>keyword.operator.pegjs</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
                 <string>#BC9550</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>PEG Sets</string>
+            <key>scope</key>
+            <string>declaration.keyword.pegjs</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#7DA76F</string>
             </dict>
         </dict>
         <dict>    
