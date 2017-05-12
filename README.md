@@ -2,8 +2,7 @@
 
 [![](https://vsmarketplacebadge.apphb.com/version/karyfoundation.theme-karyfoundation-themes.svg) ![](https://vsmarketplacebadge.apphb.com/installs/karyfoundation.theme-karyfoundation-themes.svg)](https://marketplace.visualstudio.com/items?itemName=karyfoundation.theme-karyfoundation-themes) [![](https://img.shields.io/badge/Powered by-themeX-yellow.svg)](https://github.com/karyfoundation/themeX)
 
-
-<img width="673" alt="screen shot 2016-11-25 at 8 16 11 pm" src="https://cloud.githubusercontent.com/assets/2157285/20631494/112699e2-b34c-11e6-83a7-c15589208068.png">
+![](https://cloud.githubusercontent.com/assets/2157285/26003797/fbe3e522-3748-11e7-813f-c479bc4935d3.png)
 
 ## What is this?
 This page obviously is about a syntax theme, but for this one we have somehow a back story that is way different than just different coloring.
@@ -18,32 +17,72 @@ From what we noticed [iA Writer](https://ia.net/writer) has the most carefully d
 
 ## The theme…
 #### JavaScript / TypeScript
-<img width="700" alt="screen shot 2016-11-25 at 6 58 12 pm" src="https://cloud.githubusercontent.com/assets/2157285/20629519/4cd90430-b341-11e6-8993-09ae2773d301.png">
-<img width="706" alt="screen shot 2016-11-25 at 6 58 41 pm" src="https://cloud.githubusercontent.com/assets/2157285/20629520/4d36e60e-b341-11e6-8cba-c2d5315b74ba.png">
+<img width="843" alt="screen shot 2017-05-12 at 7 32 35 pm" src="https://cloud.githubusercontent.com/assets/2157285/26004099/e9395d66-3749-11e7-9128-0108f2cfe553.png">
+<img width="840" alt="screen shot 2017-05-12 at 7 30 59 pm" src="https://cloud.githubusercontent.com/assets/2157285/26004098/e8c6f15e-3749-11e7-8cfc-fdd1be6fbea5.png">
 
-#### Ruby
-<img width="647" alt="screen shot 2016-11-22 at 9 55 03 pm" src="https://cloud.githubusercontent.com/assets/2157285/20538010/ab913f5e-b104-11e6-9364-49528adbfb83.png">
+#### KaryScript
+<img width="788" alt="screen shot 2017-05-12 at 7 49 30 pm" src="https://cloud.githubusercontent.com/assets/2157285/26004777/3c781920-374c-11e7-98c4-7b534d9c092c.png">
 
-#### Arendelle
-<img width="510" alt="screen shot 2016-07-24 at 3 35 36 am" src="https://cloud.githubusercontent.com/assets/2157285/17080732/e87e1a0a-514f-11e6-9227-43aca3767aba.png">
-
-#### CSS / Less
-<img width="626" alt="screen shot 2016-07-23 at 1 00 09 pm" src="https://cloud.githubusercontent.com/assets/2157285/17077053/b0c38b0e-50d7-11e6-831a-82a5df23a0de.png">
+#### CSS / Less / SASS
+<img width="826" alt="screen shot 2017-05-13 at 12 26 34 am" src="https://cloud.githubusercontent.com/assets/2157285/26014699/febbf652-3772-11e7-9617-1cf1db7085ee.png">
 
 #### HTML / XML
-<img width="523" alt="screen shot 2016-07-23 at 4 23 56 am" src="https://cloud.githubusercontent.com/assets/2157285/17077057/ccbf5fcc-50d7-11e6-855c-9521a450f9c5.png">
+<img width="821" alt="screen shot 2017-05-13 at 12 29 01 am" src="https://cloud.githubusercontent.com/assets/2157285/26014757/3f5465d2-3773-11e7-93ea-5aa84c447da2.png">
 
-#### Pageman
-<img width="801" alt="screen shot 2016-07-24 at 3 39 47 am" src="https://cloud.githubusercontent.com/assets/2157285/17080746/7c164e86-5150-11e6-8adf-1dae193d48f6.png">
 
 #### JSON
-<img width="325" alt="screen shot 2016-11-22 at 11 04 25 pm" src="https://cloud.githubusercontent.com/assets/2157285/20538835/16df82e0-b108-11e6-856a-ba020eec01ac.png">
-
-## How to use it?
-We support Atom and Sublime Text as well, For more information on this please [visit here](https://github.com/karyfoundation/karyfoundation.themeX#status)
+<img width="379" alt="screen shot 2017-05-13 at 12 30 03 am" src="https://cloud.githubusercontent.com/assets/2157285/26014790/5f850cf8-3773-11e7-800a-597068098553.png">
 
 ## Good font to use with this theme?
 To use it best, we suggest you use the medium weight of [Hasklig](https://github.com/i-tu/Hasklig) typeface. It's a fork of [Adobe Source Code Pro](https://adobe-fonts.github.io/source-code-pro) with programmer ligatures. Our theme is the best match to this typeface.
+
+## Full Visual Studio Code Experience?
+Currently and unfortunately we use [themeX](https://github.com/karyfoundation/themeX) to generate the themes and we don't support workbench themes. We're working on this to support the full theme experience soon but for now you can paste this settings in your editor settings and have the full theme:
+
+```json
+"workbench.colorCustomizations": {
+    "editor.lineHighlightBackground": "#f2f2f2",
+    "contrastBorder": "#e5e5e5",
+    "peekViewEditor.background": "#E2EEFA",
+    "peekViewResult.background": "#E2EEFA",
+    "focusBorder": "#3778B7",
+    "widget.shadow": "#cccccc",
+    "editorGroup.border": "#E0E0E0",
+    "editorGroupHeader.noTabsBackground": "#f1f1f1",
+    "editorGroup.dropBackground": "#f1f1f1",
+    "editorGroupHeader.tabsBackground": "#f1f1f1",
+    "tab.inactiveBackground": "#f1f1f1",
+    "tab.inactiveForeground": "#aaaaaa",
+    "tab.activeForeground": "#C94824",
+    "tab.border": "#f1f1f1",
+    "tab.activeBackground": "#f1f1f1",
+    "editorWidget.background": "#f7f7f7",
+    "panelTitle.activeBorder": "#B052A1",
+    "titleBar.activeBackground": "#f1f1f1",
+    "button.background": "#3778B7",
+    "input.background": "#ffffff",
+    "input.border": "#ffffff",
+    "editorLineNumber.foreground": "#cccccc",
+    "scrollbarSlider.background": "#DC8564",
+    "scrollbarSlider.activeBackground": "#C94824",
+    "scrollbarSlider.hoverBackground": "#C94824",
+    "list.activeSelectionBackground": "#E2EEFA",
+    "list.activeSelectionForeground": "#3778B7",
+    "list.focusBackground": "#E2EEFF",
+    "list.inactiveSelectionBackground": "#E2EEFA",
+    "list.highlightForeground": "#3778B7",
+    "inputOption.activeBorder": "#C94824",
+    "activityBar.background": "#f1f1f1",
+    "activityBar.foreground": "#aaaaaa",
+    "activityBarBadge.background": "#C94824",
+    "statusBar.background": "#3778B7",
+    "statusBar.noFolderBackground": "#B052A1",
+    "statusBar.debuggingBackground": "#C94824",
+    "sideBarSectionHeader.background": "#f7f7f7",
+    "sideBarTitle.foreground": "#A56416",
+    "sideBar.background": "#f1f1f1"
+},
+```
 
 ## Thanks to
 Thanks to these very awesome people for reporting problems, suggesting ideas and helping us bring new languages to the them.

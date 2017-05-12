@@ -994,6 +994,28 @@
         </dict>
         <dict>    
             <key>name</key>
+            <string>Ruby Functions</string>
+            <key>scope</key>
+            <string>meta.require.ruby</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#D38569</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Ruby Separators</string>
+            <key>scope</key>
+            <string>punctuation.separator.other.ruby</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#BC9550</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
             <string>JSON Keys</string>
             <key>scope</key>
             <string>support.type.property-name.json</string>
