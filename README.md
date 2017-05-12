@@ -64,6 +64,11 @@ And thanks to these guys at Visual Studio Code's team for always being there whe
 And thanks to [Sheetal Nandi](https://github.com/sheetalkamat) for fixing one TypeScript grammar problem for us :D
 
 ## What's new?
+### 12.0.0
+- **New!** &mdash; PHP Language is now officially supported. (Requested by [Dave Redfern](https://github.com/daveredfern) on [\#7](https://github.com/karyfoundation/karyfoundation.themeX/issues/7))
+- **New!** &mdash; SASS Language is now officially supported (Requested by [@coastermcgee](https://github.com/coastermcgee) on [\#8](https://github.com/karyfoundation/karyfoundation.themeX/issues/8))
+- **Fix!** &mdash; The bug with some braces rendering in red is now fully fixed
+
 ### 11.1.0
 - **New!** &mdash; Now supporting Nearley.js Language
 - **Change!** &mdash; Better JS support, having constants and template strings in better shape.

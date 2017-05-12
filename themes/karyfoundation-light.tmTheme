@@ -329,7 +329,7 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#C94824</string>
+                <string>#428226</string>
             </dict>
         </dict>
         <dict>    
@@ -1115,13 +1115,90 @@
         </dict>
         <dict>    
             <key>name</key>
+            <string>Metatag</string>
+            <key>scope</key>
+            <string>punctuation.section.embedded.begin.metatag.php</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#B052A1</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Strings and Texts</string>
+            <key>scope</key>
+            <string>text.html.php</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#428226</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Heredoc</string>
+            <key>scope</key>
+            <string>string.unquoted.heredoc.nowdoc.php</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#B052A1</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Key</string>
+            <key>scope</key>
+            <string>support.type.property-name.scss</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#A56416</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Property List</string>
+            <key>scope</key>
+            <string>meta.property-list.scss</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#3778B7</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Pseudo Class</string>
+            <key>scope</key>
+            <string>meta.property-list.scss</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#428226</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
             <string>Braces</string>
             <key>scope</key>
-            <string>meta.brace.square.js, meta.brace.square.ts, meta.brace.square.tsx</string>
+            <string>punctuation.definition.block.ts, meta.property-list.scss, meta.namespace.declaration.ts, meta.brace</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
                 <string>#1A1A1A</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Comment</string>
+            <key>scope</key>
+            <string>punctuation.definition.comment.ts</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#C7C4C2</string>
             </dict>
         </dict>
         <dict>    
