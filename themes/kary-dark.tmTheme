@@ -444,6 +444,17 @@
         </dict>
         <dict>    
             <key>name</key>
+            <string>Markdown Header</string>
+            <key>scope</key>
+            <string>punctuation.definition.heading.markdown</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#D38569</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
             <string>Pageman Section Commands</string>
             <key>scope</key>
             <string>constant.language.pageman-parts.pageman</string>
@@ -1271,7 +1282,7 @@
             <key>name</key>
             <string>Braces</string>
             <key>scope</key>
-            <string>punctuation.definition.block.ts, meta.property-list.scss, meta.namespace.declaration.ts, meta.brace</string>
+            <string>punctuation.definition.block, punctuation.terminator.statement, punctuation.definition.parameters, punctuation.separator.comma, meta.property-list.scss, meta.namespace.declaration.ts, meta.brace</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
