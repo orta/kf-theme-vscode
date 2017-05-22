@@ -88,10 +88,10 @@ Currently and unfortunately we use [themeX](https://github.com/karyfoundation/th
 Thanks to these very awesome people for reporting problems, suggesting ideas and helping us bring new languages to the them.
 - [@coastermcgee](https//github.com/coastermcgee)
 - [Dave Redfern](https://github.com/daveredfern)
-- [sladiri](https://github.com/sladiri)
+- [@sladiri](https://github.com/sladiri)
 - [Steve Lombardi](https://github.com/smlombardi)
-- [页一木](https://github.com/Murriouz)
 - [@m-thorsen](https://github.com/m-thorsen)
+- [页一木](https://github.com/Murriouz)
 
 And thanks to these guys at Visual Studio Code's team for always being there when we had a problem and needed hot fixes and or when we asked questions and they answered kindly!
 - [João Moreno](https://github.com/joaomoreno)
@@ -105,6 +105,9 @@ And thanks to these guys at Visual Studio Code's team for always being there whe
 And thanks to [Sheetal Nandi](https://github.com/sheetalkamat) for fixing one TypeScript grammar problem for us :D
 
 ## What's new?
+### 12.1.1
+- **Fix!** &mdash; An [issue](https://github.com/karyfoundation/kary.themeX/issues/13) with rendering braces of JavaScript embedded in PHP `<script>` tag &mdash; reported by [@m-thorsen](https://github.com/m-thorsen)
+
 ### 12.1.0
 - **Change!** &mdash; New simpler name!
 - **Fix!** &mdash; We had [a report on PHP support](https://github.com/karyfoundation/kary.themeX/issues/11) (thanks to [m-thorsen](https://github.com/m-thorsen)) and dear [@coastermcgee](https://github.com/coastermcgee) fixed it.
