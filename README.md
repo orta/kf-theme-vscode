@@ -2,8 +2,9 @@
 
 [![](https://vsmarketplacebadge.apphb.com/version/karyfoundation.theme-karyfoundation-themes.svg) ![](https://vsmarketplacebadge.apphb.com/installs/karyfoundation.theme-karyfoundation-themes.svg)](https://marketplace.visualstudio.com/items?itemName=karyfoundation.theme-karyfoundation-themes)[![](https://img.shields.io/badge/Powered by-themeX-yellow.svg)](https://github.com/karyfoundation/themeX)
 
-![screen shot 2017-05-29 at 2 52 42 pm](https://cloud.githubusercontent.com/assets/2157285/26546526/ad2f21aa-447f-11e7-847c-8d0b4cf1fe17.jpg)
-![screen shot 2017-05-29 at 2 51 46 pm](https://cloud.githubusercontent.com/assets/2157285/26546527/ad3d5180-447f-11e7-804e-9338b924fdce.jpg)
+![](https://cloud.githubusercontent.com/assets/2157285/26561141/2adcba3a-44d1-11e7-891c-eb380c331676.jpeg)
+![](https://cloud.githubusercontent.com/assets/2157285/26561140/2adc8c5e-44d1-11e7-8a48-3d5f481b3dc7.jpeg)
+![](https://cloud.githubusercontent.com/assets/2157285/26561139/2a966616-44d1-11e7-9665-30103f4bdca0.jpeg)
 
 
 ## What is this?
@@ -59,6 +60,10 @@ And thanks to these guys at Visual Studio Code's team for always being there whe
 And thanks to [Sheetal Nandi](https://github.com/sheetalkamat) for fixing one TypeScript grammar problem for us :D
 
 ## What's new?
+### 14.0.0
+- **New!** - &mdash; This version includes a new theme called __Minimal Dark__ which features the same preferences as the dark theme but only it has no __orange__ / __red__ on the dark! It's really an interesting new look for the dark.
+- **Fix!** - &mdash; Headers in Markdown had a strange bug that they rendered red color of the light theme in the dark theme. It's now fixed.
+
 ### 13.0.0
 - **New!** - &mdash; Dark Theme now supports full workbench theme!!!
 - **New!** - &mdash; Light Theme now supports full workbench theme!!!
