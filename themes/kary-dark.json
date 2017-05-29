@@ -4,6 +4,9 @@
         "activityBar.background":               "#202020",
         "activityBar.foreground":               "#aaaaaa",
         "activityBarBadge.background":          "#3778B7",
+        "activityBarBadge.foreground":          "#ffffff",
+        "badge.background":                     "#356326",
+        "badge.foreground":                     "#64B748",
         "contrastBorder":                       "#282828",
         "editor.background":                    "#1A1A1A",
         "editor.findMatchBackground":           "#292929",
@@ -65,7 +68,8 @@
         "terminal.ansiYellow":                  "#BC9550",
         "terminal.background":                  "#1a1a1a",
         "terminal.foreground":                  "#CCCCCC",
-        "titleBar.activeBackground":            "#202020"
+        "titleBar.activeBackground":            "#202020",
+        "titleBar.activeForeground":            "#aaaaaa"
 	},
 	"name": "Kary - Dark"
 }
