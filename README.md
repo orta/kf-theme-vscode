@@ -61,13 +61,13 @@ And thanks to [Sheetal Nandi](https://github.com/sheetalkamat) for fixing one Ty
 
 ## What's new?
 ### 14.0.0
-- **New!** - &mdash; This version includes a new theme called __Minimal Dark__ which features the same preferences as the dark theme but only it has no __orange__ / __red__ on the dark! It's really an interesting new look for the dark.
-- **Fix!** - &mdash; Headers in Markdown had a strange bug that they rendered red color of the light theme in the dark theme. It's now fixed.
+- **New!** &mdash; This version includes a new theme called __Minimal Dark__ which features the same preferences as the dark theme but only it has no __orange__ / __red__ on the dark! It's really an interesting new look for the dark.
+- **Fix!** &mdash; Headers in Markdown had a strange bug that they rendered red color of the light theme in the dark theme. It's now fixed.
 
 ### 13.0.0
-- **New!** - &mdash; Dark Theme now supports full workbench theme!!!
-- **New!** - &mdash; Light Theme now supports full workbench theme!!!
-- **Fix!** - &mdash; An [issue](https://github.com/karyfoundation/kary.themeX/issues/14) about PHP HTML background coloring was fixed &mdash; reported by [@m-thorsen](https://github.com/m-thorsen)
+- **New!** &mdash; Dark Theme now supports full workbench theme!!!
+- **New!** &mdash; Light Theme now supports full workbench theme!!!
+- **Fix!** &mdash; An [issue](https://github.com/karyfoundation/kary.themeX/issues/14) about PHP HTML background coloring was fixed &mdash; reported by [@m-thorsen](https://github.com/m-thorsen)
 
 ### 12.1.1
 - **Fix!** &mdash; An [issue](https://github.com/karyfoundation/kary.themeX/issues/13) with rendering braces of JavaScript embedded in PHP `<script>` tag &mdash; reported by [@m-thorsen](https://github.com/m-thorsen)
