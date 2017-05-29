@@ -36,54 +36,6 @@ From what we noticed [iA Writer](https://ia.net/writer) has the most carefully d
 ## Good font to use with this theme?
 To use it best, we suggest you use the medium weight of [Hasklig](https://github.com/i-tu/Hasklig) typeface. It's a fork of [Adobe Source Code Pro](https://adobe-fonts.github.io/source-code-pro) with programmer ligatures. Our theme is the best match to this typeface.
 
-## Full Visual Studio Code Experience?
-Currently and unfortunately we use [themeX](https://github.com/karyfoundation/themeX) to generate the themes and we don't support workbench themes. We're working on this to support the full theme experience soon but for now you can paste this settings in your editor settings and have the full theme:
-
-```json
-"workbench.colorCustomizations": {
-    "editor.lineHighlightBackground": "#f2f2f2",
-    "contrastBorder": "#e5e5e5",
-    "peekViewEditor.background": "#E2EEFA",
-    "peekViewResult.background": "#E2EEFA",
-    "focusBorder": "#3778B7",
-    "widget.shadow": "#cccccc",
-    "editorGroup.border": "#E0E0E0",
-    "editorGroupHeader.noTabsBackground": "#f1f1f1",
-    "editorGroup.dropBackground": "#f1f1f1",
-    "editorGroupHeader.tabsBackground": "#f1f1f1",
-    "tab.inactiveBackground": "#f1f1f1",
-    "tab.inactiveForeground": "#aaaaaa",
-    "tab.activeForeground": "#C94824",
-    "tab.border": "#f1f1f1",
-    "tab.activeBackground": "#f1f1f1",
-    "editorWidget.background": "#f7f7f7",
-    "panelTitle.activeBorder": "#B052A1",
-    "titleBar.activeBackground": "#f1f1f1",
-    "button.background": "#3778B7",
-    "input.background": "#ffffff",
-    "input.border": "#ffffff",
-    "editorLineNumber.foreground": "#cccccc",
-    "scrollbarSlider.background": "#DC8564",
-    "scrollbarSlider.activeBackground": "#C94824",
-    "scrollbarSlider.hoverBackground": "#C94824",
-    "list.activeSelectionBackground": "#E2EEFA",
-    "list.activeSelectionForeground": "#3778B7",
-    "list.focusBackground": "#E2EEFF",
-    "list.inactiveSelectionBackground": "#E2EEFA",
-    "list.highlightForeground": "#3778B7",
-    "inputOption.activeBorder": "#C94824",
-    "activityBar.background": "#f1f1f1",
-    "activityBar.foreground": "#aaaaaa",
-    "activityBarBadge.background": "#C94824",
-    "statusBar.background": "#3778B7",
-    "statusBar.noFolderBackground": "#B052A1",
-    "statusBar.debuggingBackground": "#C94824",
-    "sideBarSectionHeader.background": "#f7f7f7",
-    "sideBarTitle.foreground": "#A56416",
-    "sideBar.background": "#f1f1f1"
-},
-```
-
 ## Thanks to
 Thanks to these very awesome people for reporting problems, suggesting ideas and helping us bring new languages to the them.
 - [@coastermcgee](https//github.com/coastermcgee)
@@ -105,6 +57,10 @@ And thanks to these guys at Visual Studio Code's team for always being there whe
 And thanks to [Sheetal Nandi](https://github.com/sheetalkamat) for fixing one TypeScript grammar problem for us :D
 
 ## What's new?
+### 12.2.0
+- **New!** - &mdash; Light theme is now with workbench theme
+- **Fix!** - &mdash; An [issue](https://github.com/karyfoundation/kary.themeX/issues/14) about PHP HTML background coloring was fixed &mdash; reported by [@m-thorsen](https://github.com/m-thorsen)
+
 ### 12.1.1
 - **Fix!** &mdash; An [issue](https://github.com/karyfoundation/kary.themeX/issues/13) with rendering braces of JavaScript embedded in PHP `<script>` tag &mdash; reported by [@m-thorsen](https://github.com/m-thorsen)
 
