@@ -2,7 +2,9 @@
 
 [![](https://vsmarketplacebadge.apphb.com/version/karyfoundation.theme-karyfoundation-themes.svg) ![](https://vsmarketplacebadge.apphb.com/installs/karyfoundation.theme-karyfoundation-themes.svg)](https://marketplace.visualstudio.com/items?itemName=karyfoundation.theme-karyfoundation-themes)[![](https://img.shields.io/badge/Powered by-themeX-yellow.svg)](https://github.com/karyfoundation/themeX)
 
-![](https://cloud.githubusercontent.com/assets/2157285/26003797/fbe3e522-3748-11e7-813f-c479bc4935d3.png)
+![screen shot 2017-05-29 at 2 52 42 pm](https://cloud.githubusercontent.com/assets/2157285/26546526/ad2f21aa-447f-11e7-847c-8d0b4cf1fe17.jpg)
+![screen shot 2017-05-29 at 2 51 46 pm](https://cloud.githubusercontent.com/assets/2157285/26546527/ad3d5180-447f-11e7-804e-9338b924fdce.jpg)
+
 
 ## What is this?
 This page obviously is about a syntax theme, but for this one we have somehow a back story that is way different than just different coloring.
@@ -57,8 +59,9 @@ And thanks to these guys at Visual Studio Code's team for always being there whe
 And thanks to [Sheetal Nandi](https://github.com/sheetalkamat) for fixing one TypeScript grammar problem for us :D
 
 ## What's new?
-### 12.2.0
-- **New!** - &mdash; Light theme is now with workbench theme
+### 13.0.0
+- **New!** - &mdash; Dark Theme now supports full workbench theme!!!
+- **New!** - &mdash; Light Theme now supports full workbench theme!!!
 - **Fix!** - &mdash; An [issue](https://github.com/karyfoundation/kary.themeX/issues/14) about PHP HTML background coloring was fixed &mdash; reported by [@m-thorsen](https://github.com/m-thorsen)
 
 ### 12.1.1
