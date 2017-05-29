@@ -2,7 +2,7 @@
     "name": "theme-karyfoundation-themes",
     "displayName": "Kary Themes",
     "description": "Kary Foundatin's Candy Theme! Enjoy programming with a stylish theme.",
-    "version": "13.0.0",
+    "version": "14.0.0",
     "publisher": "karyfoundation",
     "icon": "icon.png",
     "repository": {
@@ -30,6 +30,11 @@
                 "label": "Kary － Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/kary-dark.json"
+            },
+            {
+                "label": "Kary － Minimal Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/kary-minimaldark.json"
             }
         ]
     }
