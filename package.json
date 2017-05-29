@@ -2,7 +2,7 @@
     "name": "theme-karyfoundation-themes",
     "displayName": "Kary Themes",
     "description": "Kary Foundatin's Candy Theme! Enjoy programming with a stylish theme.",
-    "version": "12.1.1",
+    "version": "13.0.0",
     "publisher": "karyfoundation",
     "icon": "icon.png",
     "repository": {
@@ -24,12 +24,12 @@
             {
                 "label": "Kary － Light",
                 "uiTheme": "vs",
-                "path": "./themes/kary-light.tmTheme"
+                "path": "./themes/kary-light.json"
             },
             {
                 "label": "Kary － Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/kary-dark.tmTheme"
+                "path": "./themes/kary-dark.json"
             }
         ]
     }
