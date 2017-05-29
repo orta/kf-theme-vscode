@@ -446,7 +446,7 @@
             <key>name</key>
             <string>Markdown Header</string>
             <key>scope</key>
-            <string>punctuation.definition.heading.markdown</string>
+            <string>punctuation.definition.heading.markdown, entity.name.section.markdown, markup.heading.markdown</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
