@@ -47,6 +47,7 @@ Thanks to these very awesome people for reporting problems, suggesting ideas and
 - [Steve Lombardi](https://github.com/smlombardi)
 - [@m-thorsen](https://github.com/m-thorsen)
 - [页一木](https://github.com/Murriouz)
+- []
 
 And thanks to these guys at Visual Studio Code's team for always being there when we had a problem and needed hot fixes and or when we asked questions and they answered kindly!
 - [João Moreno](https://github.com/joaomoreno)
@@ -60,6 +61,10 @@ And thanks to these guys at Visual Studio Code's team for always being there whe
 And thanks to [Sheetal Nandi](https://github.com/sheetalkamat) for fixing one TypeScript grammar problem for us :D
 
 ## What's new?
+### 14.1.0
+- **Fix!** &mdash; We forgot to have a right peek view in the dark theme which we are very sorry for. That must have made all of you guys very upset. In hope that you'll forgive us there is now a very cool peek view in the dark themes and we hope you like it!
+- **New!** &mdash; We'll be supporting haXe language from this version up. 
+
 ### 14.0.0
 - **New!** &mdash; This version includes a new theme called __Minimal Dark__ which features the same preferences as the dark theme but only it has no __orange__ / __red__ on the dark! It's really an interesting new look for the dark.
 - **Fix!** &mdash; Headers in Markdown had a strange bug that they rendered red color of the light theme in the dark theme. It's now fixed.
