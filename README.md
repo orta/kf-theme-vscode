@@ -61,6 +61,15 @@ And thanks to these guys at Visual Studio Code's team for always being there whe
 And thanks to [Sheetal Nandi](https://github.com/sheetalkamat) for fixing one TypeScript grammar problem for us :D
 
 ## What's new?
+### 15.0.0
+- **BIG CHANGES** Dark theme now contains many many many more workbench customizations. (we're getting near full workbench theme.). __NOTE__: It actually takes quite a bit to choose colors and decide what is a better design so we're sorry if it's a slow process. 
+- **New!** Picker view is now fully themed to be pretty in your eyes!
+- **New!** Great PHP support! (We know! we know! we promised to bring good PHP support to the theme but unfortunately the support was not good enough. Well within this release you'll see many many improvements.)
+- **New!** Gutter colors are added.
+- **Fix!** HTML `DOCTYPE` recently went on black. This is fixed now.
+- **New!** CSS `@media` properties are now very better looking.
+- **Fix!** Braces as always! Yes braces sometimes go green in the theme and we have tracked down some new problems with braces and they are all fixed now. Hopping you report the others we couldn't find...
+
 ### 14.1.0
 - **Fix!** &mdash; We forgot to have a right peek view in the dark theme which we are very sorry for. That must have made all of you guys very upset. In hope that you'll forgive us there is now a very cool peek view in the dark themes and we hope you like it!
 - **New!** &mdash; We'll be supporting haXe language from this version up. 
