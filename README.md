@@ -2,10 +2,8 @@
 
 [![](https://vsmarketplacebadge.apphb.com/version/karyfoundation.theme-karyfoundation-themes.svg) ![](https://vsmarketplacebadge.apphb.com/installs/karyfoundation.theme-karyfoundation-themes.svg)](https://marketplace.visualstudio.com/items?itemName=karyfoundation.theme-karyfoundation-themes)[![](https://img.shields.io/badge/Powered by-themeX-yellow.svg)](https://github.com/karyfoundation/themeX)
 
-![](https://cloud.githubusercontent.com/assets/2157285/26561141/2adcba3a-44d1-11e7-891c-eb380c331676.jpeg)
-![](https://cloud.githubusercontent.com/assets/2157285/26561140/2adc8c5e-44d1-11e7-8a48-3d5f481b3dc7.jpeg)
-![](https://cloud.githubusercontent.com/assets/2157285/26561139/2a966616-44d1-11e7-9665-30103f4bdca0.jpeg)
-
+<img width="1278" alt="screen shot 2017-07-27 at 2 26 50 am" src="https://user-images.githubusercontent.com/2157285/28645578-5a855c0e-7273-11e7-8231-f99e7a595a93.png">
+<img width="1280" alt="screen shot 2017-07-27 at 2 26 27 am" src="https://user-images.githubusercontent.com/2157285/28645582-5dcf54d2-7273-11e7-81dd-0e9b90d9928b.png">
 
 ## What is this?
 This page obviously is about a syntax theme, but for this one we have somehow a back story that is way different than just different coloring.
@@ -17,6 +15,10 @@ Now beauty matters but also it’s the psychology that matters. As developers wh
 For what we know we all are playful people. We have an active inner child. Our editors must look like playgrounds. We have developed a rainbow colored theme. With worm colors chosen very carefully for the finest code quality possible. 
 
 From what we noticed [iA Writer](https://ia.net/writer) has the most carefully defined experience. We loved the `gold` and `red`/`orange` colors used by their highlighter and inspired by their design we shaped a coding experience that for us was the most joyful look of the code ever possible.
+
+## Your workbench redesigned.
+Given the possibilities and limitations we have tired our best to fully recolor Visual Studio Code to a new level and make it an entirely new experience which we really hope you like and enjoy!
+![workspace](https://user-images.githubusercontent.com/2157285/28645872-4da1ab5e-7274-11e7-9eee-a7ab6609ac08.png)
 
 ## The theme…
 #### JavaScript / TypeScript
@@ -62,13 +64,15 @@ And thanks to [Sheetal Nandi](https://github.com/sheetalkamat) for fixing one Ty
 
 ## What's new?
 ### 15.0.0
-- **BIG CHANGES** Dark theme now contains many many many more workbench customizations. (we're getting near full workbench theme.). __NOTE__: It actually takes quite a bit to choose colors and decide what is a better design so we're sorry if it's a slow process. 
-- **New!** Picker view is now fully themed to be pretty in your eyes!
-- **New!** Great PHP support! (We know! we know! we promised to bring good PHP support to the theme but unfortunately the support was not good enough. Well within this release you'll see many many improvements.)
-- **New!** Gutter colors are added.
-- **Fix!** HTML `DOCTYPE` recently went on black. This is fixed now.
-- **New!** CSS `@media` properties are now very better looking.
-- **Fix!** Braces as always! Yes braces sometimes go green in the theme and we have tracked down some new problems with braces and they are all fixed now. Hopping you report the others we couldn't find...
+- **BIG CHANGES** &mdash; Dark theme now contains many many many more workbench customizations. (we're getting near full workbench theme.). __NOTE__: It actually takes quite a bit to choose colors and decide what is a better design so we're sorry if it's a slow process. 
+- **New!** &mdash; Picker view is now fully themed to be pretty in your eyes!
+- **New!** &mdash; Great PHP support! (We know! we know! we promised to bring good PHP support to the theme but unfortunately the support was not good enough. Well within this release you'll see many many improvements.)
+- **New!** &mdash; Gutter colors are added.
+- **New!** &mdash; Notifications are now beautified.
+- **New!** &mdash; Button colors are beautified.
+- **Fix!** &mdash; HTML `DOCTYPE` recently went on black. This is fixed now.
+- **New!** &mdash; CSS `@media` properties are now very better looking.
+- **Fix!** &mdash; Braces as always! Yes braces sometimes go green in the theme and we have tracked down some new problems with braces and they are all fixed now. Hopping you report the others we couldn't find...
 
 ### 14.1.0
 - **Fix!** &mdash; We forgot to have a right peek view in the dark theme which we are very sorry for. That must have made all of you guys very upset. In hope that you'll forgive us there is now a very cool peek view in the dark themes and we hope you like it!
