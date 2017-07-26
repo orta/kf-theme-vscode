@@ -6,11 +6,12 @@
     "language": "en",
     // words - list of words to be always considered correct
     "words": [
-        "mdash",
-        "githubusercontent",
         "ddfce",
-        "scrollbar",
-        "minimaldark"
+        "dropdown",
+        "githubusercontent",
+        "mdash",
+        "minimaldark",
+        "scrollbar"
     ],
     // flagWords - list of words to be always considered incorrect
     // This is useful for offensive words and common spelling errors.
