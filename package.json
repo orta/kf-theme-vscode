@@ -27,6 +27,11 @@
                 "path": "./themes/kary-light.json"
             },
             {
+                "label": "Kary － Eye Light",
+                "uiTheme": "vs",
+                "path": "./themes/kary-eye-light.json"
+            },
+            {
                 "label": "Kary － Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/kary-dark.json"
@@ -34,7 +39,7 @@
             {
                 "label": "Kary － Minimal Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/kary-minimaldark.json"
+                "path": "./themes/kary-minimal-dark.json"
             }
         ]
     }
