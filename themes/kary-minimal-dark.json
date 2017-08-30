@@ -1,5 +1,5 @@
 {
-    "tokenColors": "./kary-minimaldark.tmTheme",
+    "tokenColors": "../tmThemes/kary-minimaldark.tmTheme",
 	"colors": {
         "activityBar.background":                       "#202020",
         "activityBar.foreground":                       "#aaaaaa",
@@ -104,6 +104,6 @@
         "titleBar.activeBackground":                    "#202020",
         "titleBar.activeForeground":                    "#aaaaaa",
         "welcomePage.buttonBackground":                 "#202020"
-	},  
+	},
 	"name": "Kary - Dark"
 }
