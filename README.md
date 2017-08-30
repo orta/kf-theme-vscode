@@ -8,11 +8,11 @@
 ## What is this?
 This page obviously is about a syntax theme, but for this one we have somehow a back story that is way different than just different coloring.
 
-When people say beautiful codes they always mean less complexity or clever code but when we say that we mean it for real. The code must look nice when you read it. In order to manage the code we invented [Kary Foundation’s Coding Style (KFCS)](https://github.com/karyfoundation/comment/wiki) and the fact that we have a very restricted way of [coding style](http://kary.us/2015/02/12/arendelle-coding-styles/). 
+When people say beautiful codes they always mean less complexity or clever code but when we say that we mean it for real. The code must look nice when you read it. In order to manage the code we invented [Kary Foundation’s Coding Style (KFCS)](https://github.com/karyfoundation/comment/wiki) and the fact that we have a very restricted way of [coding style](http://kary.us/2015/02/12/arendelle-coding-styles/).
 
-Now beauty matters but also it’s the psychology that matters. As developers what you see all day long is code. So it matters that the code be pretty and it matters that your editor is pretty because well it’s your life happening behind it. But how should it look? what colors must be there? 
+Now beauty matters but also it’s the psychology that matters. As developers what you see all day long is code. So it matters that the code be pretty and it matters that your editor is pretty because well it’s your life happening behind it. But how should it look? what colors must be there?
 
-For what we know we all are playful people. We have an active inner child. Our editors must look like playgrounds. We have developed a rainbow colored theme. With worm colors chosen very carefully for the finest code quality possible. 
+For what we know we all are playful people. We have an active inner child. Our editors must look like playgrounds. We have developed a rainbow colored theme. With worm colors chosen very carefully for the finest code quality possible.
 
 From what we noticed [iA Writer](https://ia.net/writer) has the most carefully defined experience. We loved the `gold` and `red`/`orange` colors used by their highlighter and inspired by their design we shaped a coding experience that for us was the most joyful look of the code ever possible.
 
@@ -43,13 +43,14 @@ To use it best, we suggest you use the medium weight of [Hasklig](https://github
 
 ## Thanks to
 Thanks to these very awesome people for reporting problems, suggesting ideas and helping us bring new languages to the them.
+- [Jiayi Hu](http://github.com/jiayihu)
 - [@coastermcgee](https//github.com/coastermcgee)
 - [Dave Redfern](https://github.com/daveredfern)
 - [@sladiri](https://github.com/sladiri)
 - [Steve Lombardi](https://github.com/smlombardi)
 - [@m-thorsen](https://github.com/m-thorsen)
 - [页一木](https://github.com/Murriouz)
-- []
+- [@transtone](https://github.com/transtone)
 
 And thanks to these guys at Visual Studio Code's team for always being there when we had a problem and needed hot fixes and or when we asked questions and they answered kindly!
 - [João Moreno](https://github.com/joaomoreno)
@@ -63,8 +64,17 @@ And thanks to these guys at Visual Studio Code's team for always being there whe
 And thanks to [Sheetal Nandi](https://github.com/sheetalkamat) for fixing one TypeScript grammar problem for us :D
 
 ## What's new?
+### 15.1.0
+- **New!** &mdash; This version has a new light theme called "Eye Light" which is basically the same as original Kary Light with a darker background for when you feel the light theme is tooo light!
+- **Change!** &mdash; Much much better CSS variable coloring.
+- **Change!** &mdash; JS Docs are improved.
+- **Change!** &mdash; JSX/TSX improvements.
+- **Fix!** &mdash; Many many brace problems in CSS are now addressed within this version.
+- **New!** &mdash; Better XML tag support.
+- **Fix!** &mdash; CSS punctuation are much better now.
+
 ### 15.0.0
-- **BIG CHANGES** &mdash; Dark theme now contains many many many more workbench customizations. (we're getting near full workbench theme.). __NOTE__: It actually takes quite a bit to choose colors and decide what is a better design so we're sorry if it's a slow process. 
+- **BIG CHANGES** &mdash; Dark theme now contains many many many more workbench customizations. (we're getting near full workbench theme.). __NOTE__: It actually takes quite a bit to choose colors and decide what is a better design so we're sorry if it's a slow process.
 - **New!** &mdash; Picker view is now fully themed to be pretty in your eyes!
 - **New!** &mdash; Great PHP support! (We know! we know! we promised to bring good PHP support to the theme but unfortunately the support was not good enough. Well within this release you'll see many many improvements.)
 - **New!** &mdash; Gutter colors are added.
@@ -76,7 +86,7 @@ And thanks to [Sheetal Nandi](https://github.com/sheetalkamat) for fixing one Ty
 
 ### 14.1.0
 - **Fix!** &mdash; We forgot to have a right peek view in the dark theme which we are very sorry for. That must have made all of you guys very upset. In hope that you'll forgive us there is now a very cool peek view in the dark themes and we hope you like it!
-- **New!** &mdash; We'll be supporting haXe language from this version up. 
+- **New!** &mdash; We'll be supporting haXe language from this version up.
 
 ### 14.0.0
 - **New!** &mdash; This version includes a new theme called __Minimal Dark__ which features the same preferences as the dark theme but only it has no __orange__ / __red__ on the dark! It's really an interesting new look for the dark.
