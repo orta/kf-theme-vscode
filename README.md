@@ -66,6 +66,7 @@ And thanks to [Sheetal Nandi](https://github.com/sheetalkamat) for fixing one Ty
 ## What's new?
 ### 15.1.0
 - **New!** &mdash; This version has a new light theme called "Eye Light" which is basically the same as original Kary Light with a darker background for when you feel the light theme is tooo light!
+- **Change!** &mdash; Much better panel view coloring.
 - **Change!** &mdash; Much much better CSS variable coloring.
 - **Change!** &mdash; JS Docs are improved.
 - **Change!** &mdash; JSX/TSX improvements.
