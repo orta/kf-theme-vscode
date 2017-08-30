@@ -1,7 +1,6 @@
 {
     "tokenColors": "../tmThemes/kary-light.tmTheme",
 	"colors": {
-        "editor.lineHighlightBorder":               "#efefef",
         "activityBar.background":                   "#f1f1f1",
         "activityBar.foreground":                   "#aaaaaa",
         "activityBarBadge.background":              "#C94824",
@@ -16,6 +15,7 @@
         "editor.findMatchHighlightBackground":      "#FFF9AE",
         "editor.findRangeHighlightBackground":      "#FFF9AE",
         "editor.lineHighlightBackground":           "#f2f2f2",
+        "editor.lineHighlightBorder":               "#efefef",
         "editor.selectionBackground":               "#E2EEFA",
         "editor.selectionHighlightBackground":      "#FFF9AE",
         "editorCursor.foreground":                  "#00BBEC",
@@ -43,7 +43,9 @@
         "list.inactiveSelectionBackground":         "#E2EEFA",
         "list.inactiveSelectionForeground":         "#3778B7",
         "notification.background":                  "#000000",
-        "panelTitle.activeBorder":                  "#B052A1",
+        "panelTitle.activeBorder":                  "#A56416",
+        "panelTitle.activeForeground":              "#A56416",
+        "panelTitle.inactiveForeground":            "#aaaaaa",
         "peekView.border":                          "#cccccc",
         "peekViewEditor.background":                "#eeeeee",
         "peekViewEditor.matchHighlightBackground":  "#E2EEFB",
