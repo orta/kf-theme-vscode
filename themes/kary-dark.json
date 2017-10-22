@@ -18,6 +18,8 @@
         "editor.findMatchHighlightBackground":          "#292929",
         "editor.findRangeHighlightBackground":          "#292929",
         "editor.selectionHighlightBackground":          "#292929",
+        "editor.wordHighlightBackground":               "#073C59",
+        "editor.wordHighlightStrongBackground":         "#073C59",
         "editorBracketMatch.background":                "#444444",
         "editorBracketMatch.border":                    "#444444",
         "editorCursor.foreground":                      "#16C6F7",
