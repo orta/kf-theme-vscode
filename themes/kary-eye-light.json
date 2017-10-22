@@ -52,6 +52,7 @@
         "list.inactiveSelectionBackground":                     "#E2EEFA",
         "list.inactiveSelectionForeground":                     "#3778B7",
         "notification.background":                              "#000000",
+        "panel.border":                                         "#e5e5e5",
         "panelTitle.activeBorder":                              "#A56416",
         "panelTitle.activeForeground":                          "#A56416",
         "panelTitle.inactiveForeground":                        "#aaaaaa",
