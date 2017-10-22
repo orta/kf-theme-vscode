@@ -89,7 +89,7 @@
         "statusBar.multiFolderBackground":                      "#7DA76F",
         "statusBar.noFolderBackground":                         "#4E2C7A",
         "statusBar.noFolderForeground":                         "#DF96FF",
-        "tab.activeBackground":                                 "#202020",
+        "tab.activeBackground":                                 "#01250021",
         "tab.activeForeground":                                 "#7DA76F",
         "tab.border":                                           "#282828",
         "tab.inactiveBackground":                               "#202020",
