@@ -1,6 +1,7 @@
 {
     "tokenColors": "../tmThemes/kary-light.tmTheme",
 	"colors": {
+        "list.inactiveFocusBackground":                         "#d0e8ff",
         "tab.activeBorder":                                     "#C94824",
         "activityBar.background":                               "#f1f1f1",
         "activityBar.foreground":                               "#aaaaaa",
