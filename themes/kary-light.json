@@ -1,6 +1,7 @@
 {
     "tokenColors": "../tmThemes/kary-light.tmTheme",
 	"colors": {
+        "tab.activeBorder":                                     "#C94824",
         "activityBar.background":                               "#f1f1f1",
         "activityBar.foreground":                               "#aaaaaa",
         "activityBarBadge.background":                          "#C94824",
@@ -39,7 +40,7 @@
         "editorOverviewRuler.wordHighlightStrongForeground":    "#B052A1",
         "editorWarning.foreground":                             "#428226",
         "editorWidget.background":                              "#f7f7f7",
-        "focusBorder":                                          "#aaaaaa",
+        "focusBorder":                                          "#ffdd00",
         "input.background":                                     "#f7f7f7",
         "input.border":                                         "#dddddd",
         "input.foreground":                                     "#3778B7",

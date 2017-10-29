@@ -1,6 +1,11 @@
 {
     "tokenColors": "../tmThemes/kary-minimaldark.tmTheme",
 	"colors": {
+        "tab.activeBorder":                                     "#7DA76F",
+        "editorSuggestWidget.selectedBackground":               "#18354C",
+        "editorSuggestWidget.highlightForeground":              "#AED1FF",
+        "editorSuggestWidget.foreground":                       "#AED1FF",
+        "editorSuggestWidget.border":                           "#282828",
         "panel.border":                                         "#282828",
         "activityBar.background":                               "#202020",
         "activityBar.foreground":                               "#aaaaaa",
