@@ -1,6 +1,7 @@
 {
     "tokenColors": "../tmThemes/kary-light.tmTheme",
 	"colors": {
+        "progressBar.background":                               "#C94824",
         "terminalCursor.background":                            "#ffffff",
         "terminalCursor.foreground":                            "#3CBAEF",
         "activityBar.background":                               "#f1f1f1",
