@@ -5,6 +5,10 @@
     "version": "16.0.1",
     "publisher": "karyfoundation",
     "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#f7f7f7",
+        "theme": "light"
+    },
     "repository": {
         "type": "git",
         "url": "https://github.com/karyfoundation/kary.themeX"
