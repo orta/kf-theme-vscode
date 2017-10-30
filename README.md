@@ -2,8 +2,10 @@
 
 [![](https://vsmarketplacebadge.apphb.com/version/karyfoundation.theme-karyfoundation-themes.svg) ![](https://vsmarketplacebadge.apphb.com/installs/karyfoundation.theme-karyfoundation-themes.svg)](https://marketplace.visualstudio.com/items?itemName=karyfoundation.theme-karyfoundation-themes)[![](https://img.shields.io/badge/Powered by-themeX-yellow.svg)](https://github.com/karyfoundation/themeX)
 
-<img width="1278" alt="screen shot 2017-07-27 at 2 26 50 am" src="https://user-images.githubusercontent.com/2157285/28645578-5a855c0e-7273-11e7-8231-f99e7a595a93.png">
-<img width="1280" alt="screen shot 2017-07-27 at 2 26 27 am" src="https://user-images.githubusercontent.com/2157285/28645582-5dcf54d2-7273-11e7-81dd-0e9b90d9928b.png">
+
+<img width="1239" alt="screen shot 2017-10-30 at 4 37 37 pm" src="https://user-images.githubusercontent.com/2157285/32172443-d4924b5c-bd90-11e7-8124-0f33d126f1b3.png">
+<img width="1246" alt="screen shot 2017-10-30 at 4 37 03 pm" src="https://user-images.githubusercontent.com/2157285/32172441-d46479ca-bd90-11e7-8b36-3ff42e51206d.png">
+
 
 ## What is this?
 This page obviously is about a syntax theme, but for this one we have somehow a back story that is way different than just different coloring.
@@ -15,6 +17,15 @@ Now beauty matters but also it’s the psychology that matters. As developers wh
 For what we know we all are playful people. We have an active inner child. Our editors must look like playgrounds. We have developed a rainbow colored theme. With worm colors chosen very carefully for the finest code quality possible.
 
 From what we noticed [iA Writer](https://ia.net/writer) has the most carefully defined experience. We loved the `gold` and `red`/`orange` colors used by their highlighter and inspired by their design we shaped a coding experience that for us was the most joyful look of the code ever possible.
+
+<br>
+
+<a href="http://www.karyfoundation.org/">
+    <img src="https://user-images.githubusercontent.com/2157285/32173016-d2fda17c-bd92-11e7-9299-c1cc4fa82e72.png" width="400">
+</a>
+
+<br><br><br>
+
 
 ## Your workbench redesigned.
 Given the possibilities and limitations we have tired our best to fully recolor Visual Studio Code to a new level and make it an entirely new experience which we really hope you like and enjoy!
@@ -43,14 +54,18 @@ To use it best, we suggest you use the medium weight of [Hasklig](https://github
 
 ## Thanks to
 Thanks to these very awesome people for reporting problems, suggesting ideas and helping us bring new languages to the them.
-- [Jiayi Hu](http://github.com/jiayihu)
+
 - [@coastermcgee](https//github.com/coastermcgee)
-- [Dave Redfern](https://github.com/daveredfern)
-- [@sladiri](https://github.com/sladiri)
-- [Steve Lombardi](https://github.com/smlombardi)
 - [@m-thorsen](https://github.com/m-thorsen)
-- [页一木](https://github.com/Murriouz)
+- [@sladiri](https://github.com/sladiri)
 - [@transtone](https://github.com/transtone)
+- [Alex Soh](https://github.com/takato1314)
+- [Dave Redfern](https://github.com/daveredfern)
+- [Jiayi Hu](http://github.com/jiayihu)
+- [Mahdi Pourismaiel](https://github.com/mpourismaiel)
+- [Mateusz](https://github.com/moskal91)
+- [Steve Lombardi](https://github.com/smlombardi)
+- [页一木](https://github.com/Murriouz)
 
 And thanks to these guys at Visual Studio Code's team for always being there when we had a problem and needed hot fixes and or when we asked questions and they answered kindly!
 - [João Moreno](https://github.com/joaomoreno)
@@ -64,6 +79,24 @@ And thanks to these guys at Visual Studio Code's team for always being there whe
 And thanks to [Sheetal Nandi](https://github.com/sheetalkamat) for fixing one TypeScript grammar problem for us :D
 
 ## What's new?
+### 16.0.0
+- **New!** &mdash; Much Better Active Tab Colors both in Dark & Light Themes with background color and border colors
+- **New!** &mdash; Matching brace colors added
+- **New!** &mdash; Added custom colors for editor ruler
+- **New!** &mdash; Word hover colors added (fixing [#20](https://github.com/karyfoundation/kary.themeX/issues/20))
+- **New!** &mdash; Improved find match colors (fixing [#20](https://github.com/karyfoundation/kary.themeX/issues/20))
+- **New!** &mdash; Custom Scrollbar is now back with very bold and new colors (fixing [#15](https://github.com/karyfoundation/kary.themeX/issues/15))
+- **New!** &mdash; From this release a forth theme is added to our collection called __Eye Light__ which is still under it's initial heavy development phase. This heme brings a more darker look to the light theme for those of you who find the light theme very bright (fixing [#18](https://github.com/karyfoundation/kary.themeX/issues/18))
+- **New!** &mdash; Widget colors added for the light theme
+- **New!** &mdash; Added `F#` language support
+- **New!** &mdash; Added `AppleScript` language support
+- **Fix!** &mdash; Fixed the coloring of `in` operator in TypeScript and JavaScript
+- **Fix!** &mdash; Improved Files view colors (fixing [#21](https://github.com/karyfoundation/kary.themeX/issues/21))
+- **Fix!** &mdash; Improved PeekView colors (fixing [#19](https://github.com/karyfoundation/kary.themeX/issues/19))
+- **Fix!** &mdash; Improved Terminal colors
+- **Fix!** &mdash; Improved Panel colors
+- **Fix!** &mdash; Improved status bar colors
+
 ### 15.1.0
 - **New!** &mdash; This version has a new light theme called "Eye Light" which is basically the same as original Kary Light with a darker background for when you feel the light theme is tooo light!
 - **Change!** &mdash; Much better panel view coloring.
