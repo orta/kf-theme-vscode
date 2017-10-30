@@ -1,6 +1,8 @@
 {
     "tokenColors": "../tmThemes/kary-light.tmTheme",
 	"colors": {
+        "terminalCursor.background":                            "#ffffff",
+        "terminalCursor.foreground":                            "#3CBAEF",
         "activityBar.background":                               "#f1f1f1",
         "activityBar.foreground":                               "#aaaaaa",
         "activityBarBadge.background":                          "#C94824",

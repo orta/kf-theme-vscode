@@ -1,6 +1,8 @@
 {
     "tokenColors": "../tmThemes/kary-minimaldark.tmTheme",
 	"colors": {
+        "terminalCursor.background":                            "#f7f7f7",
+        "terminalCursor.foreground":                            "#3CBAEF",
         "activityBar.background":                               "#202020",
         "activityBar.foreground":                               "#aaaaaa",
         "activityBarBadge.background":                          "#3778B7",
