@@ -1,6 +1,8 @@
 {
     "tokenColors": "../tmThemes/kary-light.tmTheme",
 	"colors": {
+        "editorWidget.border":                                  "#cccccc",
+        "editorHoverWidget.background":                         "#f7f7f7",
         "progressBar.background":                               "#C94824",
         "terminalCursor.background":                            "#ffffff",
         "terminalCursor.foreground":                            "#3CBAEF",
@@ -45,7 +47,6 @@
         "editorSuggestWidget.selectedBackground":               "#E2EEFA",
         "editorWarning.foreground":                             "#428226",
         "editorWidget.background":                              "#f4f4f4",
-        "editorWidget.border":                                  "#f4f4f4",
         "focusBorder":                                          "#C29547",
         "input.background":                                     "#f7f7f7",
         "input.border":                                         "#dddddd",
