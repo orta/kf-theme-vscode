@@ -64,6 +64,7 @@ Thanks to these very awesome people for reporting problems, suggesting ideas and
 - [Jiayi Hu](http://github.com/jiayihu)
 - [Mahdi Pourismaiel](https://github.com/mpourismaiel)
 - [Mateusz](https://github.com/moskal91)
+- [Orta](https://github.com/orta)
 - [Steve Lombardi](https://github.com/smlombardi)
 - [页一木](https://github.com/Murriouz)
 
