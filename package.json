@@ -1,50 +1,55 @@
 {
-    "name": "theme-karyfoundation-themes",
-    "displayName": "Kary Themes",
-    "description": "Kary Foundation's Candy Theme! Enjoy programming with a stylish theme.",
-    "version": "16.0.1",
-    "publisher": "karyfoundation",
-    "icon": "icon.png",
-    "galleryBanner": {
-        "color": "#f7f7f7",
-        "theme": "light"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/karyfoundation/kary.themeX"
-    },
-    "bugs": {
-        "url": "https://github.com/karyfoundation/kary.themeX/issues"
-    },
-    "homepage": "https://github.com/karyfoundation/kary.themeX",
-    "engines": {
-        "vscode": "^1.7.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Kary － Light",
-                "uiTheme": "vs",
-                "path": "./themes/kary-light.json"
-            },
-            {
-                "label": "Kary － Eye Light",
-                "uiTheme": "vs",
-                "path": "./themes/kary-eye-light.json"
-            },
-            {
-                "label": "Kary － Dark",
-                "uiTheme": "vs-dark",
-                "path": "./themes/kary-dark.json"
-            },
-            {
-                "label": "Kary － Minimal Dark",
-                "uiTheme": "vs-dark",
-                "path": "./themes/kary-minimal-dark.json"
-            }
-        ]
-    }
+	"name": "theme-karyfoundation-themes",
+	"displayName": "Kary Themes",
+	"description": "Kary Foundation's Candy Theme! Enjoy programming with a stylish theme.",
+	"version": "16.0.1",
+	"publisher": "karyfoundation",
+	"icon": "icon.png",
+	"galleryBanner": {
+		"color": "#f7f7f7",
+		"theme": "light"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/karyfoundation/kary.themeX"
+	},
+	"bugs": {
+		"url": "https://github.com/karyfoundation/kary.themeX/issues"
+	},
+	"homepage": "https://github.com/karyfoundation/kary.themeX",
+	"engines": {
+		"vscode": "^1.7.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Kary － Light",
+				"uiTheme": "vs",
+				"path": "./themes/kary-light.json"
+			},
+			{
+				"label": "Kary － Eye Light",
+				"uiTheme": "vs",
+				"path": "./themes/kary-eye-light.json"
+			},
+			{
+				"label": "Kary － Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/kary-dark.json"
+			},
+			{
+				"label": "Kary － Minimal Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/kary-minimal-dark.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "a150991b-031b-457a-b823-ef4c45425a1b",
+		"publisherDisplayName": "Kary Foundation",
+		"publisherId": "00c37c0d-e370-4cc2-8ab3-3fa32a26514a"
+	}
 }
