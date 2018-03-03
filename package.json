@@ -45,7 +45,14 @@
 				"uiTheme": "vs-dark",
 				"path": "./themes/kary-minimal-dark.json"
 			}
-		]
+		],
+		"iconThemes": [
+            {
+                "id": "kary-icons",
+                "label": "Kary",
+                "path": "./icons/icons.json"
+            }
+        ]
 	},
 	"__metadata": {
 		"id": "a150991b-031b-457a-b823-ef4c45425a1b",
