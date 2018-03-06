@@ -270,9 +270,3 @@ And thanks to [Sheetal Nandi](https://github.com/sheetalkamat) for fixing one Ty
 
 #### 1.4.3
 - **New!** &mdash; Custom color for TypeScript class storage modifiers (`public`, `private`, ...)
-
-
-<br />
-<a href="http://www.karyfoundation.org/">
-    <img src="https://user-images.githubusercontent.com/2157285/28680500-c9ca905a-730b-11e7-99bf-2b249d97c17d.png" width="250"/>
-</a>
