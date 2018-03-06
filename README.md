@@ -18,20 +18,23 @@ For what we know we all are playful people. We have an active inner child. Our e
 
 From what we noticed [iA Writer](https://ia.net/writer) has the most carefully defined experience. We loved the `gold` and `red`/`orange` colors used by their highlighter and inspired by their design we shaped a coding experience that for us was the most joyful look of the code ever possible.
 
-<br>
-
-<a href="http://www.karyfoundation.org/">
-    <img src="https://user-images.githubusercontent.com/2157285/32173016-d2fda17c-bd92-11e7-9299-c1cc4fa82e72.png" width="400">
-</a>
-
-<br><br><br>
+<br><br>
 
 
 ## Your workbench redesigned.
 Given the possibilities and limitations we have tired our best to fully recolor Visual Studio Code to a new level and make it an entirely new experience which we really hope you like and enjoy!
 ![workspace](https://user-images.githubusercontent.com/2157285/28645872-4da1ab5e-7274-11e7-9eee-a7ab6609ac08.png)
 
+## Icons
+This theme includes two minimalistic icon packs that are carefully choosen for the style and coloring of this theme. The icons in these sets are designed by [AnhGreen](https://www.flaticon.com/authors/anhgreen) and [Kiranshastry](https://www.flaticon.com/authors/kiranshastry).
+
+![icons-2](https://user-images.githubusercontent.com/2157285/37030223-7195fb3e-214f-11e8-9b3f-d8f76c8747ea.png)
+
+
+
 ## The theme…
+This theme works great on many file formats but it works even better on some very special formats because we provide first class support which means each token of these languages are specifically themed and they will look sublime when you work with them in this theme.
+
 #### JavaScript / TypeScript
 <img width="843" alt="screen shot 2017-05-12 at 7 32 35 pm" src="https://cloud.githubusercontent.com/assets/2157285/26004099/e9395d66-3749-11e7-9128-0108f2cfe553.png">
 <img width="840" alt="screen shot 2017-05-12 at 7 30 59 pm" src="https://cloud.githubusercontent.com/assets/2157285/26004098/e8c6f15e-3749-11e7-8cfc-fdd1be6fbea5.png">
@@ -45,14 +48,28 @@ Given the possibilities and limitations we have tired our best to fully recolor 
 #### HTML / XML
 <img width="821" alt="screen shot 2017-05-13 at 12 29 01 am" src="https://cloud.githubusercontent.com/assets/2157285/26014757/3f5465d2-3773-11e7-93ea-5aa84c447da2.png">
 
+#### C/C++
+<img width="767" alt="screen shot 1396-12-15 at 3 04 07 pm" src="https://user-images.githubusercontent.com/2157285/37030349-e742e66c-214f-11e8-962d-d233dcde3b04.png">
+
+#### Go
+<img width="778" alt="screen shot 1396-12-15 at 3 05 53 pm" src="https://user-images.githubusercontent.com/2157285/37030351-e772b22a-214f-11e8-8cd6-6aa9537dc209.png">
 
 #### JSON
 <img width="379" alt="screen shot 2017-05-13 at 12 30 03 am" src="https://cloud.githubusercontent.com/assets/2157285/26014790/5f850cf8-3773-11e7-800a-597068098553.png">
+
+#### PEGJS
+<img width="721" alt="screen shot 1396-12-15 at 3 08 05 pm" src="https://user-images.githubusercontent.com/2157285/37030437-321e2458-2150-11e8-875f-031babf9c0c9.png">
+
+
 
 ## Good font to use with this theme?
 To use it best, we suggest you use the medium weight of [Hasklig](https://github.com/i-tu/Hasklig) typeface. It's a fork of [Adobe Source Code Pro](https://adobe-fonts.github.io/source-code-pro) with programmer ligatures. Our theme is the best match to this typeface.
 
 ## Thanks to
+These awesome guys who made the high quality icons and shared them for free.
+- [AnhGreen](https://www.flaticon.com/authors/anhgreen)
+- [Kiranshastry](https://www.flaticon.com/authors/kiranshastry).
+
 Thanks to these very awesome people for reporting problems, suggesting ideas and helping us bring new languages to the them.
 
 - [@coastermcgee](https//github.com/coastermcgee)
@@ -80,6 +97,11 @@ And thanks to these guys at Visual Studio Code's team for always being there whe
 And thanks to [Sheetal Nandi](https://github.com/sheetalkamat) for fixing one TypeScript grammar problem for us :D
 
 ## What's new?
+### 17.0.0
+- **New!** &mdash; The hell just got frozen as Kary Themes now offer icons! With this release you'll be able to pick one of the two icon themes fully hormonized and carefully aligned for this theme. They work great on both Light and Dark themes.
+- **New!** &mdash; Go Lang is now officially onboard of the first class supported languages!
+- **New!** &mdash; Hell got even more frozen because we now also support C++ first class! Many many goodies for C++ are included.
+
 ### 16.0.0
 - **New!** &mdash; Much Better Active Tab Colors both in Dark & Light Themes with background color and border colors
 - **New!** &mdash; Matching brace colors added
