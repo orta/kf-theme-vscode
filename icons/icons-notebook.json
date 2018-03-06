@@ -1,24 +1,24 @@
 {
     "fonts": [
         {
-            "id": "kary-icons",
+            "id": "kary-notebook-icons",
             "src": [
                 {
-                    "path": "./icons.woff",
+                    "path": "./Flaticon.woff",
                     "format": "woff"
                 }
             ],
             "weight": "normal",
             "style": "normal",
-            "size": "140%"
+            "size": "120%"
         }
     ],
     "iconDefinitions": {
         "_file": {
-            "fontCharacter": "\\f100"
+            "fontCharacter": "\\f101"
         },
         "_folder": {
-            "fontCharacter": "\\f101"
+            "fontCharacter": "\\f100"
         }
     },
     "file": "_file",

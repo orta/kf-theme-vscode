@@ -48,9 +48,14 @@
 		],
 		"iconThemes": [
             {
-                "id": "kary-icons",
-                "label": "Kary",
-                "path": "./icons/icons.json"
+                "id": "kary-standard-icons",
+                "label": "Kary － Classic",
+                "path": "./icons/icons-standard.json"
+			},
+			{
+                "id": "kary-notebook-icons",
+                "label": "Kary － Notebook",
+                "path": "./icons/icons-notebook.json"
             }
         ]
 	},
