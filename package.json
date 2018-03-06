@@ -56,6 +56,11 @@
                 "id": "kary-notebook-icons",
                 "label": "Kary － Notebook",
                 "path": "./icons/icons-notebook.json"
+			},
+			{
+                "id": "kary-package-icons",
+                "label": "Kary － Package",
+                "path": "./icons/icons-package.json"
             }
         ]
 	},

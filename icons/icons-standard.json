@@ -4,7 +4,7 @@
             "id": "kary-standard-icons",
             "src": [
                 {
-                    "path": "./Flaticon.woff",
+                    "path": "./icons.woff",
                     "format": "woff"
                 }
             ],
