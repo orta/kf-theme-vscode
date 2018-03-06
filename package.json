@@ -1,7 +1,7 @@
 {
-	"name": "theme-karyfoundation-themes",
+	"name": "theme-pmkar-themes",
 	"displayName": "Kary Themes",
-	"description": "Kary Foundation's Candy Theme! Enjoy programming with a stylish theme.",
+	"description": "A Happy Candy Theme! The most carefully designed theme on the planet",
 	"version": "16.0.1",
 	"publisher": "karyfoundation",
 	"icon": "icon.png",
@@ -11,12 +11,12 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/karyfoundation/kary.themeX"
+		"url": "https://github.com/pmkary/kary.themeX"
 	},
 	"bugs": {
-		"url": "https://github.com/karyfoundation/kary.themeX/issues"
+		"url": "https://github.com/pmkary/kary.themeX/issues"
 	},
-	"homepage": "https://github.com/karyfoundation/kary.themeX",
+	"homepage": "https://github.com/pmkary/kary.themeX",
 	"engines": {
 		"vscode": "^1.7.0"
 	},
@@ -66,7 +66,7 @@
 	},
 	"__metadata": {
 		"id": "a150991b-031b-457a-b823-ef4c45425a1b",
-		"publisherDisplayName": "Kary Foundation",
+		"publisherDisplayName": "Pouya Kary",
 		"publisherId": "00c37c0d-e370-4cc2-8ab3-3fa32a26514a"
 	}
 }
