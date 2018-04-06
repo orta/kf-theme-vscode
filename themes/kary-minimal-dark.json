@@ -1,9 +1,7 @@
 {
     "tokenColors": "../tmThemes/kary-minimaldark.tmTheme",
 	"colors": {
-        "terminalCursor.background":                            "#f7f7f7",
-        "terminalCursor.foreground":                            "#3CBAEF",
-        "activityBar.background":                               "#202020",
+                "activityBar.background":                               "#202020",
         "activityBar.foreground":                               "#aaaaaa",
         "activityBarBadge.background":                          "#3778B7",
         "activityBarBadge.foreground":                          "#CAE4FF",
@@ -66,9 +64,10 @@
         "notification.infoForeground":                          "#DF96FF",
         "notification.warningBackground":                       "#053400",
         "notification.warningForeground":                       "#64B748",
-        "panel.border":                                         "#282828",
-        "panelTitle.activeBorder":                              "#B98EB2",
-        "panelTitle.activeForeground":                          "#B98EB2",
+        "panel.background":                                     "#1C211C",
+        "panel.border":                                         "#7CA86D",
+        "panelTitle.activeBorder":                              "#7CA86D",
+        "panelTitle.activeForeground":                          "#7CA86D",
         "panelTitle.inactiveForeground":                        "#a7a7a7",
         "peekView.border":                                      "#BC9550",
         "peekViewEditor.background":                            "#1F180B",
@@ -82,7 +81,6 @@
         "peekViewTitleLabel.foreground":                        "#DC8564",
         "pickerGroup.border":                                   "#282828",
         "pickerGroup.foreground":                               "#7DA76F",
-        "selection.background":                                 "#7DA76F",
         "sideBar.background":                                   "#202020",
         "sideBar.foreground":                                   "#A3A3A3",
         "sideBarSectionHeader.background":                      "#242424",
@@ -117,13 +115,15 @@
         "terminal.ansiRed":                                     "#D38569",
         "terminal.ansiWhite":                                   "#CCCCCC",
         "terminal.ansiYellow":                                  "#BC9550",
-        "terminal.background":                                  "#1a1a1a",
+        "terminal.background":                                  "#1C211C",
         "terminal.foreground":                                  "#CCCCCC",
+        "terminalCursor.background":                            "#f7f7f7",
+        "terminalCursor.foreground":                            "#3CBAEF",
         "textLink.activeForeground":                            "#AED1FF",
         "textLink.foreground":                                  "#819DC2",
         "titleBar.activeBackground":                            "#202020",
         "titleBar.activeForeground":                            "#aaaaaa",
         "welcomePage.buttonBackground":                         "#202020"
 	},
-	"name": "Kary - Dark"
+	"name": "Kary - Minimal Dark"
 }
