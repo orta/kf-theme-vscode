@@ -1,4 +1,4 @@
-# Kary Pro
+# Kary Pro Colors
 
 [![](https://vsmarketplacebadge.apphb.com/version/karyfoundation.theme-karyfoundation-themes.svg) ![](https://vsmarketplacebadge.apphb.com/installs/karyfoundation.theme-karyfoundation-themes.svg)](https://marketplace.visualstudio.com/items?itemName=karyfoundation.theme-karyfoundation-themes)
 
@@ -10,7 +10,7 @@
 ## What is this?
 This page obviously is about a syntax theme, but for this one we have somehow a back story that is way different than just different coloring.
 
-When people say beautiful codes they always mean less complexity or clever code but when we say that we mean it for real. The code must look nice when you read it. In order to manage the code we invented [Kary Foundation’s Coding Style (KFCS)](https://github.com/karyfoundation/comment/wiki) and the fact that we have a very restricted way of [coding style](http://kary.us/2015/02/12/arendelle-coding-styles/).
+When people say beautiful codes they always mean less complexity or clever code but when we say that we mean it for real. The code must look nice when you read it. In order to manage the code we invented [Kary Foundation’s Coding Style (KFCS)](https://github.com/pmkary/comment/wiki) and the fact that we have a very restricted way of [coding style](http://kary.us/2015/02/12/arendelle-coding-styles/).
 
 Now beauty matters but also it’s the psychology that matters. As developers what you see all day long is code. So it matters that the code be pretty and it matters that your editor is pretty because well it’s your life happening behind it. But how should it look? what colors must be there?
 
@@ -98,7 +98,7 @@ And thanks to [Sheetal Nandi](https://github.com/sheetalkamat) for fixing one Ty
 
 ## What's new?
 ### 17.0.0
-- **New!** &mdash; The hell just got frozen as Kary Themes now offer icons! With this release you'll be able to pick one of the two icon themes fully hormonized and carefully aligned for this theme. They work great on both Light and Dark themes.
+- **New!** &mdash; The hell just got frozen as Pro Colors now offer icons! With this release you'll be able to pick one of the two icon themes fully hormonized and carefully aligned for this theme. They work great on both Light and Dark themes.
 - **New!** &mdash; Go Lang is now officially onboard of the first class supported languages!
 - **New!** &mdash; Hell got even more frozen because we now also support C++ first class! Many many goodies for C++ are included.
 
@@ -106,16 +106,16 @@ And thanks to [Sheetal Nandi](https://github.com/sheetalkamat) for fixing one Ty
 - **New!** &mdash; Much Better Active Tab Colors both in Dark & Light Themes with background color and border colors
 - **New!** &mdash; Matching brace colors added
 - **New!** &mdash; Added custom colors for editor ruler
-- **New!** &mdash; Word hover colors added (fixing [#20](https://github.com/karyfoundation/kary.themeX/issues/20))
-- **New!** &mdash; Improved find match colors (fixing [#20](https://github.com/karyfoundation/kary.themeX/issues/20))
-- **New!** &mdash; Custom Scrollbar is now back with very bold and new colors (fixing [#15](https://github.com/karyfoundation/kary.themeX/issues/15))
-- **New!** &mdash; From this release a forth theme is added to our collection called __Eye Light__ which is still under it's initial heavy development phase. This heme brings a more darker look to the light theme for those of you who find the light theme very bright (fixing [#18](https://github.com/karyfoundation/kary.themeX/issues/18))
+- **New!** &mdash; Word hover colors added (fixing [#20](https://github.com/pmkary/kary.themeX/issues/20))
+- **New!** &mdash; Improved find match colors (fixing [#20](https://github.com/pmkary/kary.themeX/issues/20))
+- **New!** &mdash; Custom Scrollbar is now back with very bold and new colors (fixing [#15](https://github.com/pmkary/kary.themeX/issues/15))
+- **New!** &mdash; From this release a forth theme is added to our collection called __Eye Light__ which is still under it's initial heavy development phase. This heme brings a more darker look to the light theme for those of you who find the light theme very bright (fixing [#18](https://github.com/pmkary/kary.themeX/issues/18))
 - **New!** &mdash; Widget colors added for the light theme
 - **New!** &mdash; Added `F#` language support
 - **New!** &mdash; Added `AppleScript` language support
 - **Fix!** &mdash; Fixed the coloring of `in` operator in TypeScript and JavaScript
-- **Fix!** &mdash; Improved Files view colors (fixing [#21](https://github.com/karyfoundation/kary.themeX/issues/21))
-- **Fix!** &mdash; Improved PeekView colors (fixing [#19](https://github.com/karyfoundation/kary.themeX/issues/19))
+- **Fix!** &mdash; Improved Files view colors (fixing [#21](https://github.com/pmkary/kary.themeX/issues/21))
+- **Fix!** &mdash; Improved PeekView colors (fixing [#19](https://github.com/pmkary/kary.themeX/issues/19))
 - **Fix!** &mdash; Improved Terminal colors
 - **Fix!** &mdash; Improved Panel colors
 - **Fix!** &mdash; Improved status bar colors
@@ -152,18 +152,18 @@ And thanks to [Sheetal Nandi](https://github.com/sheetalkamat) for fixing one Ty
 ### 13.0.0
 - **New!** &mdash; Dark Theme now supports full workbench theme!!!
 - **New!** &mdash; Light Theme now supports full workbench theme!!!
-- **Fix!** &mdash; An [issue](https://github.com/karyfoundation/kary.themeX/issues/14) about PHP HTML background coloring was fixed &mdash; reported by [@m-thorsen](https://github.com/m-thorsen)
+- **Fix!** &mdash; An [issue](https://github.com/pmkary/kary.themeX/issues/14) about PHP HTML background coloring was fixed &mdash; reported by [@m-thorsen](https://github.com/m-thorsen)
 
 ### 12.1.1
-- **Fix!** &mdash; An [issue](https://github.com/karyfoundation/kary.themeX/issues/13) with rendering braces of JavaScript embedded in PHP `<script>` tag &mdash; reported by [@m-thorsen](https://github.com/m-thorsen)
+- **Fix!** &mdash; An [issue](https://github.com/pmkary/kary.themeX/issues/13) with rendering braces of JavaScript embedded in PHP `<script>` tag &mdash; reported by [@m-thorsen](https://github.com/m-thorsen)
 
 ### 12.1.0
 - **Change!** &mdash; New simpler name!
-- **Fix!** &mdash; We had [a report on PHP support](https://github.com/karyfoundation/kary.themeX/issues/11) (thanks to [m-thorsen](https://github.com/m-thorsen)) and dear [@coastermcgee](https://github.com/coastermcgee) fixed it.
+- **Fix!** &mdash; We had [a report on PHP support](https://github.com/pmkary/kary.themeX/issues/11) (thanks to [m-thorsen](https://github.com/m-thorsen)) and dear [@coastermcgee](https://github.com/coastermcgee) fixed it.
 
 ### 12.0.0
-- **New!** &mdash; PHP Language is now officially supported. (Requested by [Dave Redfern](https://github.com/daveredfern) on [\#7](https://github.com/karyfoundation/karyfoundation.themeX/issues/7))
-- **New!** &mdash; SASS Language is now officially supported (Requested by [@coastermcgee](https://github.com/coastermcgee) on [\#8](https://github.com/karyfoundation/karyfoundation.themeX/issues/8))
+- **New!** &mdash; PHP Language is now officially supported. (Requested by [Dave Redfern](https://github.com/daveredfern) on [\#7](https://github.com/pmkary/karyfoundation.themeX/issues/7))
+- **New!** &mdash; SASS Language is now officially supported (Requested by [@coastermcgee](https://github.com/coastermcgee) on [\#8](https://github.com/pmkary/karyfoundation.themeX/issues/8))
 - **Fix!** &mdash; The bug with some braces rendering in red is now fully fixed
 
 ### 11.1.0
@@ -248,7 +248,7 @@ And thanks to [Sheetal Nandi](https://github.com/sheetalkamat) for fixing one Ty
 - **Upcoming** &mdash; For the next release we'll be having Babel syntax support.
 
 #### 5.0.0
-- **Change!** &mdash; The theme is now ported to [themeX](https://github.com/karyfoundation/themeX). As the themeX project itself is just started it may take weeks till we develop adaptors for other editors but once we reach there, using one code base we will compile the theme for all the other editors at ever single update. So soon we'll have support for other main big editors. Thanks for being with us till now.
+- **Change!** &mdash; The theme is now ported to [themeX](https://github.com/pmkary/themeX). As the themeX project itself is just started it may take weeks till we develop adaptors for other editors but once we reach there, using one code base we will compile the theme for all the other editors at ever single update. So soon we'll have support for other main big editors. Thanks for being with us till now.
 - **Change!** &mdash; Operators are now blue!
 
 #### 4.0.2
