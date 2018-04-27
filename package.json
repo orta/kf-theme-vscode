@@ -26,22 +26,22 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Kary Pro － Light",
+				"label": "Kary Pro Colors － Light",
 				"uiTheme": "vs",
 				"path": "./themes/kary-light.json"
 			},
 			{
-				"label": "Kary Pro － Eye Light",
+				"label": "Kary Pro Colors － Eye Light",
 				"uiTheme": "vs",
 				"path": "./themes/kary-eye-light.json"
 			},
 			{
-				"label": "Kary Pro － Dark",
+				"label": "Kary Pro Colors － Dark",
 				"uiTheme": "vs-dark",
 				"path": "./themes/kary-dark.json"
 			},
 			{
-				"label": "Kary Pro － Minimal Dark",
+				"label": "Kary Pro Colors － Minimal Dark",
 				"uiTheme": "vs-dark",
 				"path": "./themes/kary-minimal-dark.json"
 			}
@@ -49,12 +49,12 @@
 		"iconThemes": [
             {
                 "id": "kary-standard-icons",
-                "label": "Kary － Classic",
+                "label": "Kary Pro Colors － Classic",
                 "path": "./icons/icons-standard.json"
 			},
 			{
                 "id": "kary-notebook-icons",
-                "label": "Kary － Notebook",
+                "label": "Kary Pro Colors － Notebook",
                 "path": "./icons/icons-notebook.json"
 			}
         ]
