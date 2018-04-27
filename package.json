@@ -1,6 +1,6 @@
 {
 	"name": "theme-karyfoundation-themes",
-	"displayName": "Kary Themes",
+	"displayName": "Kary Pro",
 	"description": "A Happy Candy Theme! The most carefully designed theme on the planet",
 	"version": "17.0.0",
 	"publisher": "karyfoundation",
@@ -26,22 +26,22 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Kary － Light",
+				"label": "Kary Pro － Light",
 				"uiTheme": "vs",
 				"path": "./themes/kary-light.json"
 			},
 			{
-				"label": "Kary － Eye Light",
+				"label": "Kary Pro － Eye Light",
 				"uiTheme": "vs",
 				"path": "./themes/kary-eye-light.json"
 			},
 			{
-				"label": "Kary － Dark",
+				"label": "Kary Pro － Dark",
 				"uiTheme": "vs-dark",
 				"path": "./themes/kary-dark.json"
 			},
 			{
-				"label": "Kary － Minimal Dark",
+				"label": "Kary Pro － Minimal Dark",
 				"uiTheme": "vs-dark",
 				"path": "./themes/kary-minimal-dark.json"
 			}
@@ -56,12 +56,7 @@
                 "id": "kary-notebook-icons",
                 "label": "Kary － Notebook",
                 "path": "./icons/icons-notebook.json"
-			},
-			{
-                "id": "kary-package-icons",
-                "label": "Kary － Package",
-                "path": "./icons/icons-package.json"
-            }
+			}
         ]
 	},
 	"__metadata": {
