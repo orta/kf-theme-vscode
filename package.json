@@ -2,7 +2,7 @@
 	"name": "theme-karyfoundation-themes",
 	"displayName": "Kary Pro Colors",
 	"description": "The famous, carefully harmonized themes loved by thousands.",
-	"version": "18.0.0",
+	"version": "18.0.1",
 	"publisher": "karyfoundation",
 	"icon": "icon.png",
 	"galleryBanner": {
@@ -11,12 +11,12 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/pmkary/colors.themeX"
+		"url": "https://github.com/pmkary/ProColors"
 	},
 	"bugs": {
-		"url": "https://github.com/pmkary/colors.themeX/issues"
+		"url": "https://github.com/pmkary/ProColors/issues"
 	},
-	"homepage": "https://github.com/pmkary/colors.themeX",
+	"homepage": "https://github.com/pmkary/ProColors",
 	"engines": {
 		"vscode": "^1.7.0"
 	},

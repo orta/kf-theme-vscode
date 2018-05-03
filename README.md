@@ -3,20 +3,7 @@
 <img width="1239" alt="screen shot 2017-10-30 at 4 37 37 pm" src="https://user-images.githubusercontent.com/2157285/32172443-d4924b5c-bd90-11e7-8124-0f33d126f1b3.png">
 <img width="1246" alt="screen shot 2017-10-30 at 4 37 03 pm" src="https://user-images.githubusercontent.com/2157285/32172441-d46479ca-bd90-11e7-8b36-3ff42e51206d.png">
 
-
-## What is this?
-This page obviously is about a syntax theme, but for this one we have somehow a back story that is way different than just different coloring.
-
-When people say beautiful codes they always mean less complexity or clever code but when we say that we mean it for real. The code must look nice when you read it. In order to manage the code we invented [Kary Foundation’s Coding Style (KFCS)](https://github.com/pmkary/comment/wiki) and the fact that we have a very restricted way of [coding style](http://kary.us/2015/02/12/arendelle-coding-styles/).
-
-Now beauty matters but also it’s the psychology that matters. As developers what you see all day long is code. So it matters that the code be pretty and it matters that your editor is pretty because well it’s your life happening behind it. But how should it look? what colors must be there?
-
-For what we know we all are playful people. We have an active inner child. Our editors must look like playgrounds. We have developed a rainbow colored theme. With warm colors chosen very carefully for the finest code quality possible.
-
-From what we noticed [iA Writer](https://ia.net/writer) has the most carefully defined experience. We loved the `gold` and `red`/`orange` colors used by their highlighter and inspired by their design we shaped a coding experience that for us was the most joyful look of the code ever possible.
-
 <br><br>
-
 
 ## Your workbench redesigned.
 Given the possibilities and limitations we have tired our best to fully recolor Visual Studio Code to a new level and make it an entirely new experience which we really hope you like and enjoy!
@@ -113,16 +100,16 @@ And thanks to [Sheetal Nandi](https://github.com/sheetalkamat) for fixing one Ty
 - **New!** &mdash; Much Better Active Tab Colors both in Dark & Light Themes with background color and border colors
 - **New!** &mdash; Matching brace colors added
 - **New!** &mdash; Added custom colors for editor ruler
-- **New!** &mdash; Word hover colors added (fixing [#20](https://github.com/pmkary/colors.themeX/issues/20))
-- **New!** &mdash; Improved find match colors (fixing [#20](https://github.com/pmkary/colors.themeX/issues/20))
-- **New!** &mdash; Custom Scrollbar is now back with very bold and new colors (fixing [#15](https://github.com/pmkary/colors.themeX/issues/15))
-- **New!** &mdash; From this release a forth theme is added to our collection called __Eye Light__ which is still under it's initial heavy development phase. This heme brings a more darker look to the light theme for those of you who find the light theme very bright (fixing [#18](https://github.com/pmkary/colors.themeX/issues/18))
+- **New!** &mdash; Word hover colors added (fixing [#20](https://github.com/pmkary/ProColors/issues/20))
+- **New!** &mdash; Improved find match colors (fixing [#20](https://github.com/pmkary/ProColors/issues/20))
+- **New!** &mdash; Custom Scrollbar is now back with very bold and new colors (fixing [#15](https://github.com/pmkary/ProColors/issues/15))
+- **New!** &mdash; From this release a forth theme is added to our collection called __Eye Light__ which is still under it's initial heavy development phase. This heme brings a more darker look to the light theme for those of you who find the light theme very bright (fixing [#18](https://github.com/pmkary/ProColors/issues/18))
 - **New!** &mdash; Widget colors added for the light theme
 - **New!** &mdash; Added `F#` language support
 - **New!** &mdash; Added `AppleScript` language support
 - **Fix!** &mdash; Fixed the coloring of `in` operator in TypeScript and JavaScript
-- **Fix!** &mdash; Improved Files view colors (fixing [#21](https://github.com/pmkary/colors.themeX/issues/21))
-- **Fix!** &mdash; Improved PeekView colors (fixing [#19](https://github.com/pmkary/colors.themeX/issues/19))
+- **Fix!** &mdash; Improved Files view colors (fixing [#21](https://github.com/pmkary/ProColors/issues/21))
+- **Fix!** &mdash; Improved PeekView colors (fixing [#19](https://github.com/pmkary/ProColors/issues/19))
 - **Fix!** &mdash; Improved Terminal colors
 - **Fix!** &mdash; Improved Panel colors
 - **Fix!** &mdash; Improved status bar colors
@@ -159,14 +146,14 @@ And thanks to [Sheetal Nandi](https://github.com/sheetalkamat) for fixing one Ty
 ### 13.0.0
 - **New!** &mdash; Dark Theme now supports full workbench theme!!!
 - **New!** &mdash; Light Theme now supports full workbench theme!!!
-- **Fix!** &mdash; An [issue](https://github.com/pmkary/colors.themeX/issues/14) about PHP HTML background coloring was fixed &mdash; reported by [@m-thorsen](https://github.com/m-thorsen)
+- **Fix!** &mdash; An [issue](https://github.com/pmkary/ProColors/issues/14) about PHP HTML background coloring was fixed &mdash; reported by [@m-thorsen](https://github.com/m-thorsen)
 
 ### 12.1.1
-- **Fix!** &mdash; An [issue](https://github.com/pmkary/colors.themeX/issues/13) with rendering braces of JavaScript embedded in PHP `<script>` tag &mdash; reported by [@m-thorsen](https://github.com/m-thorsen)
+- **Fix!** &mdash; An [issue](https://github.com/pmkary/ProColors/issues/13) with rendering braces of JavaScript embedded in PHP `<script>` tag &mdash; reported by [@m-thorsen](https://github.com/m-thorsen)
 
 ### 12.1.0
 - **Change!** &mdash; New simpler name!
-- **Fix!** &mdash; We had [a report on PHP support](https://github.com/pmkary/colors.themeX/issues/11) (thanks to [m-thorsen](https://github.com/m-thorsen)) and dear [@coastermcgee](https://github.com/coastermcgee) fixed it.
+- **Fix!** &mdash; We had [a report on PHP support](https://github.com/pmkary/ProColors/issues/11) (thanks to [m-thorsen](https://github.com/m-thorsen)) and dear [@coastermcgee](https://github.com/coastermcgee) fixed it.
 
 ### 12.0.0
 - **New!** &mdash; PHP Language is now officially supported. (Requested by [Dave Redfern](https://github.com/daveredfern) on [\#7](https://github.com/pmkary/karyfoundation.themeX/issues/7))
