@@ -11,12 +11,12 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/pmkary/kary.themeX"
+		"url": "https://github.com/pmkary/colors.themeX"
 	},
 	"bugs": {
-		"url": "https://github.com/pmkary/kary.themeX/issues"
+		"url": "https://github.com/pmkary/colors.themeX/issues"
 	},
-	"homepage": "https://github.com/pmkary/kary.themeX",
+	"homepage": "https://github.com/pmkary/colors.themeX",
 	"engines": {
 		"vscode": "^1.7.0"
 	},

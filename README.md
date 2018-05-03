@@ -1,8 +1,5 @@
 # Kary Pro Colors
 
-[![](https://vsmarketplacebadge.apphb.com/version/karyfoundation.theme-karyfoundation-themes.svg) ![](https://vsmarketplacebadge.apphb.com/installs/karyfoundation.theme-karyfoundation-themes.svg)](https://marketplace.visualstudio.com/items?itemName=karyfoundation.theme-karyfoundation-themes)
-
-
 <img width="1239" alt="screen shot 2017-10-30 at 4 37 37 pm" src="https://user-images.githubusercontent.com/2157285/32172443-d4924b5c-bd90-11e7-8124-0f33d126f1b3.png">
 <img width="1246" alt="screen shot 2017-10-30 at 4 37 03 pm" src="https://user-images.githubusercontent.com/2157285/32172441-d46479ca-bd90-11e7-8b36-3ff42e51206d.png">
 
@@ -97,6 +94,16 @@ And thanks to these guys at Visual Studio Code's team for always being there whe
 And thanks to [Sheetal Nandi](https://github.com/sheetalkamat) for fixing one TypeScript grammar problem for us :D
 
 ## What's new?
+### 18.0.0
+- **Change!** &mdash; What is better than a great new name? After the transition of the themes they were renamed and well let's agree that the name wasn't good right? It's now calld "Pro Colors" do you like it?
+- **New!** &mdash; Fish Shell language is now fully supported and I'm going to offer a new extension with even more token customizations
+- **New!** &mdash; GLSL Language is now fully supported!
+- **Fix!** &mdash; More and more CSS tokens are supported!
+- **Fix!** &mdash; Much better C++!
+- **Fix!** &mdash; JavaScript support classes are now supported!
+- **Change!** &mdash; A much improved Terminal look.
+- **Change!** &mdash; Dropdown menus are much more styled now.
+
 ### 17.0.0
 - **New!** &mdash; The hell just got frozen as Pro Colors now offer icons! With this release you'll be able to pick one of the two icon themes fully hormonized and carefully aligned for this theme. They work great on both Light and Dark themes.
 - **New!** &mdash; Go Lang is now officially onboard of the first class supported languages!
@@ -106,16 +113,16 @@ And thanks to [Sheetal Nandi](https://github.com/sheetalkamat) for fixing one Ty
 - **New!** &mdash; Much Better Active Tab Colors both in Dark & Light Themes with background color and border colors
 - **New!** &mdash; Matching brace colors added
 - **New!** &mdash; Added custom colors for editor ruler
-- **New!** &mdash; Word hover colors added (fixing [#20](https://github.com/pmkary/kary.themeX/issues/20))
-- **New!** &mdash; Improved find match colors (fixing [#20](https://github.com/pmkary/kary.themeX/issues/20))
-- **New!** &mdash; Custom Scrollbar is now back with very bold and new colors (fixing [#15](https://github.com/pmkary/kary.themeX/issues/15))
-- **New!** &mdash; From this release a forth theme is added to our collection called __Eye Light__ which is still under it's initial heavy development phase. This heme brings a more darker look to the light theme for those of you who find the light theme very bright (fixing [#18](https://github.com/pmkary/kary.themeX/issues/18))
+- **New!** &mdash; Word hover colors added (fixing [#20](https://github.com/pmkary/colors.themeX/issues/20))
+- **New!** &mdash; Improved find match colors (fixing [#20](https://github.com/pmkary/colors.themeX/issues/20))
+- **New!** &mdash; Custom Scrollbar is now back with very bold and new colors (fixing [#15](https://github.com/pmkary/colors.themeX/issues/15))
+- **New!** &mdash; From this release a forth theme is added to our collection called __Eye Light__ which is still under it's initial heavy development phase. This heme brings a more darker look to the light theme for those of you who find the light theme very bright (fixing [#18](https://github.com/pmkary/colors.themeX/issues/18))
 - **New!** &mdash; Widget colors added for the light theme
 - **New!** &mdash; Added `F#` language support
 - **New!** &mdash; Added `AppleScript` language support
 - **Fix!** &mdash; Fixed the coloring of `in` operator in TypeScript and JavaScript
-- **Fix!** &mdash; Improved Files view colors (fixing [#21](https://github.com/pmkary/kary.themeX/issues/21))
-- **Fix!** &mdash; Improved PeekView colors (fixing [#19](https://github.com/pmkary/kary.themeX/issues/19))
+- **Fix!** &mdash; Improved Files view colors (fixing [#21](https://github.com/pmkary/colors.themeX/issues/21))
+- **Fix!** &mdash; Improved PeekView colors (fixing [#19](https://github.com/pmkary/colors.themeX/issues/19))
 - **Fix!** &mdash; Improved Terminal colors
 - **Fix!** &mdash; Improved Panel colors
 - **Fix!** &mdash; Improved status bar colors
@@ -152,14 +159,14 @@ And thanks to [Sheetal Nandi](https://github.com/sheetalkamat) for fixing one Ty
 ### 13.0.0
 - **New!** &mdash; Dark Theme now supports full workbench theme!!!
 - **New!** &mdash; Light Theme now supports full workbench theme!!!
-- **Fix!** &mdash; An [issue](https://github.com/pmkary/kary.themeX/issues/14) about PHP HTML background coloring was fixed &mdash; reported by [@m-thorsen](https://github.com/m-thorsen)
+- **Fix!** &mdash; An [issue](https://github.com/pmkary/colors.themeX/issues/14) about PHP HTML background coloring was fixed &mdash; reported by [@m-thorsen](https://github.com/m-thorsen)
 
 ### 12.1.1
-- **Fix!** &mdash; An [issue](https://github.com/pmkary/kary.themeX/issues/13) with rendering braces of JavaScript embedded in PHP `<script>` tag &mdash; reported by [@m-thorsen](https://github.com/m-thorsen)
+- **Fix!** &mdash; An [issue](https://github.com/pmkary/colors.themeX/issues/13) with rendering braces of JavaScript embedded in PHP `<script>` tag &mdash; reported by [@m-thorsen](https://github.com/m-thorsen)
 
 ### 12.1.0
 - **Change!** &mdash; New simpler name!
-- **Fix!** &mdash; We had [a report on PHP support](https://github.com/pmkary/kary.themeX/issues/11) (thanks to [m-thorsen](https://github.com/m-thorsen)) and dear [@coastermcgee](https://github.com/coastermcgee) fixed it.
+- **Fix!** &mdash; We had [a report on PHP support](https://github.com/pmkary/colors.themeX/issues/11) (thanks to [m-thorsen](https://github.com/m-thorsen)) and dear [@coastermcgee](https://github.com/coastermcgee) fixed it.
 
 ### 12.0.0
 - **New!** &mdash; PHP Language is now officially supported. (Requested by [Dave Redfern](https://github.com/daveredfern) on [\#7](https://github.com/pmkary/karyfoundation.themeX/issues/7))
