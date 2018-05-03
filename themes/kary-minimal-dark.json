@@ -1,5 +1,5 @@
 {
-    "tokenColors": "../tmThemes/kary-minimaldark.tmTheme",
+    "tokenColors": "../tmThemes/karyprocolors-minimaldark.tmTheme",
 	"colors": {
         "activityBar.background":                               "#202020",
         "activityBar.foreground":                               "#AAAAAA",
