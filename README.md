@@ -54,7 +54,7 @@ These awesome guys who made the high quality icons and shared them for free.
 - [AnhGreen](https://www.flaticon.com/authors/anhgreen)
 - [Kiranshastry](https://www.flaticon.com/authors/kiranshastry).
 
-Thanks to these very awesome people for reporting problems, suggesting ideas and helping us bring new languages to the them.
+Thanks to these very awesome people for reporting problems, suggesting ideas and helping us bring new languages to the theme.
 
 - [@coastermcgee](https//github.com/coastermcgee)
 - [@m-thorsen](https://github.com/m-thorsen)
